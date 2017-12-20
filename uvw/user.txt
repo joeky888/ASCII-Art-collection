@@ -1,0 +1,25 @@
+
+
+The Microsoft MS-DOS.5 User's Guide and Reference says:
+
+To start MS-DOS Editor at the command prompt:
+
+Type edit at the command prompt and press the Enter key
+
+       C> edit
+
+
+---------------------------------------------------------
+
+               STARTING THE DOS EDITOR
+               -----------------------
+
+  /mmm\        /mmm\        /mmm\
+  (O o)        (O O)        (o o)
+    U            U            u           /mmm\
+  ||\  \\        / \\         .           (- -)
+ oOOo__oOOo   _____oOOo  ___________      __u_oOOo
+############  #########  ###########  ################
+(BAD ANSWER)   (RETRY)   (ONCE MORE)  (Bored & Asleep)
+                  -David Bourgin-
+

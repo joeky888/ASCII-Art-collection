@@ -1,0 +1,84 @@
+
+From: Andy C Yu
+
+
+http://members.aol.com/kamuiyoo/index.htm
+[snip kimono in japanese chars]
+ 
+If you go to the website, you can see a gif of what the picture was
+supposed to be. It's actually quite pretty. Problem is, it's rendered with
+japanese characters. Here's my attempt to replicate it using only ascii
+characters:
+ 
+     ,-"-.
+   *Y """-e
+    ()|/)|)
+     )a a 3
+     ( - /
+     .) (.
+   ./ \V/ /\.
+  /  \ Y /   \.
+ / /\_\(/__/\  \
+ |\ |      |   / D
+ |_( D=oo==|  //
+/   /======)  Y
+|   ||     |  |
+|   ||     |  |
+|  *||     |@ |
+| * ||    @| *|
+| * ||   @ | *|
+|  /|| .:*@|\/
+    ||_____|
+      C C X
+ 
+The hands are formed with hiragana tsu's but, I couldn't find an ascii
+equivalent, so I just use 'D's.
+ 
+The bangs are formed with hiragana no's and katakana ha's which I could
+only approximate with slashes and parentheses.
+ 
+The middle of the sash had an infinity symbol and the hair piece had a
+couple gamma's in there. So, I replaced the infinity with 'oo' and just
+redid the hair.
+
+ 
+I couldn't figure out what the artist was doing with the sandals at all.
+Two hiragana to's and one katakana me. Best approximated with 'C' and 'X'.
+ 
+
+
+
+
+
+
+
+
+
+
+
+    _____________________________________   *******
+   |%             %\     /%             %|  |/////|
+   |%              %\   /%              %|  |\\\\\|
+   |%               %\ /%               %|  |/////|
+   |%                 /%                %|  |\\\\\|
+   |%_________       /%         ________%|  |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+              |     |%        |             |\\\\\|
+              |     |%        |             |/////|
+   ejm        |_____|%________|             |\\\\\|
+                                            *******
+ 
+ 

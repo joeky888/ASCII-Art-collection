@@ -1,0 +1,1202 @@
+
+See 'comic_people' for characters from famous comics
+and 'action' for another comic!
+
+
+
+
+
+
+               m$$$$L               d$$b    c$$$$c   d$ d$b
+             J$$P  m$$$          $$ $P ?$  $$P  d$b J$$$P ?$L
+             $$$b           4$$   $$P  c$  $$cc$$P  $$$
+              $$$$b     $$$  $$$  $$$$$P   $$m      $$P
+                 $$$b   $$$  4$$$  $$$      ?$$$$   $$P
+                   $$bc  $$bd$ $$P $$P __     __     __   _
+         c$$$m      $$$L  `$P        _)  \  _) |_  __) \ _)\
+         ?$$$$L   J$$$P             |  `- | |__  \ | ' / | |
+           `$$$$$$$$P                \__|_/ |____/ |_|_\ |_|
+
+                 __________________  / 3 \  ___________________
+             ______________________\//   \\/________________________
+                                   \'     `/
+
+
+                   SUPER ASKI AGAINST THE UGLY NINJA FISH!
+
+   Super Aski is the first serbian ascii comic,that means it's made of pure
+  Ascii characters. That way it's apsolutely the same when looked at on all
+  platforms.  All  the  credist  go  to  MasterMind  /FACE (for drawing the
+  ascii's and  the  screenplay),  as  to  User  /  FUSION  for  help on the
+  screenplay. You can  contact  MasterMind  trough  e-mail  at  the  adress
+  mastermind@sezampro.yu.
+
+
+   You  can  view  this comic from any viewer or editor on any platform. It
+  looks a hell of a  lot  better  when  looked  at  80x50 text mode (on PC,
+  alt-F9 from the NC or mode con:lines=50 from dos)
+
+   You can copy and distribute this comic  freely  as  long  as  you  don't
+  change  anything  in  it  and  it's  distributed  by it's original name,
+  supe003.zip
+
+   All the adventures of Super  Aski  can  be  downloaded from WWW from the
+  adress   http://fon.fon.bg.ac.yu/~gojkoa/supe00x.zip
+
+
+   filename      name of the episode                         date of release
+
+   supe001.zip  Super Aski vs. the little green monsters !   30.09.1997.
+   supe002.zip  Super Aski vs. the monster from the swamps!  08.10.1997.
+   supe003.zip  Super Aski vs. the ugly ninja fish!          26.10.1997.
+
+
+
+
+
+  -----        _./     _                                              ------
+  ---    .    |/o`p   (")     _____                             _____    ---
+  --         / \ ')   //      |||||-r-------------------------t-|||||     --
+  -             \.\===/       ||| |-| The Adventures of       |-||| |      -
+  -      (")___//\__\_________LLLLL-| Super Aski,             |-||| |      -
+  -       `````' / /\ \   ..  || ||-| the first serbian pure  |-|| ||      -
+  --   ..       | | /_/_      ||| |-| ascii superhero.        |-||| |     --
+  ---       ;  / ;/ ----'     || ||-L_________________________|-|| ||    ---
+  ------       `''  """ ''    """""                             """"" ------
+ |-------------------------------------------------------- 30.08.1997 ------|
+          - idea,design and all other shit - MASTERMIND@SEZAMPRO.YU -
+         - screenplay & translating to english - AGENT99@MINDLESS.COM -
+
+ //\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\
+
+      Super Aski is a superhero made  only of pure ascii characters. Unlike
+     all the other superheroes he doens't dress in sleeping clothes when he
+     goes to action, because he is ugly enough even without them. Women are
+     simply crazy about him and he also has an unbeleavable gift for action
+     and an exceptional knowlege of  one  and  a  half  martshall  art.  He
+     doesn't  speek  any of the foreign languages, and none of the domestic
+     also. His favorit  group  is  Orange  and  he  thinks that their intro
+     'Robot' is the best porno movie he has ever seen. In his spare time he
+     does crosswords from various domestic and foreign enigmatic papers and
+     looks from his window to the city dump. He is an unreplaceable fighter
+     against injustice and he cal also serve as a  lamp  foundation.  Super
+     Aski  doesn't  have a younger brother but look a whole lot better when
+     looked at in 80x50 mode. Some  of  the things Super Aski does are done
+     by trained profesionals and you shouldn't try to do this at  home.  If
+     you  like  him  and  you would like to see the second episode, contact
+     MasterMind...
+
+
+
+
+
+ \\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/
+ \\                                                       //\//\//\//\//\//\
+ // EPIZODE 1: Super Aski against little green monsters!  \\/\\/\\/\\/\\/\\/
+ \\                                                       //\//\//\//\//\//\
+ //\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\
+ _________________________________________________________________
+| On the begining of the new episodes we find our superhero in a  |
+| painting job in his apartment...                                |
+|--------------------------------------------_____________________|_________
+|     |                ______________        |                              |
+|  /| |    _________ (  mmmm         )       |                              |
+| / | |   |         | \  Ah Ah AAA  /        |  but, unfortunatelly, the    |
+|/|/| |   |   WC    | /__----------'         |  phone again rang in the     |
+|/|/  |   |       _ |         _______________|   worst moment...            |
+| /   |   |        O|        |              ___                             |
+|     |   |         |        |  Ring       / _ \_      Our readers sure know|
+|     |   |         |        |     Ring    \_\\_ \_ allready that out hero  |
+|     |___|_________|_______ |       Ring    /\_\_ \_ doesn't give up easily|
+|     /                      |             /_   \/   \ and when the phone   |
+|    /   /\/\/\/\/\/\/\/\/\  |  _______  / / )  /\_S_/  rang three times,   |
+|   /   \/\/\/\/\/\/\/\/\/\/ | |\\\\\\\ ( (_/ /    S|\   his WC was allready|
+|  /   /\/\/\/\/\/\/\/\/\/\/ | ||\\\\\\\ \  /    S S| \    freshly painted. |
+|___________________________1| |||\\\\\\\ \(______S/  \\\                   |
+| Using his unbeleavable     |_____________________________________________2|
+| manuvering skills which he learned   |                                    |
+| during his few years long undercover ||           |||||||||||||||         |
+| missiom in a circus when he was very ||  _____    |||||||||||||||         |
+| young, Super Aski dressed up with    || |     |   ||| __     __ |         |
+| only one hand, while his other hand  /| | (-: |  _|| /  \   /  \|         |
+| bravely, with a lot of effort and   | | |_____| (     _o) \  _o)|         |
+| not without casualties raised the   | |          \\        \    |         |
+| phone hook on it's own.             | |           \_    (_  ))  )         |
+|                ____                 | |           |       `'    /         |
+|              _/     \               | |           | |    ___ .SSS         |
+|             / \  /  /               | |           | |   \_---' | SS       |
+|            / \ |_\./                | |           | |           \  S      |
+|           / \ |'_)                  | |________   | |  `.        ) S ____ |
+|          ( \ |' /                   |          _/\\__\ _________/   S     |
+|         /|`\|   \                   |         \/_/\___________/ \ _  S    |
+|        ( (   )\  \_                 |       ||___`______________/__\  S   |
+|         S___/  \   \                |                                     |
+|         S       \   \               | But, our superhero was either too   |
+|        S         \ __)_             | hungry to talk over the phone now,  |
+|       S           \_   \__          | or perhaps to stupid to notice that |
+|   _SS"              \_    \_        | the thing in his hand was not a     |
+|  S                    \     \       | biscuit. Anyway, while you are      |
+|                                     | reading this, he is cheeing on that |
+|____________________________________3| unfortunate phone hook.             |
+| Allthough his grandfather Smiley    |___________________________________4_|
+| is laughing to him right now from the painting on the wall behind him, for|
+| Super Aski this was nothing new. This was his fifth phone this monts. But,|
+| that doesn't change the fact that he lost an oportunity to respond to an  |
+| urgent call from an old lady whose siamese cat got hurt in a fight with   |
+| her nothing less siamese twin. If he knew that, our hero wouldn't be anno-|
+| yed by the fact that he will, because of the 10000-th missed good deed, be|
+| thrown out of the Independant Super Hero Club, in wich the most of the    |
+| members, including Superman and batman as well as Rambo from part one to  |
+| three, envy him for his unbeleavable popularity, but with the fact that   |
+| he ussualy gets layed when it comes to old ladies. But, have no worry     |
+| dear readers, something will come up yet...                               |
+|________________________________________________________________________5__|
+| Just when we thought nothing  inte-| Super Aski joyfully shouted 'Oh,     |
+| resting is going to happen, the sky| fuck, not again ?!' and left his top |
+| above the little town in cetral    | secret downtown apartment to check   |
+| Africa in wich Super Aski lived was| why he was called upon now...        |
+| enlighted by Super Askii's sign,   |                                      |
+| Like the one Batman has, but way   |                The fact that he left |
+| low budget...                      |    _________  trough the window did  |
+|                                    |  /        / | not worry him much, at |
+|         .'''.        __          __| _________//|| least not untill he,   |
+|        :  @  :      (  )        (  |         ||/ |   under the worh of    |
+|         `...';.      ||   ____   ||| H H H H |  _ o   strange,and unknown |
+|      __    `:;;_ _   ||--/    \--|||         |   O\   to him, force G     |
+|     /_/||    `;;)/|  ||  | .. ___  | H H H H |  /\    reached the first   |
+|   __|.|||   _|. |.| ___ \|_|||   |-|         |   .    floor level.        |
+| |\ _| ||/| | |..|.||\__\     | __|_| H H H H |   |                        |
+| |.| |.||/ /\ |  | |||. .|    |_|   |         |   |                        |
+|  \| | |/ |__||. |/ `|___|      |___|         |   |                        |
+|_________________________________6__|___________________________________7__|
+| Our hero again had more luch than brains,                      |          |
+| wich he has none, and instead of falling on     __________     | the      |
+| the grownd and breaking his balls he fell      ( OPASNOS' )    | sponsor  |
+| in an open shaft and the water (yeah, right,    ||--------'    | of this  |
+| sure it was water) softed his fall. Alive,   .  ||             | episode  |
+| and even more, with a very interesting      | \ \/             |  is the  |
+| scent, Super Aski, to everybody's      ----- /. \ ------------ | clinic   |
+| dissapointment, left the shaft.             //\ . \            | hospital |
+|\                             |"""| __      //  //   \          | center   |
+|-`---------.  _________     / (';') -\\     /  // \\ |   _______| 'Kingj   |
+| ; . " .   _|  \_______\   // | o |\  \\  -   //    `'  \_______|  Richard |
+|--( ( ) )-(__)            (( /`-_-' |  ))     /      \\         |  pussy'  |
+|   ` _ '                   \/ /__ / /_//                        |   from   |
+|                          (/)-  (/)' -'                         |  north   |
+| But, his luck didn't serve him very well, because in the next  | Botcwana |
+| moment his nose was all over the fender of the car which you   |          |
+| can see on the left side of your little tv screens.            |          |
+|______________________________________________________________8_|________9_|
+| regardless of surviving even another                                      |
+| unlucky incident, Super Aski was still                                    |
+| not out of the danger (read this like :                                   |
+| it's too early for ending this episode,                                   |
+| we took the money for at least half an                                    |
+| hour of smore). Of all the dangers     /\ __ ____  ???????                |
+| that lurked in souch a peacefull city `// _____ /O) ???????               |
+| of a few dozen residents in central     `'     (   O) ?????               |
+| Africa, the faith choose that he should       | \__/     \                |
+| meed the notorious little green monsters       `;..;'  \  \               |
+| whish are, due to the low budget of this        `_______/\ \              |
+| episode, not green and there are not many                | |              |
+| of them, but only one, but anyway they will             (.\\)             |
+| kidnap our hero with a suspicious motive.                `//              |
+|_______________________________________________________________________10__|
+|                                                                           |
+|      |||||/   readers with more imagination will perhaps think that behind|
+|      |;; o\   the kindaping is actually a hidden erotic urge of the little|
+|      |;  ._)  green monsters, triggered by the odour our hero collected in|
+|      |  .:.   the sewer, but we asure  you that the mating season of that |
+|      |`..__)  type of mosters allready happened last year, so the reason  |
+|   ___|  |___  sure was something else. The little green monsters went to  |
+|   | /`--'\ |  the closest McDonalds to by a double cheeseburger delux with|
+|   (        )  lot of catchup on (their favorite food) and our brave knight|
+|   ZZZZZZZZZZ  became concious and realised that he was tied to a chair.   |
+|   ZZZZZZZZZZ  What he didn't know is that he was endangered by a bomb that|
+|   |ZZZZZZZZ|  doesn't, except for a fact that it's drawn real bad, differ |
+|   ||      ||  any way from all the other bombs...                         |
+|   |/      \|               _____________________________                  |
+|  (    /\    )             |       _ ______:::_____      |                 |
+|  |  `/__\   |             |      (_| / \ :::  |__()     |                 |
+|  ZZZZp--qZZZZ    /--------|      (_|( V ):::  |__()     |                 |
+|  ZZZZ|  |ZZZZ    \--------|      (_|_\_/_:::__|__()     |                 |
+|  /  ;|  |:  \             |_______________```___________|                 |
+| /--'/    \`--\                                                            |
+| `--'      `--'                                                            |
+|____________________________________________________________________11_____|
+| 5 minutes later|                       |  and now for some propaganda from|
+|----------------+ Our hero is running   | our sponsor :                    |
+|       ::___/  /  out of time with the  |                                  |
+|      /`/   \/  /geometrical progression| Cure yourselves in a nice ambient|
+|    /  /\ \| |/ / will he save +----+---+ and acceptable prices...         |
+|   ( /  /`.__';  himself and   |CHC 'Kingh Richard pussy', north Botcwana. |
+|    ( /  /  /'what's his faith?|telephone 952-134-2948-248-14-FUCK-YOU!    |
+|___________________________12__|_______________________________________13__|
+|                                            |                  the answer  |
+|        ___-----     |\__________________   |    _  / `  //\ _  to our stu-|
+|      '             /                    \  |   \             /  pid hero's|
+|     |   ` ______  (  HMMM, what's this   ) |          bang    `/ question |
+|     |    ;|        \ sound  6,5,4,3... _/  |    `/            _\ arrived  |
+|     |    :| _____  .\_________________/    |    /_               soon...  |
+|     ZZZZZZZZz                              |       `//     `\'            |
+|     ZZZZZZZZZ        ______________________| ___________`'____________15__|
+|     ZZZZZZZZZ       |                                                     |
+|:;;;.;;;;;;| |       | Our hero once again had    \|||||                   |
+|:::::::::::| |       | so much luck that even     /o   |                   |
+|:::::::::::| |       | the author of this mini   (_.   |                   |
+|__________________14_| strip is sick of him...    .:.  |                   |
+| the bomb was actually a rusty old Austro-       (__. .|                   |
+| hungarian bomb left after the WWI and so          /  __\                  |
+| the explosion just blowed up the chair     ___   /\_/`  )                 |
+| and freed our and your main hero which    (;;;) (  .   \|                 |
+| can be seen right now running to his       :`'.' |  (___)                 |
+| top-secret apartman.                       :  ; .|;  `. .`.               |
+|                                             `..' |;;   `.. )              |
+|  Unfortunatelly, it seems that we will never     |;;  ..' .'              |
+| find out what was really the reasonfor the       ZZZZ('` ;                |
+| kidnaping and if it has anything to do with     /' U  `'")                |
+| the law-suit from the Telephone Protector's     /  |     )                |
+| Alliance. How Super Aski was thrown out of     /    \_    \. ___.....     |
+| the mentioned Club because he didn't make it  (_   \/ \_    ;   ;;;;;|    |
+| in time to respond to the light signal from     \_   \. \_______;;;;;|    |
+| picture #6 wich resulted in colective suicide     \_  .;.        ;;;;|    |
+| of all the members of four protected types of       `;;;;;.      `;;;|    |
+| mice in some of future episodes...                  .;;;;'/               |
+|                                                    (;;;'/                 |
+|_____________________________________________________`'/ _______________16_|
+
+
+
+
+
+
+
+
+ \\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/
+ \\                                                            \//\//\//\//\
+ // EPISODE 2: Super Aski against the monster from the swamps! /\\/\\/\\/\\/
+ \\                                                            \//\//\//\//\
+ //\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\
+
+
+
+ ____________________________________________________________________________
+|                                   |                                        |
+|                                   |                                        |
+|                                   | On the begining of this short tale     |
+|                                   | about the life of our famous Super Aski|
+|                                   | we find the ultra super hero sleeping  |
+|       __------_xxxxxxxxxx         | in his, you guessed right, bed room.   |
+|      /         \   x    x   `  '  | You can see on your screen in the back |
+|     | Hrk... hrk\  x    x     `   | the notorious window trough wich our   |
+|     | ... Hrk... ) x    x    ` `  | hero fell trough in the first episode. |
+| \   `_      _---'  x    x    ' '  | Will he please all the readers and try |
+|\\\    `,  .'  x    x    x    ,..  | that noble deed again, perhaps with    |
+|\\ \_   ;.'    xxxxxxxxxxx   (| )) | more success, or will he keep boring   |
+|\\ ' )                        ` |; | them with his miserable and extremelly |
+|\\   ` _   ---__      ---__  _; |' | uninteresting life? Stay with us 'till |
+|\    /` )_"     \\\\\\\\\\\\\   `` | the end of this episode and find out.  |
+|(\____ ';        //////////// _  ))| _______________________________________|
+|`_____)_      ; \\\\\\\\\\\\\_ `-' | |                     |               ||
+| |       \  ' ;             || |   | |As we all   ring!    |    apartman   ||
+| |  _______  `; ____________||/|   | |witnessed    ring!   |     ___  69.  ||
+| | ||| ||  `; `;_         | ||||  (| |the tragic   ___ring! _-_ /   \      ||
+| | ||| ||   `_;  "- _-    | ||||___| |abuse of    |   |    --__/  \_`\     ||
+| | |||_|/._.  -_   "  )   | |||/     |the phone   | U |    `-__`     ;     ||
+| | ||    (-)_'  "--   )   | ||       |hook in the |_ \     |   `     ;     ||
+| |_|/    /-\`\     `-''   |_|/       |last episode  -\\-_  |  (`-___-'     ||
+|                                     |we know      (    /  |  | ';;;;;     ||
+|___________________________________1_|that Super    `__-\  |  ``           ||
+|Aski doesn't have a telephone, so we had to inform   \__-\ |   |    |      ||
+|him about his mission with a telegram that this       \   \____/`---|\_    ||
+|cheerfull boy from the picture right is carrying. In   \     \ \       \   ||
+|fact, that is the very same boy that in his spare time  `-_   \ \       \  ||
+|drives a bicycle in a game called PaperBoy on a spectrum   -_  \ \       \ ||
+|Zx80. Anywas, obviously uninformed about our heroe's         |  \ \       \ |
+|terrible hearing condition (the last time he washed his      |   \ \   \   \|
+|ears he didn't know how to speek), the boy is ringing our    `    \ \  |\   |
+|heroes door bell for half a hour. But, meanwhile, Super      |     \ \ | \  |
+|Aski woke up and unfortunatelly missed the window. He        |      \ \|    |
+|wanted to go out for bread when he opened the door.                         |
+|__________________________________________________________________________2_|
+|                                                                            |
+|                       ___________                                          |
+|     \|||||||||||||/  /           \        _____            ____            |
+|    \\\\||\||||||//  / whell, what \  ____/     \_         ;    ;           |
+|    \\\\\\\`;;;;'// | the hell are / /     I am   \       ;      ;          |
+|     \\\\\;'      / ( you doing   / / PaperBoy II,/    __;        ;         |
+|      \\\'   __  /  /  here and  / ( the Telegram \ ````_          ;        |
+|      ||\   /  \(  /_/\ who are  \_| Boy. Are you  \`-____         '        |
+|      ' `    (o  `    / you anyway||  Super Aski?   \   """"_     "'        |
+|     ;```    `-' `\   \___________/ \_____________/\_\ | o   `-___';        |
+|     ;` ;          )                                  / `-'   `    ;        |
+|               `--'                                  (         ;;;;;        |
+|     `;         (  _____________                      `-"       `;;;        |
+|       l     _--_` \            \                      |_-_        ;        |
+|      `;     `___'  \ yeap. why? )  _______________     ``')      '|        |
+|      ;`     `___    \__________/ _/               \_/ /`-_'       |        |
+|      ;;         (              _/ what a stupid name/ )           |        |
+|      ; `  `._    \            |  anyway.... here's a|(            |        |
+|      ;  `_        )           | telegram for you... / -______'    |        |
+|     `.`   `_____-"             \___________________/       |      |        |
+|    '  `.--"      `.                                       _|___--"|        |
+|   ``               `.                                   /'         \       |
+|________________________________________________________________________3___|
+|unfortunatelly, Telegram Boy didn't   |While the smell was filling the WC   |
+|know that Super Aski can't read, so   |and tryed to get out, mortal dangers |
+|the telegram ended up...khm...        |lurked our                     _____ |
+|                                __    |excetionaly|            ||  | /     \|
+|           ..`                 _\ \   |able hero. |            ||  |( woof.||
+|          .\\\\                `|\ \  |One of them|            ||  | \__  _/|
+|  _____   \\   \               :| \_\ |is arseny  |  |        (\_  |   /_/  |
+| /     \__ \(.  \              :| | | |with the   |  |   | -. (\_\ |  ,     |
+|/ Wow.    \ | |\ \          '  :\ | | |poisonous  |  |   ||  (\_   | ///,   |
+| was this  \`''/` --_      '   : \| | |homemade   |   \|_||   \__- |/`////, |
+|telegram    \__\/\(  \        ':  \_| |gases. But,|       `_.  ||;`/_  `////|
+|good or what! /  |'\  \   ```' o  ||  |once again,|            `; /  | _ `/ |
+|Nice, soft,and|  \  \  )  ` ;`    ||  |the idol od|            |`/ ()   | / |
+|fits the ass  |   \ / /_   `  '   ||  |young asc2 |             /    /() /  |
+|perfectly. If |   _/ /  \  `   _/\_|  |drawings,to|            /  |_|   /;  |
+|I had any more|  |_`|    )   _/_/\ \_ |our regret,|           / /\__   /.'  |
+|of theese maybe\  \_/\ _-  _/_/  _) / |managed to |          / (   /  /`'   |
+|I would have   |  `  \\   : (___/ _/| |save himself          |  \_/  /      |
+|clean underware|  /\//|)  `-____-'  | |on time. It|           `_   _'       |
+|occasionaly   _| (//\ /   `         | |was a close|             "-"         |
+|_         ___/    \/\/     `_ `;;   | |call, maybe|            ||  |        |
+| \_______/   ------\\\\----  "_     | |next time  |          (`__\ |        |
+|                   | /\\       |    | |it will    |          (`__ )|        |
+|                 (R`--'))     /     | |work ...   |           (___)|        |
+|                  `----'      `-___-' |           |            ||  |        |
+|____________________________________4_|___________________________________5_|
+|But that wasn't the only danger. In that very                               |
+|moment Crazy Shogoon from Japan is making                        _  `     ) |
+|plans to finaly  /\   assassin the most                              `-__'  |
+|stupid superhero/  \  from the time of                            /        \|
+|the super-     / /\ \ paraplegic who killed                         /       |
+|himself with  / /||\ \ arseny with deadly         .--.  .--.           |  \ |
+|homemade gases\ \||/ /                       _____||_|__||_|____            |
+|               \ \/ /                        \`-----------------'           |
+|                \  /                          )________________(            |
+|                 ||  _                            || |  || |                |
+|                /__\/ \                           || |  || |                |
+| __________     \__/ _                            || |  || |                |
+|/          \_   ( __)  \    ..`.`.''''`........   || |  || |                |
+| I'll kill   \  (  __)\ )                      `..|| |`.|| |.............   |
+| Him. I'll   /  `---'  /                          || |  || |                |
+| squash him./       // \\              ______________   ` `''               |
+| I just have|  __--"    "--___        /              \_____                 |
+| to find __/ /`-_____________-'\     | fuck the reason,    |                |
+| a good _\ /`-_ `-`-`---`-`-'__-'\   \  while I'm sitting  |                |
+| reason | //;  "-`-`-```-`-'"   ;\\   \ here thinking about|                |
+|_______/ ///; '___        ___   ;\\\   \_  the reasons that|                |
+|        ////: (__o_)     (_o__) ;\\\\    \  fool will kill |_____           |
+|       /////:      .'   .       ;\\\\\    | himself and then I'll\          |
+|      //////.`.    `-__-'     .'.\\\\\\   |  have to appear in the|__       |
+|     ///////:   ___       ___   ;\\\\\\\  | third episode... Oh no,  \_     |
+|    ////////: .'`-_`-----'_-'`. ;\\\\\\\\ | we won't play that way.... )    |
+|   //////////: `._ `-----' _.'  ;\\\\\\\\\|   ________________________/     |
+|     ```````` `.  `-------'   .' '''''''  /  /                              |
+|               |`-_  `-    _-'|          /__/                               |
+|               |   ""-_--""   |                                             |
+|          _____|              |______                                       |
+|         /\    ;     `-'      ;\     "\                                     |
+|        /\/`--   `------------' \----'\)                                    |
+|       /\/`-- `-----------------'-----\/                                    |
+|__________________________________________________________________________6_|
+| Since Crazy Shogoon lives in         _____________________     |           |
+| Japan (logical, isn't it?) and      /                     \    |           |
+| Super Aski lives in North Botcwana (  FUCKING THIEVES...   \   | the       |
+| we had to get him on African soil. /__ THE CONTRACT SAID    \  | general   |
+| As you all are             _  __   __ \ SWISS AIR, NOT THIS  ) |sponsor of |
+| aware of the              // (  ) /_\\ \_ SHIT!             /  |this       |
+| high budget of        ___//--('XX ( \\  _\_________________/   |episode is |
+| this comic,           `__O)\ _|/| ('\\ |  |                    |the mental |
+| Shogoon flyed            \\_/__'|_// |_|  |                    |institution|
+| on a plane of     _\\_   _' `   - /  --'  |  _\\_              |of the Cli-|
+| the excelent  _\\_`-\\' |    `--' `--'    |  `-\\'             |nical Hosp-|
+| avio company  `-\\'     `____\  _  \______)  _\\_              |ital center|
+| MongolAir                     \//   \        `-\\'             |"King Rich-|
+| from Ulan        _\\_      ___//\_   \                         |ard Pussy" |
+| Bator...         `-\\'     `__O)\_\___\    _\\_                |from north |
+|                               \\  \___|    `-\\'               |Botcwana.  |
+|                                \\                              |           |
+|______________________________________________________________7_|_________8_|
+|                                  | Crazy Shogoon  had no idea how close he |
+|   after a pleasant trip,         |has to the fearless Super Aski. Though he|
+|Crazy Shogoon wa thrilled when    |jumped (not on his free will) at the     |
+|he saw aftican mainland.....      |first sight of Africa, strong winds carr-|
+|                                  |ied him to the small town in Botcwana    |
+|       _--''''--                  |that is the residence of the super ultra |
+|      `  ` ``.' '                 |... fool                                 |
+|     ;. . .' ;`. ;                |                                         |
+|   _'  ; ` ` ;  l `_              |            \-\\|;;;;;;;;;;;;;/////////  |
+|  ( `  ;  ;`; `;  ` )             | __    __ |  \\\\||||||\||||||||||||||// |
+|  ;'```; ; .;  .;;;;;             ||  |  |  ||   \\|\;\;;;;\||;|;;;;;;||||/ |
+|  .' '  ;..'  ;  `  .             ||__|  |__||    \\\\;;\\;;\;|||||||||||/  |
+| ( ``   ;  ``' `.''' )            |  ________|    \\\;||\;\;\;|||||;;;;||/  |
+| ;``-`_'_____`__-'-'''            | /        \____ \\||;;;;\;;;;\;;;;|||/   |
+| ; ;  ;   ;  ;   ;  ;             |(  FUCK! look / \\  _-_ `\;\;;;;;;;| /   |
+|  ; ; ;   ;  ;   ;  ;             ||at that fool|   ; /   \   `;;;;;;;;;/   |
+|  ; ; ;   ;  ;   ;  ;             |(jumping with|   ;  ___ \  ..|;;;;;;;    |
+|  ; ;  ;  ;  ;   ; ;              ||a parachute |   ; /   \   . __;;;;;;    |
+|   ; ; ;  ;0 ;   ; ;              |(with holes  )   '/mm   \ . '   `;;;;    |
+|   ; ; ;  ;| ;  ;  ;              | \__________/   / ( $;   ) .` `. ;;;;    |
+|   ` `  ;  ;    ;  '              |               '   `-___'  .(   ;;;;|    |
+|   ; ;  ;/|||\  ; ;               |          |   /            . `` ;;;;;    |
+|    ; ; /|o o|\ ; ;               |          |  '               / '' ;;|    |
+|    ; ;//| - |\\' ;               |          | (  (  )          `---. ;|    |
+|     ;///|,-.|\\\ ;               |__  ____  |  `----'                ;;    |
+|     ; ; ``-'' ;  ; __________    |  | |  |  |     |     _            ;|    |
+|      ; ;_`-'_ ; ;  \         \   |  | |  |  |     |    / \           ;;    |
+|      ; /-`-'-\; ;  ( AAAAAAAA )  |__| |  |  |     |   / / \          ;|    |
+|       /       \;    \________/   |    |  |  |     |__/ /\  \          |    |
+|      /  .      \                 |    |  |  |      |__/ / / )         |    |
+|     /  /.    \_ \  |\__________  |    |  |  |          / / /       \  |    |
+|   |////|      \  \ |           \ |`---------' _---    / / /         ) |    |
+|   |  /' )___(\\\\ )| You fucking||`..........'       /_/ /         /  |    |
+|   `-\\  ||||| \  | | liars. You ||                   |  /         /   |    |
+|      '  `---' //-' | said the   ||                  `--'         /    |    |
+|        /     \`    | airport,not||                  (           /     |    |
+|       /   _   \    | a parachute||             _--  / .        /      |    |
+|      /   / \   \   | with holes.||`...........'    /`-'       /|      |    |
+|   __/`- /   \ `-\__ \           ||                (          / (  ;   |    |
+|  :;;: `/     \' |;;| \_________/ |                 `-_______/-/ `'    /\--_|
+|  |;;| /       \ |;;;             |                        _-- /|-____/ /   |
+|  |;;|/         \|;;|             |                       /    `--_____/    |
+|  `--'           `--'             |                      /                  |
+|________________________________9_|_____________________________________10__|
+| More because he hasn't had a good deed in    |after unhooking Shogoons     |
+| six months and because he will finally be    |parachute, Super Aski helped |
+| thrown out from the Independant SuperHero    |him to get up...             |
+| Club in a month than because of his humanity,|                             |
+| Super Aski, not having the slightest idea of |                             |
+| what's going to happen to him, ran to be the | ________                    |
+| first one who will help 'youknowwho' who was |/        \                   |
+| falling from the sky...                      |) C'mon   \ \||||||/ ________|
+|___________/       ___________                |( get up!  \ )/\ `;; |       |
+|          |       /           \               | \________/\ o,o  ;; /what   |
+| _   _   _|/|    / Yo, man! Are)              |             /    ;;< king of|
+||_| |_| |_ /    ( you ok?     /               |  ------_   (__    ;|a stupid|
+|          |      \____________\               | / woof. `--_|_    ;|helmet  |
+| _   _   _|/|                  \\||//         |/ you are so/|-' / ;|is that?|
+||_| |_| |_ /                    /o;|          | fucking   / (__/ .; \_______|
+|          |                    (_ ;|          |\ heavy!  /  .--) `-`        |
+|   ____   |  /                  |- |          | \_______/   + `--'  \       |
+|   |  |   | /                   `| |          |-          -"         \      |
+|   |  |   |/                    .---.         |---   =_ _"`  |        \     |
+|`---------'    BUMP!       _    |(")|         |---- (  "    _-    \    )    |
+|   _        _             / )   /  )|\        |---/`(  )__-" `    /   /     |
+|  / |___.-.` `.           `/`--'  / | \       |--/   `'-`--__|  _/   /      |
+| /  \  .   ``  ;            \___-"  |\ \_     | _-           ` | `. /|      |
+|| \  \l `  ```;;;___/`\         |---| \( )    |(  |) _        ``   )||      |
+|`-'\ l   `'  ; ; ;__ `; ------- /   ) '`''    | ___ /   )    /  `'`__       |
+|    ; `.' ` ;  ;;;  `'         /  / \         | \  /   /    / /      """---"|
+|   ;  `.' ` ``  ;    _______  (  / \ \        |  \    /    / /              |
+|  (   ;    `/\./    /______/   \ \  \ \_      |  `.  / `---\/    \          |
+|   ``-----;/\ \                 \ \  \/ )))   |   \_'       \     \         |
+|             \ -.              (___)(__///    |              \     \        |
+|              (  )                            |               \  --'""___   |
+|_______________`'___________________________  |                \         "" |
+|                                              |                 `_          |
+|___________________________________________11_|__________________________12_|
+|after fifteen minutes of slaping in the face, Shogoon finally came to his   |
+|secnes. Super Aski was hillarious from joy that we will not have to give a  |
+|blowjob to the president to remain in the Club.   __________________________|
+|                                                  |                         |
+|                                       __         |Shogun than realised     |
+|             ____________________     /  \        |where he is...           |
+|            /                    \    `-'\\       |           ________      |
+| \\||||||/ / And when they ask you\      //       |   __    _/        \_    |
+| \||||||/ (  who helped you, what  )   _||__      |  /  \  /  YOU ARE   \   |
+|  ;;;      \   will you say?     _/   /\\\\\\     | (  /\\ \ SUPER ASKI! )  |
+|  ;;  (\\   \  _________________/     \  \\\\\    |  `-' \\ \ __________/   |
+|  ; ` `' \  /_/                       /(' \\\\    |      // |/  ___________ |
+|  ;( )  __)          ___________     (__ \\\\\\   |    _//_    /           \|
+|  ;(-   _|         _/           \_    |_ \\\\\\   |   ///\\\_ ( I just have |
+|  :    /|         /  Super Aski,  \__   \ \\\\\   |  //----_\\ \ to kill you|
+|  | (  \_\       /  Super Aski,    _/  _/ \\\\\   |  //_  _ \\\ \  than I   |
+|  |  \   |      |  I remembered,  |   |   \\\\\   |  /(  ( ) \\\ \  can go  |
+| /|  |`  |      | just don't hit  |   | _.\\\\    |  //`| `  \\\\ \  home...|
+|/ `-__'`-'    _ /\ me any more.. _/   `'     \    |  ` /     \\\\\ \        |
+|         \   ( // \_____________/     /       \   |   (    /  \\\\\ \  _____|
+|          \   \`// )                  |        \  |    `--'   \\\\\  | |    |
+|        |  \ /\  //                   ;    `      |    `----'\ \\\\\ | |    |
+| |      |   /  \_/                    ;     `   | |     |---'| \\\\\ /_/    |
+|/|      |\     /                      ;     /`  / |     /____|  \\\\        |
+| |      | \   /                       ;    //  /  |    (_____'  \\\         |
+|           `-/                        ;   /   /   |    )        |\\\        |
+|______________________________________ `\\`--'_13_|   (         /           |
+|                                        / ///     |    `-------'|           |
+|           !?                           _         |       |     |           |
+|                      _____            (_\\       |______________________14_|
+|      \\||||||||/   _/     \_            //       | And now a message from  |
+|       \\||||||/   /  well   \_          \\       | our sponsor...          |
+|   __  ;;;'  `//  | if you are \       /\\\\\\    |                         |
+|  /  \ ;;;  _ |   | Super Aski, \     ;_ \\\\\\   | The Mental Institution  |
+| ( A? );;\ (o)\   | we'll be done\   /`o)\\\\\\\  | of CHC KRP is giving    |
+|  \___\;;)     \   \ in a notime/\\ (__  \\\\\\\  | away luxurious apartmant|
+|       ;;    `-_)   \__________/  `   |__ \\\\\/  | spaces in it's yard.    |
+|       |;    __                        __)\\\\\   | Send a short biography  |
+|       |    |_|                       (  _\\\\/   | with a proof of illness |
+|      _| .     \               \\      `-|     \  | to 'Mental institution, |
+|     /    \     ) ______________\\_---  / __    ) | CHC King Richard Pussy' |
+|    /  `___`-_-'  \______________|||| |  /  \   | | p.o.box. 69,            |
+|                                //`--  \/   /   | | 6969 Bocwana."          |
+|______________________________________________15__|______________________16_|
+|but, our hero used some of his brains still in the| and so Crazy Shogoon    |
+|thing he calls head...                            |looked and looked for    |
+|                   ____________        __         |Super Aski and died of   |
+|       /  \      _/            \_     (_\\        |old age on the end. As   |
+|      :|__|:    |  but I'm not   \      //        |you could see, Super Aski|
+|      :;  `:    |  Super Aski, I'm\     \\__      |saved himself, but he    |
+|   ___` o \'__  | a cow. Super Aski)  /\\\\\\     |lost a witness that he   |
+|  (__      \_ ) | wen't that way! /  ;_ \\\\\\    |saved anybody so he had  |
+|     ;       \_  \           ____/  /`o)\\\\\\\   |to renew his membership  |
+|     ;   \     )  \  _______/      (__  \\\\\\\   |the hard way...          |
+|     \    \    ;  /_/                |_  \\\\\/   |                         |
+|     |_    |   ;                       \ \\\\\    |The swamp monster which  |
+|    // \_' `---;                     (\/_\\\\/    |apeared in the title ate |
+|   /      \___|               \\      `-|     \   |three tosters and ran    |
+|  |         |    ______________\\_---  / __    )  |away, and our hero didn't|
+|  /         |\   \______________|||| |  /  \   |  |stop him because he...   |
+| /    /     | \          _____ //`--  \/    )  |  |destroyed the telegram   |
+|/    /      |  \      __/     \__   \      /   |  |which should have infor- |
+|\    \      |   \    /   A? aha, \/| \    /    |  |med him about that.      |
+| \    \/\___ \   \  / thankyou. I'm \ `--'     |  | I hope we'll see you    |
+|  \__/    __) \ /  ( going after him then         | in the next episode.    |
+|____\    \_____________________________________17_|______________________18_|
+      `-_\/
+`--------------------------------THE END!------------------------------------'
+
+
+
+
+
+
+
+
+ \\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/
+ \\                                                    \/\/\/\/\//\//\//\//\
+ // EPISODE 2: Super Aski against the ugly ninja fish! /\/\/\/\/\\/\\/\\/\\/
+ \\                                                    \/\/\/\/\//\//\//\//\
+ //\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\
+
+ ____________________________________________________________________________
+|                                                                            |
+| Because of all the positive reactions consearning a known character from   |
+| our mini-series, and also because of the temporary lack of KASSANDRA episo-|
+| des on the Botswana national TV (they bought only 89 and 1/2), the fierce  |
+| hero Super Aski was found on the National Botcwana Channel Numero Due      |
+| talking about his interesting job to all the unhappy children in the world.|
+|                                                                            |
+|                                                                            |
+|                                                                            |
+|                   \\||||/    __________________________                    |
+|                    | |||   _/                          \                   |
+|                    /o  |   \  ...and so I told him that|                   |
+|           ||//    (_   |    |     but he just looked at|                   |
+|         _/\  //    |_  |    |     me strangely and I   |                   |
+|  __   _/    __|    _/  |__  |     had to explane it to  \_                 |
+|  ||  / |  (\//)    ) / /||  |     him all over again. It's\                |
+|  || /  | \/\ /)    \/  \||   \_   strange how people never |               |
+|  ||/    \/\/ / _/\ _)   ||    |   understand my jokes...   |               |
+|  ||      \/ /--_(/\_/  )||     \                          _|               |
+|  ||    |   /     \   _/ ||      \________________________/                 |
+|  ||    |\_/_______\_/   ||    ________________________________             |
+|  ||    |(__________)\___|| |\/                                \            |
+|  ||   /    \   /    \___||  \ did I mention that this is my   |            |
+|  ||         | |`'       ||  | first time in five years on TV. |            |
+|  ||\______/ | |  \_|/__/||  | They told me I was boring the   |            |
+|  |_______|  | |   ______ |  | last time. Imagine - I'm boring. \__________ |
+|  ||     ||  | |  ||     ||  | And from than on, they won't let me appear  \|
+|  ||     ||  | |  ||     ||  | on TV. I really don't know why...           ||
+|  ||     ||  | |  ||     ||   \____________________________________________/|
+|  ||     ||  | |  ||     ||                                                 |
+|                                                                            |
+|_________________________________________________________________________1__|
+|                                    | ___________                           |
+| Tv show host, really just a low    |/           \                          |
+| budget version of Larry King, tryed|  AAAAAA... /                          |
+| to make this show at least a bit   |        ___/                           |
+| interesting before the end and save|  whell.|                              |
+| a chance to have a job tomorrow... |        | \\\\\||||||||||||||/         |
+|                                    |  mmm..  \ \\\\|||||||||||////         |
+|                                    |\_________\ \\\\|||||||||///\          |
+
+|               __________________   |   ______    \\||||||||||////          |
+|    |||||||   /                  |  | _/      \   |  __   |||||/            |
+|   ||||||||| | Allright man, stop|  |/ I can't \  | /__\   ||||             |
+|   |||:::''| | talking for god's \_ | think of |  / (o )   _|||             |
+|   |||:  _ / |  sake... Tell us   | | anything / /  `--'  / |||             |
+|   |||  /_\|  \ something about   | |right now| /         :||||             |
+|   |||; (_o|   | some of your hero| |\______ _/(          `-|||             |
+|   |:."    \   | acts, I'm sure   | |      ||_  `--'        |||             |
+|   |:_'     \  | you have done a  | |      \__\   |___      |||             |
+|   |:        ) | lot of interesti-| |                 \      ||    _______  |
+|   |:     __/  | ng things...     | |              __ |      || __/       \_|
+|   |    _  |  _|               ___/ |              | \|       | \ could you |
+|   |   | \_/  \_______________/     |              |      /   | /  give me  |
+|   |   |___                         |             /      /    | \ some help |
+|   |       |`. .`````````````````.  |            /      /     |  |with this |
+|   / `     |  . like hell he did    |            \ \   /|     |  |question  |
+|  /  \_____/   `.................'  |             \ ' /_|\_/  |__ \_________|
+|  \       \                         |              \_/  \_____/             |
+|________________________________2___|____________________________________3__|
+|                           |                      |                         |
+| after the interview|\_|__|| Flight 115 from Botc-|     _______________     |
+|was succesfully over|\|__|_| wana succesfully lan-|   _/               \___ |
+|                    |\_|__|| ded on the Airport of|  / Did I say something \|
+|    !? _            |\|__|_| the sanitary company | ( wrong again?          |
+|      ( )           |\_|__|| "King Richard youknow|  \__________________ __/|
+|   \\\ \\           |\|__|_| what a few moments   |                    //   |
+|   \` \ ||          |\_|__|| later.               |/////////////////// ' ///|
+|  /\o  )_|          |\|__|_|         _   `        |`------------------------|
+| |_/\'__ \          ||_|__||   ; `._/ /\_  '      |\          !?            |
+|   \____  \    BUMP!|||__|_|  :   /  /  / `   _   ||                        |
+|       \   )        ||_|__||   ; /.'/  /_ .' / \  ||     \||||||||||/ ______|
+|        / /\__      _||__|_|    /  /  // \__/ / \ |/ /\   \||||||||/ /      |
+|        \ \   |    / |_|__||   / _/  / |  ___/ \/ | /____ \|      |// And   |
+|         \/\-|| /\/ -||__|_|  /_/ \_// \ \        |/  --__ ((o)(o))/ what's |
+|         / / _| \ \/||_|__|| //   _/  //\ \___    |        | /    ||  that  |
+|         \/      \/ |||__|_| |  _/\___/  \__  |   |        | `--' || fucking|
+|... our            _||_|__|| |_/ \ \  |   | | |   |        |  --  | \ smell |
+|brave            _|\\||__|_|   | |`')||   | `_|   |        | /--\ |  \______|
+|super hero     _|\_|_|_|__|| __|  \/ ||   /______ |__////_)________(_\\\\___|
+|prooved that _|\_|   ||__|_|   | \  //|  /\       |--\\\\------------////---|
+|he can fly  |\_|     |_|__||   |  ||  | /\        |   `'''          ````    |
+|just like his|_______||__|_|   |_||| _|/\         |__  __  __  __  __  __  _|
+|collegue Superman.         |    \_____/\          |||  ||  ||  ||  ||  ||  ||
+|________________________4__|___________________5__|______________________6__|
+|                            |                     | and in a trashcan near  |
+|Just when our hero managed  |... a telephone rang!| by...                   |
+|to break free and get out of|                     |                         |
+|the dangerous container,    |                     |   AAA!? TELEPHONE!!!    |
+|taking with him a lot of    |                     |I knew that they'll call |
+|odourous particles...       |                     |back. Every-  ______     |
+|                            |                     |body told me (//////)    |
+|                  \||||/    |                     |not to hope,  )////(     |
+|                   | .|     |           Ring!     |but It      __-/////-__  |
+|          _   `    |   )    |          _   `      |worked.    (///////////) |
+|    ; `._/ /\_  '`.| `|  '  |    ; `._/ /\_  '    |I AM RICH! (///////////) |
+|   :   /  /  / ` . |  _)`   |   :   /  /  / `     |I don't    //  \  /  \\/ |
+|    ; /.'/  /__.' `|--\ .'_ |    ; /.'/  /__.'    |have to    | ,-.   ,-. | |
+|     /  /  /   .  /|  \  ( \|     /  /  /   .     |live in    |( o \ ( o )| |
+|    / _/  /`  /| | | \ \_/ ||RING! _/  /`  /|     |a trashcan | `-'/  `-' | |
+|   /_/ \_/ .'/ | | |  \_  / |   /_/ \_/ .'/ |     |any more.  |   (   _   | |
+|  //   _/   /  |  \\\_|--'  |  //   _/   /  |     |I'm RICH!  |..\.`_'./..| |
+|  |  _/\___/   |   |`-|     |  |  _/\___/ RING!   |I'll buy   |..|\.../|..| |
+|  |_/ \ \  |  ||   \| |     |  |_/ \ \  |  ||     |a hotel.../|..|\___/|..| |
+|    | |`')|| |||   || |     |    | |`')|| |||     |No, I'll   /..|     |..|\|
+|  __|  \/ |||| /___||`)     |  __|  \/ |||| /____ |buy two    /\..\___/../\ |
+|    | \  //|| /\  / | |     |    | \  //|| /\     |hotels...   /\......./\  |
+|    |  ||  | /\   \ | |_    | RING! ||  | /\      |             /|......|\  |
+|    |_||| _|/\     \(___)   |    |_||| _|/\       |Where did    /|..  ..|\  |
+|     \_____/\               |     \_____/\        |I leave that /`--'`--'\  |
+|                            |                     |damned phone? ||||||||   |
+|                            |                     |                         |
+|__________________________8_|__________________9__|_____________________10__|
+|                              |                    \                        |
+| but, it seems that our hero  | ... it was in that  |                       |
+| still hasn't learned what a  | trach can there...  |                       |
+| telephone is and what it's   |           __________/                       |
+| for... Anyway, the apetite   |__  ______/ _________                        |
+| worked again...              |  \/  _    /         \__                     |
+|                              |    _/ \_  |Yo, man,have\     !?             |
+|          \|||||/             |   (_  __) |you seen a   |                   |
+|           |  ||/             |   (_____) |telephone   _/    \||||/         |
+|           |o ||              |    |  o\  |anywhere ? |       /o | UMMM...  |
+|  RING!   ( _ (| MMM...       |    ( . _) /___________/      (_  |          |
+|           |   |              |    /`..|                      |.s|          |
+|/\/\_     /s)  |              |   / \_\_)                MMM  (_/s_         |
+|    /    /s(_ || THIS IS ONE  |  / /  \   /\                  /   s\        |
+|   /    (s/ /  \ FUCKING      |- |  | |\_(\ | -------------  /`--'s \ ------|
+|  /     s \| __|   GREAT      |  |  | |   \_/          GULP!/     s\/\      |
+| RING! s \ |(  )    SANDWICH! |  |  \_|\__/                 |\/    s\.\     |
+|/     s __\|/ /|              |  \//' \   ___________       |||    |s\ \    |
+|\____s_(  ___/ |              |   |\__)   \          \___   |||____| s(_)__ |
+| \     |_) |   |              |  /    |   | I still hear |  `_)____||\  |   |
+|  \__  |   \___/              | /  \   \  | it ringing!, |    ||   || \     |
+|RING!  |   |___|              |/   /\   ) |______________|    ||   ||  \    |
+| \ o|  |   |   |              |   / /  /                      | |  |||\ \   |
+|  \_/  |   |   |              |                                     |||  \  |
+|__________________________11__|_________________________________________12__|
+|                              |                                             |
+|And so our brave hero, by pure|Not without casualties, not without tears,but|
+|accident, rescued a homeless  |succesfull, Super Aski managed to crawl to   |
+|from the great trouble that   |his apartmant in the center of the small town|
+|could overcome him if he got  |in notrh Botcwana. Just when he thought that |
+|there in time to answer that  |he will rest a bit, the town was struck by a |
+|call. Now he won't have to    |terrible disaster... from an unnamed river,or|
+|decide if he wants one or two |beter to say a stream, the old mutant ninja  |
+|hotels... But, the interesting|fish came to surface and headed downtown to  |
+|thing is that that bump was   |collect his pension. City authorities once   |
+|not really greatfull for this |again called for the help of their superhero.|
+|good deed and decided to put  |                                             |
+|this out on Super Aski who    |                                             |
+|will have to get a new ID card|                                             |
+|                              |           ..''''..   ... Super Aski's sign  |
+|                              |          :        :  could once again been  |
+|\||||__||||||_ |||/           |         :          :  seen above the sky of |
+|\||||  |||||| \||/            |        :   .:::::   :  his hometown. Will he|
+|\\|||  \||||| |///            |       :   ::    ::   : see it too and will  |
+|\\ ____   ____ //  _____      |       ;   :: .`.::   :  the city regret this|
+|  / __ \ / __ \|  /     \___  |      :    :: . ..;    : once again, when we |
+||  /  \   /--\ | | WHAT    |  |       :   ::  '''    :   return. And now, a |
+|| (----) ( O  )| | THE FUCK \_|       :   ``.....;   :`   few messages from |
+||  \__/   \__/ | | IS WRONG  ||        :   `.....'  :  ._ ___  our sponsor. |
+|| `....' |     | | WITH HIM? ||         :          :  .._)   /              |
+||        \     | /__________/ |_________ :        :..'      /|              |
+| \    (   )    /   __________________  |  ..    ...'_______/ |              |
+| |     `-'    \  _/ and what is your \ |    ''''           | |              |
+| |  /\_____/\  | \  fucking problem   ||     ______|       | |              |
+| | /\/|_| \/ \ |  | also, fucking     ||    /      | _   _ | |              |
+| | \  __     / |  | playwriters. Am I ||   /_______||_| |_|| |  _______     |
+| |  \_||____/  |  / the hero in this  ||   |       |       | | /       /    |
+|  \           /  / story or not? What's|   |       |       | |/_______/|    |
+|   \_________/  / the point in screwing|   |       |       : ||      |      |
+| _/          \_|up the hero like this?!|                                    |
+|________________\__________________13__|_________________________________14_|
+|                                                                            |
+| The sponssor of this episode is the nursery in the clynical hospital center|
+| "King Richard Pussy" north Botcwana.If you don't want your baby to be born |
+| like all the other babyes, leave the birth to us. In the last year we had  |
+| 516 casec of siameese twins, 805.6 children without arms, 31.12 children   |
+| without nose or eyes and 60 babyes with none or more than one sex organs.  |
+| The speciality of the house is giving birth by butchering, at a cost of    |
+| only 13 dollars a baby.                                                    |
+|________________________________________________________________________15__|
+|                                                                            |
+| Because, to our _------_     After a few hours drive, Super Aski noticed   |
+|regret,  Super  /        \    the mutant fish heading for the Bocwa Bank.   |
+|Aski saw the   |          |                                                 |
+|sign on the sky|          |                                                 |
+|he rushed, as  |     ____ |                        |                        |
+|happy as he can|_  _/    \|               |        |                        |
+|be because    /    | __  __               |        |          ||||||        |
+|someone fina-|     |( o)| o)  __________________________      ||||||        |
+|llu caled him|     | \/  \/  |                          \    / \||/ \       |
+|jumped in his\_    |   (__)  |Yo chick,why are you alone |  |        |      |
+|car and rushed \___/ __  \  /___________________________/   | |    O |      |
+|to save the     |   /_/\_/                                  | |   _ o|      |
+|banking system  |  |   |_|     ___________|        |        | |  /\\_/      |
+|of Nth.Botcwana |  | |        /           \        |        | |  \ \_/      |
+|                |  | |       / not that... |       |        |  \  |         |
+|                |  | \_     /               \_     |         \     \/|      |
+|The hat on his  || |   |   /  Yo mutant fish. \_______        |    __|      |
+|head isn;t there|| \___/| /__     ... would you       |       ||-|-|        |
+|because of the  ||      /   | fuckin stop for a minute|      _/|-|_ \       |
+|great speed of  | \__ `'\   | I can't push this   ____|     _/-|-    \      |
+|AskiMobile, but |   |\__/   |  shit any more!     |        /||- _/  \|      |
+|so that the     |    \       \____________________/       / ||-|     |   ___|
+|people wouldn't_|  \_/                    |        |     |  ||-|    /|  / //|
+|notice his  __//|   |\\__                 |        |     |  ||- \   \|  \_ /|
+|thorn out  /   \`---'/   \                |        |     |  ||-  \   \__/ \ |
+|hair...  _/     \---/     \_              |        |      \ ||-|- \        ||
+|        /                   \             |        |       \||-|-|-\       ||
+|       /       ______        \   ___      |        |        ||-|-|-|\_____/ |
+|      |    /\_/______\_/\     | |   |     |        |        ||-|-|-|-|      |
+|      \  // /__\    /__\ \\   | |   |     |       /|        ||-|-|-|-|      |
+|      \ /    \ \\  // /    | /  |   |     |      / |        ||-|-|-|-|      |
+|      \ /     ) \\//  (    | |  |   |     |     /  |         \|-|-|- /      |
+|       \\     ) /||\  (    |/   |   |     |    /   |         /|-|-|-|       |
+|        \\____///||\\ \___/     |   |     |   /    |         ||-|-|-|       |
+|           /\_//_||_\\_/\\      |   |     |  /     |        /\/\/ \/\       |
+|          ///|\__||__/ |\\\     |   |     | /      |       /     |   \      |
+|         ____ |  ||   |____  ___|___|_____|/       |____  |     /     \     |
+|        /    \   ||   /    \                              |     | \    \    |
+|       / ____ \__||__/ ____ \                             |    // |\  \ \   |
+|       \ \   |/      \|   / /                             ||  |\   \_  \ \  |
+|       /\ \  /   __   \  / /\                             ||  |   /\ \ /  ) |
+|      |  \ \/   /  \   \/ /  |            ___        ___  ||  |  /  //   /  |
+|      |   \/   /_||_\   \/   |           /   \      /   \ ||  | /  //   /   |
+|    |_|    \   \_||_/   /    |_|    __  /  _  \    /     \/   |/ _/    /    |
+|    |_|    |\          /|    |_|   /  \/  / |  \__/     \     | /  /  /     |
+|    | |:   | \________/ |   :| |   \     |   \        /  \_/  | \ \  __-_   |
+|      |`--'|            |`--'|      \    /    \  __/ / \      /  \     _ )  |
+|       \__/              \__/        \__/      \____/   \____/    \_____/   |
+|_______________________________________________________________________16___|
+| Clearly annoyed by past events, our hero   | but, the fish didn't give up  |
+| went for the agressive approach.   ________|  ____________    so easily.   |
+|                          |         |       | /            \                |
+|         _______          |         |       ||  FUCK YOU!  |                |
+|      __/       \         |         |       || you asshole |                |
+|     /           \      __________________  |/  some hero, |   ||||||       |
+|    /             |    /                  \ | picking on   \   ||||||       |
+|   |              |   ( Where the fuck do | | old fellows in| / \||/ \      |
+|   |      _______ |  _/ you think you are | | the streets.. ||        | ___ |
+|   |     /       \/ /_  going? I'll kick  | |____________  _/| O      | |   |
+|  _/_  __) ____  _\   | the living shit   | |        _   ||  |o _     | |   |
+| |     |  |  _| |-|   | out of you now... | |       (|)   `  \_//\    | |   |
+| |     |  \ (o| |o|   | Just 'till I lay  | |       (/)      \_/ /    | |   |
+| |     | \_\__|  \/   | my hand on you ___/ |       ( )         |     | |   |
+| |     |   \__ (__)   \_______________/     |       ( )      |\/     /  |   |
+| |     |   __             |         |       |       / \\     `__    |   |   |
+| |     |  / /\__/| ___    |    //   |       |      / /)/       |    |   |   |
+| |_    |  \ \/||/ |  |    |   //    |       |      \  //      / _   \_  |   |
+|   \___|  |   |   |  |    |  //     |      _|_      \  \     / / \   \\ |   |
+|      /   |    \_ |  |    | //      |     | | |      \  \    |/   )  |_)|   |
+|     / \   \____/ |  |    |//       |     | | |     | \  \___/\   |  |( |   |
+|   _/\ |        | ________|/        |_____| | ________ \   |`    /   | )|__ |
+|   _/\  \       |                           |/        \ \    \__/   / /|    |
+| _/  \\  \__    |                           | Eh, when \ \____/    /:  |    |
+|/     \\   \____/_                          | I was     /\ /      / `_'|    |
+|       \\____/    \                         | young.... / /       \  | |    |
+|                            ``````````````` |__________/                    |
+|_______________________________________17___|___________________________18__|
+|                                                  |                         |
+| It seems that Super Asky made mutant fish angry. | But that, of course, did|
+|                                                  | not scare our hero..... |
+|                                                  |                         |
+|       \\\\\\|||||//////                          |        _______________  |
+|        \\\\\|||||/////    __________________     |       /               \ |
+|         \\\\|||||////    /                  |    |      |  Aaa.. I'm sorry\|
+|         /\\\|||||///\   |                   |    |      | is this  322891? |
+|        /             \  | If you don't move |    |      |  It seems I have |
+|       / __         __ \ |  from there right |    |      \____dialed a wrong|
+|      /  | \       / |  \ \  now and dissape-|    |       _____\___number...|
+|     |  _|  \     /  |_  | | ar from my life |    |     _/     \_  \___   __|
+|     |  |  /`\   /'\  |  | | I'll kick those |    |    /         |    _| |  |
+|     | /   \_/   \_/   \ | | teeth still in  |    |   |          |   /___|  |
+|     | \  ___|   |___  / | | your mouth out. |    |   |          |          |
+|     |  \/ __ o o __ \/  | | ________________/    |   |       ___|    ____  |
+|     |    /\ \___/ /\  _/  | |                    |   |_    _/ __|   /    \ |
+|      \_ |\/\_   _/\/| |   | |                    |   /     |  (o|  | I'll ||
+|       | | \_|\_/|_/ | |   | |                    |  |      |   "\  |be off||
+|       | |_  \_|_/  _| | _/ _|                    |  |      |     \ | now. ||
+|       |   \_     _/   |  \/  _______________     |  |      |    `_) \  __/ |
+|        \__ |     | __/     _/               \_   |  |      |  __|   _||    |
+|          | |_____| |     _/  I've been waiting\  |  |      | |`'    \_|    |
+|       __/| |_| |_| |\__  \_  for five months to| |   \     |  \/|          |
+|   ___/_| |   \_/   | |_\__ | collect this pens-| |    \____/    |          |
+|      |_|  \_     _/  |_|   | ion and no one is | |      |        \         |
+|      |_|    \___/    |_|    \going to stop me /  |      |    \    \        |
+|      |_/\_         _/\_|    |now.       ______|  |    _/\___`-\___/        |
+|       \_/|\_______/|\_/     \___________|        |   /  \___\__/ \_        |
+|         \/|||||||||\/                            |  /       \___/  \       |
+|______________________________________________19__|______________________20_|
+|                                                                            |
+|And so Super Aski courageously fled from the mortal combat and left staight |
+|to the dentist center of Clinical Hospital center "King Richard youknowwhat"|
+|where they implanted some artificial teeth and moved the hair from his but  |
+|to his head so he can look normal again in the next episode. The old mutant |
+|ninja fish peacefully collected his pension from the Bocwa Bank and returned|
+|to his unnamed stream. Bocwa  bank was on the edge of bankroupcy for on that|
+|same day the only account with cash in it was emptyed, but more of that some|
+|other time. We leave you again to read this episode once more....           |
+|_________________________________________________________________________21_|
+|_____________________________________________________________KRAJ___________|
+
+
+
+
+
+
+
+ \\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/\\/
+ \\                                                       //\//\//\//\//\//\
+ // ISSUE #4: Super Aski vs. Something Else!              \\/\\/\\/\\/\\/\\/
+ \\                                                       //\//\//\//\//\//\
+ //\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\//\
+
+______________________________________________________________________________
+|                                                                            |
+|                                                                            |
+|               \|/                                                          |
+|               -|-                                                          |
+|                |                      Another hot day in Central Africa....|
+|              --|--                    Well this day, except having the     |
+|     _          |                      highest temperature in 58.2 years has|
+|     O    _  ---|---  _      _ _       another thing about it - its the last|
+|    /|)  /_     |     _\     /\|       day of the year. In the city, that we|
+|     |\ //  ----|----  \\   ()-()      all already know of, people are      |
+|   \   //       |       \\             preparing for the new year fiest.    |
+|   o  //     ---|---     \\            Due to the low budget of this comic  |
+| `/\ //         |         \\           people are bying cheap plastique     |
+|  \/`\\__ _O_ ____________//    `''    replicas of xmas trees instead of    |
+|  ||  \__'( )\____________/    ``.|    real ones in the newly built market  |
+|          `-'                  `' -'   place put up by "Serbian Wood INC.." |
+|          | \                   | /                                         |
+|                               /_ |                                         |
+|                              //\ |\                                        |
+|                  `\'     ___(_)? |\\                                       |
+|             `\'    \____/      | )                                         |
+|         `\'   \____/ \        //\\                                         |
+|          _\___/ \    '\`     //_//_                                        |
+|         /  \    '\`          |_\__\                                        |
+|            '\`                                                             |
+|                                                                            |
+|__________________________________________________________________________1_|
+|                      ______________________|                               |
+|In the super hitech  |       ___         |  |    /___________ Super Aski got|
+|apartment of our hero| _____/   \______  |  |    | _________| up and headed |
+|everything is like   |  \         / \  | |  |    | //      || for to the    |
+|normal. Our hero is  ||_/        / ' \ | |  |     //       || kitchen to get|
+|at sleep at  the     || s s     | / \ || |  |    // ..||   || some ice for  |
+|moment, but he will  || s s     |  s  || |  |   // |||.'   || the bump on   |
+|soon wake up with a  || s s  __  \\ s/ | |  |  //  ||| _)  || his head from |
+|horrible headache    ||_____/  \__\_/s_| |  |  ||  || (. __|| the freezer.  |
+|caused by another    |`--------------s   |  | _||  ||  |_||||               |
+|drop-off object from |_____________   s__|  |(  |   | |'\ ) |               |
+|his malfunctioning   |             /\s      |( \___/   \| \||               |
+|air condition unit.  |             \ \/\    |\_         \ | |               |
+|                     |              \o_/    |  `---    |  |                 |
+|The heat in Super-   |              | |     |  ||  |   |\_/                 |
+|Askis apartment is   |              \_\     |  ||/ |   |                    |
+|unbarable. When he   |              ___     |      `---'                    |
+|wakes up he will     |          ___/\  \    |_____________________________3_|
+|notice that his bed  |         /    |\ \\   |                               |
+|is soaked in sweat   |        /    \\|\_/   |The only thing he could find in|
+|and other bodily     |______ /   __/\ |//   |the freezer was an alarm clock.|
+|fluids.                     /`  (  o   //   |                               |
+|                           /  ` /`'    /\\  |                               |
+|     ___________________  /    /-_     /`'  | __________________________    |
+|  __/           _______/ |   _/`_/    /mm   | ||                      ||    |
+| /  EEW!@       \_       |  (_       /mmam  | ||                      ||    |
+|/ WHAT is this?   \      |___(_     /mmassm | ||      ___   ___       ||    |
+| Fucking aircond.  |______/ ___/\__//mmmssmm| ||    _/   \ /   \_     ||    |
+| doesnt work.     |||    _/       /mmmmss mm| ||    |    /+\    |     ||    |
+| Hope the freezer |||             \ mmmmmmmm| ||    \ ___\_/___ /     ||    |
+| still works...   |||    `         \ mmmmmmm| ||      |       |       ||    |
+| And whats that   |||     ``-- /   |mmmm mm | ||     / 11 12 1 \            |
+| awful smell ?    /||__________|   |_mm_m_mm| ||    | 10    __2 | GODDAMN!! |
+|_________________/|||----------|   /--------| ||    |     .-'   |  only half|
+|_______________________________|   |______2_| ||    | 9   |   3 |  past two |
+|                                            | ||    |     |     |     __    |
+|Super Askis trained super hero ear noticed  | ||     \ 8  |  4 /      ||    |
+|strange sounds from the bedroom...          | ||    //|_7_6_5_|\\     ||    |
+|Actually, because of all dried leftovers and| ||___//___________\\____||    |
+|breadcrumbs, any kind of movement could be  | --------------------------    |
+|heard, even by a deaf guy.   _______________|____________________________4__|
+|                            |                                               |
+|                            |In order to understand the geopolitical message|
+| Ther's something in there! |in the previous pucture, we bring you the front|
+| But this is my SECRET place|page of tomorrows edition of a local erotic    |
+| noone knows that I live    |magazine.                                      |
+| here... except my landlord,|  _____________________________________________|
+| the paperboy, the police   | /.............................................|
+|   ,.......... those two    ||.______ __        ___  ___          ___      .|
+|    \||||||||/ hookers aroun||.  ||   __ ||  | ||   //  \   || | ||   ||  |.|
+|    ||||'' //  the corner   ||.. ||   || ||\/| ||_  \\__    ||\| ||_  ||  |.|
+|    |||' /\|   and my dealer||.. ||   || ||\/| ||       \   ||\| ||   \\/\/.|
+|    ||' _/\|   but still,   ||.. ||   || ||  | ||__ \\__/   || | ||__  |/\ .|
+|    |/\ \_o|   this place is||..     ____    __    __         __           .|
+|    |(|    `   secret, who  ||...... || |   /  \  /   ||  |  /  \ || | .....|
+|    |\/  `__)  could it be? ||...... ||_|_ ||  | ||   ||  | ||__| ||\| .....|
+|    ||    _|                ||...... ||  | ||  | ||   \\/\/ ||  | ||\| .....|
+|    ||   |-'                ||...... ||__|  \__/  \__  |/\  ||  | || | .....|
+|    |    |_                 ||..............................................|
+|    | \_   |                ||..............................................|
+|   _|  |    \               ||..SCANDAL:....................................|
+|  / \___\___/               ||..Super Aski has a right profile..............|
+|                            ||..............................................|
+|__________________________5_||All.presumptions.that.Bocwanas.Super.Hero.does|
+|                            ||not.have.a.second.profile.have.today.been.....|
+| And now some messages from ||prooved.wrong..Reffering.to.the.words.of.the..|
+| our sponsor... This issue  ||foreign.minister,.it..will.surely.effect.our..|
+| has no sponsor, therefore  ||economy.and.increase.the.supplyment.of..our...|
+| no messages!               ||stores.with.goods.of.large.consumtion!........|
+|_______________________5.5__||____________________________________________6_|
+|                                             |                              |
+|                              Super Aski     |For our reades that had a     |
+|____________________________ bravely sneaked |rough childhood, here goes a  |
+| ||    |                  || to the door     |explanation...                |
+| ||    |            ______|| and peeked in to|                              |
+| ||    |            |  || || see what is goin| The chubby old man with the  |
+| ||    |            |  || || on in his room. |big red sack ain' no stand-in |
+| ||    |    _o_     |  || ||                 |actor who happened to be there|
+| ||    |   (|||     |  || || He saw a chubby |during the shooting. He comes |
+| ||    |   )o |     |__||_|| old man, wearing|frequently every year when he |
+| ||    |  (_,,\           || an red overall  |gets enough cash for gas.     |
+| ||____|__ s s|\_         || and a big sack. |No, its not Lesley Nielsen    |
+| ||      /sss-_! )        ||                 |between to movie shootings,   |
+| ||      _ss__ !!         ||                 |its a retired samatarian      |
+| ||     / \_   !!!        ||                 |well known to the public,     |
+| ||____/\_   / !!!!       ||                 |but his name will remain      |
+| ||     / `-'  !!!! ______||                 |unknown til' the end...       |
+| ||____/   |  //!!!       /\                 |                              |
+| || ||     \  \\ `  .\\  (_ \                |                              |
+| ||/||     _\  \\ .\\\\\  |( \               |Super Aski did not quite see  |
+| || || ___(_____| \\\\\\\ | \ \              |what this old man was really  |
+| || __/   \______  \\\\\\\|| \ \             |doing, and he saw his chance  |
+| ||/  THIEF!     \__\\\\\\\   | \            |to stop a real criminal.      |
+| || He must have been\\\\``\ _| /            |Because he realized the danger|
+| || around the whole  \\\  \/   |            |of old people in the previous |
+| || neighbourhood!,  /  \__/\   \            |issue, he simply used whatever|
+| ||_look at the size of that sack!_____/_____|necessary to stop a thief, in |
+|                                             |this case an AK-47.           |
+|__________________________________________7__|___________________________8__|
+|He thought of his recent birthday gift, a    |                              |
+|'in case of emergency brake glass' frame.    |                              |
+| _____________________________________       |                              |
+| \___________________________________\\      |                              |
+| \||                                 ||      |                              |
+| \||             AK-47 KALASHNIKOV!  ||      |                              |
+| \||                                 ||      |    this space was supposed   |
+| \||  ___```````________----________ ||      |                              |
+| \||  |________________ ____       | ||      |  to be for our EPP sponsor   |
+| \||    |______-     ---(_'_\ /    | ||      |                              |
+| \||                         \ `-' | ||      |    who stopped sponsoring us |
+| \||                          \____| ||      |                              |
+| \||                                 ||      |  because of the hideously low|
+| \||     IN CASE OF EMERGENCY        ||      |                              |
+| \||                                         |    sales of issue #3         |
+| \||        BREAK GLASS      \|||||||/       |                              |
+| \||                          ||||||||       |  So it will remain empty.... |
+| \||_________________________ ||||||||       |                              |
+|    ________________________  ||||||||       |                              |
+|   / AAAAAA.... the     ___/  ||||||||       |                              |
+|   | right thing at    /      ||||||||       |                              |
+|   | at the right time|       ||||||||       |                              |
+|   |__________________/       `||||||'       |                              |
+|                           ____|    |____    |                              |
+|                          /    \____/    \   |                              |
+|                         /                \  |                              |
+|__________________________________________9__|___________________________10_|
+|Super Aski cut his hand while     ______/                        |          |
+|breaking the frame glass, but he /        FREEZE grandpa'!",     |          |
+|sucessfully removed the gun and |or i'll blow yer fucking brain  |          |
+|sneaked in to ambush the old man|allover this bedroom!           |          |
+|                                |       _________________________|          |
+|                                 `-\   /                     _______________|
+|            ____                    \ |                     /               |
+|          _/    \                    \|        \||||||||/  /I know who you  |
+|         /       \                             \\|||||||| / are and what you|
+|        /|       |     _______________          \|'   `|||do, its xmas and  |
+|       //|______ /    /               \          |_/\ _|||everyone is at    |
+|      o-'|/  _  |    / Hoo, wait a sec |         |(o/ ( ||dinners and       |
+|         |\ (_o /   | chill dood,      |         /    |_||visiting their    |
+|         |/     \   |  but I am...    _|        (__'   |\|relatives, so you |
+|         |)s  `-_)  |                /           |   ` ||| can come in here |
+|         |:ssssss    \ _____________/            |__  ;|||and steal stuff!  |
+|         |::ss(_|s   /_|                         /\/   |||                  |
+|         |:::sssss                              |  `  _||\___               |
+|       _/\___sssss      ___     ______________   \___/  |____\______________|
+|      /       sss \     |||_   /Thats why I  / __/\\____//   \    __________|
+|     /       ssss  \    ||||  /never go to  / //   \____/     \  /          |
+|    |         ss \ |    ||||  |parties!!!  / /             \   \/ Now ya    |
+|    |          s |  \__/'``| _|Well, noone| /    /          \   \gonna see  |
+|    |   |        |    /\ ) | |has ever    |/_____|    __    |____\ hoo' ya  |
+|    |   |        |    \ \  | |invited me, |_     /   /  \   \    / messin   |
+|    |   |        |\____|-|/  |but thats   | |   /|  | /\_|  |\  |\with nigga|
+|    |\  |         \          \ irrelevant | |  | |  \ `'    ||  |/Err,fuckin|
+|    |   |         |           \___________/ (  \  \  \__/   |/  |\ shit the |
+|    |   |         |                   PFF!   \_ \ |         / _/ / gun don' |
+|    \   |\________|                  __________\...____----/ /_____ work!!! |
+|    |\__\_________/                  |___________\\\__  `/   )    |\________|
+|    /\__/        |                     |______-\___/---(_'   /    |         |
+|   |  _!!!       |                                |      `''' `-' |         |
+|  !!\__!! !    | |                                |        | \____|         |
+|!!  !!  !!!    | |                                                          |
+|________________________________________________________________________11__|
+|despite the size      ,                                                     |
+|the machine gun was    \||||||/          Much more careful than in the last |
+|just special fx too     |  ``||         issue, our super hero has now       |
+|advanced for Super      ~ ~  ||         gotten into a fight with an old man.|
+|Askis brain.            o)o /||          Five months of watching Jackie Chan|
+|                        /    )|         movies has payed off, and our stupid|
+|              !?        (__ ` |         super hero is for the first time in |
+|                         |_   |         cracking some skull                 |
+|                         | \  |          ___________________________________|
+|              __o        /_/  |         | Anyway, the old mans stomach was  |
+|            _/   \      |    /          |way to big to keep him like that   |
+|           //_   /_______\_/ |          |and the old man eventually got up. |
+|          (  s\__\  |----\____|         |   _ _____    ____           __    |
+|          (`-)  o/  |         \\        |   | |`\ ____/         |     ||    |
+|          (`-)   \__|_         \\       |   | |  |              |_____||    |
+|          s`-),s  )   /         |       |   | |  |             _/     \|    |
+|          s|sss/`-    /         |\      |   | |  |    \|||||/ /  where \    |
+|         _/sss(_     /          / \     |   | |  |     | /`| |ya goin?! \   |
+|        / \ ssss   _ /       \_/   \    |   | |  |     |  o| |  ________/   |
+|       /   \/ss'  / \/      /   \   )   |   | |  |     |'  _)/_/|     ||    |
+|      / _/  \ss  /   \      /    \ '/   |   | |  |     | /\|    |     ||    |
+|     / /     |  |     \__  /     | |    |   | |  |     /\`-\\   |     ||    |
+|    / |      |  |        \_/     | |    |   | |  |    /  `_/ \  |     ||    |
+|   /  |   \/    |   |      |     | |_   |   | |  |    |/    \ | |     ||    |
+|  ||   \   \    |   |\     |    (\\= )  |   | |  |    |\ |   /|/|     ||    |
+| |      \   \   |   | \___/      \\_/   |   | \\ |    |_\ \_ \ \|     ||    |
+| (       \   \? |   ||    |           |||   | |\\|____/--\  | `'|     ||    |
+|  \       \  /\ |   ||                \/|   | ||\|----'|| \/    |     ||    |
+|___________________________________12___|_  | || | ||  ||   ||  |     ||    |
+|                                          | | || | ||  ||   ||  |     ||    |
+|When he kicked the shit out of the "thief"| | || | ||  ||   ||  |     ||    |
+|the "thief" couldnt speak anymore, so then| | || | ||  ||   ||  |     ||    |
+|it was automatically        ...   _o_     | | || | ||  ||   ||  |     ||    |
+|cross examination time...  ////. /   \   -> | || | ||  ||   ||  |     ||    |
+|Super Aski carried his    //` .// ____\   | | || | ||  ||  _||_//     ||    |
+|trophy out to the balcony///;  .`'|||||   | |  \ | ||  ||_/----'      ||    |
+| ______________________ /'.`' o'/|```||   | |   \|_||_/---'           || _  |
+|/                  __/ |       | \o  ||   | |    `----'               ||/ \ |
+|I want you to give|   _/     . | /    |   | |                __       || A| |
+|me all the stuff  |  /\_   /\/`'`_'ss |   | |               / |       || A| |
+|ya stole from me, / /   \  \      s- ss   | |              / _/   _   || A| |
+|is that clear    / /      \/    _ss\/ss   | |              \/ \  /_)  || A| |
+|punk?!?!        / /       \    /`'\ss-'   | |               \  \ ||   || A| |
+|_______________/ /        /   |   '|s'|   | |              __\  \|`   || A| |
+|                /        |\\  _\  '/--\   | |             /  \/ __`s  || !| |
+|               /\     \  | \\/    |\`  )  | |          /\/  -  /   ss ||\ | |
+|the terrified /\ \     \/   |    /     |  | |          \ \ /`     `\s   //  |
+|and beaten___/__\ \_____\ `     / /  \ |  | |           \_/  \__   ss\      |
+|old man   ------------|| \     / |    \|  | |               (\__/   s\/|    |
+|couldnt say||    ||   ||  \___/ | \   ||  | |               (_| \ /|  o \   |
+|a word, nor||    ||   ||        | /   /|  | |                 \__/  ``' |   |
+|could he   ||    ||   ||        |/   / |  | |                       `__/\   |
+|explain why||    ||   ||        \   /__|  | |               ____     \__/   |
+|he was     ||    ||   ||       -/\__|__|  | |          ____/    |      o    |
+|there...   ||    ||   ||      (___'    \  | |     ____/         |     |     |
+|___________||____||___||_____________13___|_|____|______________|_____||__14|
+|                                                                            |
+| "Well, I would've killed him sooner or later" Super Aski thought, while    |
+| being happy because of his first good job sofar, and now he caught a real  |
+| criminal.  (Super Aski passed his 'Super Hero Test' by hiring an anonymous |
+| hoodlum to horass women with PMS, and then to run away when Super Aski     |
+| shows up), Super Aski headed for the Police Station to report this and     |
+| explain the whole situation. While thinking of how he was gonna get away   |
+| with pushing an unarmed man of an balcony (I'll say it was selfdefense)    |
+| he noticed a crowd gathering around the old mans body, and a lil' girl said|
+|                                                                            |
+|          __                                  ______________________________|
+|    _____/  \_____    ______________________  |                             |
+|   / ____ ~~ ____ \  /                      | |      this space is          |
+|  |  _____  _____  | | MOOOOOOMYYYYYYY....  | |                             |
+|  | /  __ \/ __  \ | |                      | |   correctly unfilled with   |
+|  ||  /  \  /  \  || |   someone killed   |___|                             |
+|  ||  _/\    /\_  || |                   \    |     any useful material.    |
+|  || (  o)  (o  ) || | ___ SANTA!"! "@    |   |                             |
+|  |\__\_/  ( \_/__/| | | \________________/   |                             |
+|  | __\  / \\  /__ | | |                      |                             |
+|  |(     `__''    )| | |      ________________|________________________16___|
+|  \ \ `_      _' / / |/       |                  |                          |
+|  / / /u\____/u\ \ \          |                   \_                        |
+|  | \ \________/ / |          | What moron killed  |                        |
+|  \_/\__________/\_/          | Santa Claus?!      |                        |
+|        |    |                | HMMM....           |                        |
+|     ___|`--'|___             | Could it have been |  \||||||||||||||       |
+|    _\ \      / /_            | ..naah, couldnt be.|   \\\|||||||||||       |
+|    (|\ \____/ /|)    /\      | but then again,     \    |  ___ `||||       |
+|    / /|      |\ \   // \     | maybe it was...     |   ( '___\ |'_`|       |
+|   / / |      | \ \ //\  \    |\___________________ |    \ \ o\ |( ||       |
+|  /_/_ |__/\__|  \_//  \  )   |                    \|    / /___)  @||       |
+| (  \ ))__\/__(  /\/)   \/    |                         /        `_'|       |
+|  \__/ /      \  \__/         |    ____                (_._)       ||       |
+|      /\/\/\/\/\//            |  _/    \_____________    |          |       |
+|     /__________\             | /  OMiGOD!           \   |___       |       |
+|     \_| |__| |_/             || there goes my member-\_   | \  |   |       |
+|       | |  | |               || ship, my career, and  /  _| |  |   |       |
+|       | |  | |               || this whole year, and_/  | \_/  |   |       |
+|      -|_|  |-|               || I still havent got /     /.    /   |       |
+|     (____)(___)              || layed...     _____/     ( (   /|   |       |
+|                              | \___________/            \_\_/_|    |__     |
+|___________________________15_|________________________________________17___|
+|                                                                            |
+| What will happen to Super Aski? Will the Super Hero Club send a taskforce  |
+|to terminate Super Aski? Will there be a reward on his head and in that way |
+|double foreign investments in Bocwana?? Is Santa Claus just faking his death|
+|or is he really dead? How many people have died world wide in riots because |
+|they didn't get their xmas presents? The answers to these questions will be |
+|in the next issue of THE ADVENTURES OF SUPER ASKI.                          |
+|                                                                            |
+|_________________________________________________________________________18_|
+|_____________________________________________________________THE END________|
+
+
+

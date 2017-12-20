@@ -1,0 +1,30 @@
+From: dIMITRI <dimitri@nospam.demon.nl>
+
+
+Hello,
+
+I'm one of the wizards of a Dutch MOO, The Digital Underground (in Dutch
+metro, <http://www.dds.nl/~dimitri/metro>). The theme of the MOO is (the
+city of) Amsterdam. As I am mainly responsible for the infrastructure, I
+tried to make a map of the streets and squares of the virtual city. Here
+it is:
+
+               __CS____________        |
+ hp___________/ |  |  \       /        |
+  \    |   |    |  |  |nm   ,'         /
+  |    |   |    |  |  |  `./     _____|
+  \    |   |_,--dam---'    \   _/ \  /
+   |   |_,-|    |  |       wap=.   \/\
+   \  /|   |    |__|        /   \_ /  `\
+    `/ |  _|    \   \      /      wp    `\
+     \ \_/  \_  kp--mp--rp'      /  \
+     |  \_    \/____|__,-\     ,/    `\
+      \   \_  /     \    _\   /        `\
+       `\   \/___,--|---'  |_/           `
+         `\  |      \  ___/
+           \_lp-----wc/
+
+CS is Central Station, dam the Damsquare, lp Leidseplein (leidsesquare),
+hp Haarlemmerplein, wap Waterloosquare, rp Rembrandtsquare etc. There
+are two canals (grachten) in virtual Amsterdam: Herengracht and
+Prinsengracht.

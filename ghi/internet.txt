@@ -1,0 +1,164 @@
+
+
+"I'm cruising down the Information Superhighway in high gear...
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                    _    ,
+   __   __   __   __   __   --  -,_/\\_~0_\ ___    __   __   __
+                          --    /  ___ \-  `___`"-,
+                        ---    `"-( @ )----( @ )---`
+  jgs                              '-'      '-'
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Surfing the waves of the Digital Ocean..
+                       .        .           -     _
+                   .       .  ~   . ~  -  ~  . = .  ~
+               ~        ~  __.---~~_~~_~~_~~_~ ~ ~~_~~~
+             .    .     .-'  ` . ~_ = ~ _ =  . ~ .    ~
+                      .'  `. ~  -   =      ~  -  _ ~ `
+             ~    .  }` =  - _ ~  -  . ~  ` =  ~  _ . ~
+                   }`   . ~   =    ~  =  ~   -  ~    - _
+         .        }   ~ .__,~O     ` ~ _   ~  ^  ~  -
+                `}` - =    /#/`-'     -   ~   =   ~  _ ~
+           ~ .   }   ~ -   |^\   _ ~ _  - ~ -_  =  _
+                }`  _____ /_  /____ - ~ _   ~ _
+        jgs   }`   `~~~~~~~~~~~~~~~`_ = _ ~ -
+      _ _ _ }` `. ~ . - _ = ~. ~ = .   -   =
+
+
+Exploring the uncharted regions of Cyberspace!"
+                        .   *        .       .
+         *      -0-
+            .                .  *       - )-
+         .      *       o       .       *
+   o                |
+             .     -O-
+  .                 |        *      .     -0-
+         *  o     .    '       *      .        o
+                .         .        |      *
+     *             *              -O-          .
+           .             *         |     ,
+                  .           o
+          .---.
+    =   _/__~0_\_     .  *            o       '
+   = = (_________)             .
+                   .                        *
+         *               - ) -       *
+                .               .
+
+"Actually, I'm sitting on my butt staring at a computer screen." - TT
+                                  _
+                             ~0  (_|
+                            |(_~|^~~|
+                            TT/_ T"T
+                   jgs^^^^^^^^^^^^^^^^^^^
+
+<TT = Tom Tomorrow...
+thank you to Paul Tomblin who discovered these words of wisdom>
+
+-joan
+
+
+
+
+
+
+
+From: Veronica Karlsson
+
+The "Internet" consists of many computers, all over the world, connected
+to each other:
+
+
+  ___   _      ___   _      ___   _      ___   _      ___   _
+ [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
+  '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
+ /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
+       |____________|____________|____________|____________|
+                             |            |            |
+                         ___  \_      ___  \_      ___  \_
+                        [(_)] |=|    [(_)] |=|    [(_)] |=|
+                         '-`  |_|     '-`  |_|     '-`  |_|
+                        /mmm/        /mmm/        /mmm/
+
+
+These computers can then be used to communicate with each other in many
+different ways. Three of the most common ones are "The Web", "Email" and
+"Discussion groups" (also called "Newsgroups").
+
+-----------------------------------
+
+The "Web" consists of html documents, with links to each other as well
+as to other types of data:
+
+
+
+              .------.
+      ___   .'  ___   \   ___       ___
+     |===|-'   |===|   `>|===|     |===|
+     |===|     |===|     |===|---->|===||          _/|
+     |==_|---->|==_|     |==_|   .-|==_|||        // o\
+                | ^            .'   |___||        || ._)
+                |  `----------'      |___|------> //__\
+                |                      |          )___(
+                |                      V
+                |
+          M     |                   |||||
+         /'\    V  )               ||. .||
+         `  \_____/               |||\=/|||
+            (_____) o             |.-- --.|
+            /|   /|  o            /(.) (.)\
+           / |   \|   8o          \ ) . ( /
+                                  '(  v  )`
+                                    \ | /
+                                    ( | )
+                                    '- -`
+
+On the web you find things using a kind of address called a "URL", which
+often begins with "http://". The programs used to access these things
+are called "browsers".
+
+-----------------------------------
+
+"Email" consists of messages sent between a limited number of people
+(often just two people):
+
+
+        __________
+       |Hi Jane :)|
+       |          |
+       |Are you   |
+       |coming to |
+       |see me on |
+       |Tuesday?  |
+       |__________|
+
+
+        __________
+       |Hi John :(|
+       |          |
+       |Sorry but |
+       |I have to |
+       |do some   |
+       |homework. |
+       |__________|
+
+
+In email you use email addresses to send messages to specific people.
+They usually look something like this:  jane@somefunnyplace.something
+To send email one uses "email programs".
+
+-----------------------------------
+
+"Usenet" consists of "Discussion groups", which are basically "big
+containers" where one can send messages that anybody can read. To make
+communication more efficient the content of these containers is sent
+around the world to "news servers" and it is to such a news server you
+connect to read and post messages. The actual messages look a lot like
+email, but with the difference that they are intended for anybody to
+read. The messages get "flushed out" after a while to leave room for new
+messages.
+
+On Usenet you use the group names (e.g. alt-ascii-art) as a kind of
+address and the software used to read and send messages is called a
+"news reader" or "news program".
+

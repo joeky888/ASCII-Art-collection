@@ -1,0 +1,188 @@
+
+
+
+#!/usr/bin/perl
+$/ = '#'; while ( <DATA> ) { chop; s/\n//g; print "$_\n"; }
+__END__
+   ,--.      ,-------------.#  /  ``-o.  
+( Hey Woodstock )# (  | ____) 
+)`-------------'# `-' (      .,# .|J  )    
+<' <#  "> '--.   (_,=#                    Sch
+ultz#                              ojoshiro@lunatech.com
+
+
+
+
+
+ 
+
+
+From: Eli the Bearded 
+Clinton A. Pierce wrote a program a while ago to embed sekret messages
+into ascii art. He posted it to comp.lang.perl.misc in early Feb of
+this year. A Google search (groups.google.com) should find the thread,
+the subject line of the first message was "Apologies to Joyce Kilmer, a
+hack for your enjoyment", and had this perl script:
+
+#!/usr/bin/perl -w
+
+                    '% * % % * % %<>
+               * % ~ * % % * % * * % *      *
+       * % % * *   % * % *<> * % ~   % % % * %
+     *  * * % * % % % % * % % % % % % * % % * %
+     % * % % ^ * % % % % *[] % % * * % * * % %  %
+      % * %   % % % % % * * % * * @ *   @ % * % %
+    % ^ % * % * % * * % % * %  <> % % % % * % %() %
+  % % * * * % % * % % * * % * * * * % * * % % * * *
+   %   * * * % % * % % *[]<> % % % % * % * * * % % *<>
+ % * *  % % % * * % * * * \ * %\ * * *   %/ \ # % * *
+  % % % *\ * /\ * *// %  %\ <>\ // % %/ % \// % * %
+    * * *\ \|| \ \/ / % %// \ \ *\ /<> %//  %// % %<>
+   * % * %\  \  |   | ||// % || //  \// % // * * * %
+   %{} %  * ----\   \ | /   %||//   /  ---/ / * % % *
+     % *  *\ ____\   \| |    /  /  /   /----/ * %
+            \ ----\     |   /   //    /
+                   \     \ /        /'
+                    =~m/(.*)/s;$_=$1;
+                     s![-\\|_/\s]!!g
+                       ;%e=('%',0,
+                       '^',132918,
+                       '~'=>18054,
+                       '@'=>19630,
+                       '*' =>0b01,
+                       '#'=>13099,
+                       '[]'=>4278,
+                       '<>'=>2307,
+                       '{}'=>9814,
+                       '()',2076);
+                       for $a(keys
+                       %e){$e{$a}=
+                       sprintf"%b"
+                       , $e{$a};}
+                     $y= qq{(}.join(
+                     '|',map "\Q$_\E"
+                   ,keys %e).qq{)};s/$y
+              /$e{$1}/gex;print pack"B*",$_;
+
+__END__
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Mickey Kottenhahn
+
+
+#!/usr/bin/perl -w
+use strict;
+                                           $_='ev
+                                       al("seek\040D
+           ATA,0,                  0;");foreach(1..2)
+       {<DATA>;}my               @camel1hump;my$camel;
+  my$Camel  ;while(             <DATA>){$_=sprintf("%-6
+9s",$_);my@dromedary           1=split(//);if(defined($
+_=<DATA>)){@camel1hum        p=split(//);}while(@dromeda
+ ry1){my$camel1hump=0      ;my$CAMEL=3;if(defined($_=shif
+        t(@dromedary1    ))&&/\S/){$camel1hump+=1<<$CAMEL;}
+       $CAMEL--;if(d   efined($_=shift(@dromedary1))&&/\S/){
+      $camel1hump+=1  <<$CAMEL;}$CAMEL--;if(defined($_=shift(
+     @camel1hump))&&/\S/){$camel1hump+=1<<$CAMEL;}$CAMEL--;if(
+     defined($_=shift(@camel1hump))&&/\S/){$camel1hump+=1<<$CAME
+     L;;}$camel.=(split(//,"\040..m`{/J\047\134}L^7FX"))[$camel1h
+      ump];}$camel.="\n";}@camel1hump=split(/\n/,$camel);foreach(@
+      camel1hump){chomp;$Camel=$_;tr/LJF7\173\175`\047/\061\062\063
+      45678/;tr/12345678/JL7F\175\173\047`/;$_=reverse;print"$_\040
+       $Camel\n";}foreach(@camel1hump){chomp;$Camel=$_;y/LJF7\173\17
+        5`\047/12345678/;tr/12345678/JL7F\175\173\047`/;$_=reverse;p
+         rint"\040$_$Camel\n";}#japh-Erudil';;s;\s*;;g;;eval;   eval
+           ("seek\040DATA,0,0;");undef$/;$_=<DATA>;s$\s*$$g;(   );;s
+             ;^.*_;;;map{eval"print\"$_\"";}/.{4}/g; __DATA__   \124
+               \1   50\145\040\165\163\145\040\157\1 46\040\1  41\0
+                    40\143\141  \155\145\1 54\040\1   51\155\  141
+                    \147\145\0  40\151\156 \040\141    \163\16 3\
+                     157\143\   151\141\16  4\151\1     57\156
+                     \040\167  \151\164\1   50\040\      120\1
+                     45\162\   154\040\15    1\163\      040\14
+                     1\040\1   64\162\1      41\144       \145\
+                     155\14    1\162\       153\04        0\157
+                      \146\     040\11     7\047\         122\1
+                      45\15      1\154\1  54\171          \040
+                      \046\         012\101\16            3\16
+                      3\15           7\143\15             1\14
+                      1\16            4\145\163           \054
+                     \040            \111\156\14         3\056
+                    \040\         125\163\145\14         4\040\
+                    167\1        51\164\1  50\0         40\160\
+                  145\162                              \155\151
+                \163\163                                \151\1
+              57\156\056
+# camel code, copywrite 2000 by Stephen B. Jenkins
+# The use of a camel image with the topic of Perl
+# is a trademark of O'Reilly & Associates, Inc.
+# Used with permission.
+
+
+
+From: Mark Hill
+>From <URL:http://www.perlmonks.org/index.pl?node_id=258992>
+
+
+$b="24P7cP3dP31P3bPaP28P24P64P31P2cP24P64P32P2cP24P73P2cP24P67P2cP24P7
+2P29P3dP28P22P31P30P30P30P30P22P2cP22P31P30P30P30P30P30P22P2cP22P4aP75
+P7                                                                  3P
+74                                                                  P2
+0P  41P6eP6fP74P     68P65P72P20P50 P65P72P6cP2     0P48P           61
+P6  3P6bP65P72P22P   29P3bPaP40P6dP 3dP73P70P6cP6   9P74P           20
+P2  fP2fP    2cP22P  2cP2eP3aP21P2  bP2aP    30P4f  P40P2           2P
+3b  PaP24      P6eP3 dP6c           P65P6      eP67 P74P6           8P
+20  P24P7      3P3bP aP24           P75P3      dP22 P20P2           2P
+78  P24P6      eP3bP aPaP           70P72      P69P 6eP74           P2
+0P  22P5c    P6eP20  P20P           24P75    P5cP7  2P22P           3b
+Pa  PaP66P6fP72P2    8P24P7aP20P    3dP20P31P3bP    20P24           P7
+aP  3cP3dP24P6       eP3bP20P24     P7aP2bP2bP      29P20           P7
+bP  aPaP9            P77P28P24P6    4P31P29P        3bPaP           9P
+24  P72P3            dP69           P6eP74P28       P72P6           1P
+6e  P64P2            8P24           P6eP2 9P29P     3bPaP           9P
+24  P67P3            dP73           P75P6  2P73P    74P72           P2
+0P  24P73            P2cP24P72P2cP  31P3b   PaP9P   24P67P20P3fP20  P6
+4P  6fP20            P9P7bP20PaP9P9 P9P9P    9P66P  6fP72P20P28P24  P6
+bP  3dP30            P3bP24P6bP3cP3 9P3bP    24P6bP 2bP2bP29P20P7b  Pa
+P9                                                                  P9
+P9                                                                  P9
+P9  P9P73P75P6     2P73   P74P  72P2       8P24P75P2c     P24P72    P2
+cP  31P29P3dP24P   6dP5   bP24  P6bP       5dP3bP20Pa   P9P9  P9P9  P9
+P9  P70P    72P69  P6eP   74P2  0P22       P20P20P24P  75P      5cP 72
+P2  2P3b      PaP9 P9P9   P9P9  P9P7       7P28       P24        P6 4P
+32  P29P      3bPa P9P9   P9P9  P9P7       dPaP       9P9           P9
+P9  P9P7      3P75 P62P   73P7  4P72       P28P        24P7         5P
+2c  P24P    72P2c  P31P   29P3  dP24       P67P3bP20P   aP9P9       P9
+P9  P7dP20PaP9P    9P3a   P20P  72P6       5P64P6fP3b      PaP9     P7
+3P  75P62P73P      74P7   2P28  P24P       73P2cP24P7        2P2c   P3
+1P  29P3dP2        2P30   P22P  3bPa       P9P7                0P7  2P
+69  P6eP74P2       0P22   P20P  20P2       4P75                 P5c P7
+2P  22P3 bPaPa     P7dP   aPaP  77P2       0P28                 P24 P6
+4P  32P2  9P3bP    aP70   P72P  69P6       eP74       P2        0P2 2P
+20  P20P   24P75   P20P21P5cP7  2P22P3bPaP 73P6cP65P6 5P7     0P20  P3
+2P  3bPa    P70P7  2P69P6eP74P  20P22P20P2 0P24P75P20  P21P  5cP6   eP
+22  P3bP     aPaP7  3P75P62P2   0P77P20P7b PaP9P24P6c    P3dP73     P6
+8P                                                                  69
+P6                                                                  6P
+74P3bPaP9P66P6fP72P28P24P6aP3dP30P3bP24P6aP3cP24P6cP3bP24P6aP2bP2bP29P
+7bP7dPaP7dP";$b=~s/\s//g;split /P/,$b;foreach(@_){$c.=chr hex};eval $c
+
+
+The above Perl scripts prints out "Just Another Perl Hacker !" in an
+animation of sorts.
+

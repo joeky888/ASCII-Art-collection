@@ -1,0 +1,35 @@
+
+
+LSD:
+                     H
+                     |
+               H  H  C--H
+                `.|,'|
+                  C  H  H
+                  |     |
+             O    N  H  C
+             \\ ,' `.|,'|`.
+               C     C  H  H
+               |     |
+            H--C     H
+             ,' `.
+      H  H--C  H--C--H
+      |     ||    |
+H     C     C     N  H  H
+ `. ,' `. ,' `. ,' `.|,'
+   C  _  C  H  C     C
+   | (_) |   `.|     |
+   C     C     C     H
+ ,' `. ,' `. ,' `.
+H     C     C     H
+      |    ||
+      N-----C
+      |     |
+      H     H
+
+Lysergic Acid Diethylamide
+(9,10-didehydro-N,N-diethyl-6-methyl-8b-ergoline-8-carboxamide)
+C20 H25 N3 O
+
+
+Ben Norwood

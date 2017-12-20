@@ -1,0 +1,43 @@
+
+
+From: Philip Newton
+On Tue, 25 Dec 2001 21:08:04 +0100, Michael Schierl wrote:
+
+> obAscii: 
+> 
+> || \/ ||
+>    /\      (English quotes)
+
+Not quite... those are ASCII quotes. English quotes are more like
+
+    66 \/ 99     or      \\ \/ //
+       /\                   /\
+
+(The second form is how "smart" quotes look like in Courier New, as
+well.)
+
+>    \/ //  
+> // /\      (German quotes)
+
+And those could also be rendered as
+
+       \/ 66
+    99 /\
+
+> \\ \/  //
+> // /\  \\  (French quotes(?))
+
+And there's also
+
+    // \/ \\
+    \\ /\ //
+
+I'm not sure who uses << >> and who uses >> << style, but both are in
+use.
+
+
+
+From: Timofei Shatrov 
+
+
+<<blabla>> and ,,blabla'' are used in Russia.

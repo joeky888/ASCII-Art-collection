@@ -1,0 +1,26 @@
+ 88888888888a              a88888888888
+ 8         YI              IP         8
+ 8         `8,            ,8'         8
+ 8          8I            I8          8
+ 8          8I            I8          8
+ 888     O  8I            I8  O     888
+   8        8I            I8        8
+  ,8       ,8'            `8,       8,
+ ,8'      ,8I              I8,      `8,
+,8'   O  ,8I'              `I8,  O   `8,
+IP       dP'                `Yb       YI
+8'      d8'                  `8b      `8
+8       I8                    8I       8
+8,      I8,                  ,8I      ,8
+Yb   O  `8b,                ,d8'  O   dP
+`8,      `8b,              ,d8'      ,8'
+ Yb       `Yba            adP'       dP
+ `8b        `Yba,_    _,adP'        d8'
+  `Yb,        `"YYbbddPP"'        ,dP'
+   `Yba     O              O     adP'
+     "Yba,                    ,adP"
+       `"YbaaaaaaaaaaaaaaaaaadP"'
+          `"YYba,      ,adPP"'
+             `""YYbbddPP""'
+
+(Norman Veilleux ?)

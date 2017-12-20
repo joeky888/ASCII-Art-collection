@@ -1,0 +1,86 @@
+
+
+
+
+          mathemagician
+ 
+     1+1=2    /\
+           \ c")
+            ;-/\>
+              ||
+ kOs
+
+
+
+
+
+
+
+From: burmeist@eel.micro.umn.edu (Robert A. Burmeister)
+
+
+The following are some examples of mathematical symbols made out of ascii
+characters.  They are useful to use in comments in programs.  Or they are
+very useful if you don't know TeX or other means for typesetting mathematics.
+
+
+3 __                                 ___         _________
+\/8   or better, but bigger is    3 / 8   or    / 2    2
+                                  \/          \/ x  + y
+
+
+ x  oo  k
+e = E  x / k!
+   k=1
+
+
+or better, but bigger is
+
+
+     oo   k
+ x   __  x
+e  = \  ---
+     /_  k!
+     k=1
+
+
+     _       _
+ d  |    1    |      1
+ -- |  -----  | = ------ 2
+ dx |_ 1 - x _|   (1 - x)
+
+
+__
+\/ . B = 0    if you know what Maxwell's equations are    div(B) = 0
+
+
+__          ____
+| \ 1      / pi
+|   - =   / ---
+|   2   \/   2
+
+
+
+ |^ sin(x) dx = -cos(x) + C
+^
+
+
+or better, but bigger
+
+
+ |^
+ | F dx = work
+ |
+^
+
+
++oo
+ |^ sin(ax) sin(bx)         (pi)a
+ |  --------------- dx  =   ----- ,   if a < b
+ |          2                 2
+^          x
+ 0
+
+
+
+

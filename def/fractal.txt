@@ -1,0 +1,434 @@
+
+
+
+
+                                    \
+                                    `\,/
+                                    .-'-.
+                                   '     `
+                                   `.   .'
+                            `._  .-~     ~-.   _,'
+                             ( )'           '.( )
+               `._    _       /               .'
+                ( )--' `-.  .'                 ;
+           .    .'        '.;                  ()
+            `.-.`           '                 .'
+  ----*-----;                                .'
+            .`-'.           ,                `.
+           '    '.        .';                  ()
+                (_)-   .-'  `.                 ;
+               ,'   `-'       \               `.
+                             (_).           .'(_)
+                            .'   '-._   _.-'    `.
+                                   .'   `.
+                                   '     ;              ^aNT
+                                    `-,-'
+                                     /`\
+                                   /`
+
+                       ,
+                      _o_
+                 ._ ,'   `o'
+             ----(_)      :       ^aNT
+                 '  `.   .o
+                      ~o~  `
+                       '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   ....................
+               .<<<<<<<<<<<<<<<<<<<<<<<<<<..
+           .<<<<<<<::::::<<<<<<<<<<<<<<<<<<<<<:.
+         :<<<<<<<:xxXHHHix:<<<<<<<<<<<<<<<<<<<<<<<::
+       <<<<<<<<:xHMPN*!C2M!<<<<<<<<<<<<<<<<<<<<<<<<<<::
+     <<<<<<<:<XXMtC"S..RMMX!!<<<<<<<<<<<<<<<<<<<<<<<<<<<<:
+    <<<<<<<xHHMM@F" '#8MMMMX!!<:<<<<<<<<<<<<<<<<<<<<<<<<<<<<:
+   <<<<<<<XM"***8>    X8MMMMX!!!<::<<<<<<<<<<<<<<<<<<<<<<<<<<<:
+ :<<<<<<<<XMx. '#h   .98MMMMHH!!!!!<:<<<<<<<<<<<<<<<<<<<<<<<<<<<:
+'<<<<<<<<!XM98*! ^Lu@888@8MMMMMHHXXX!!<<<<:::::::::::<<<<<<<<<<<<<<
+<<<<<<<<<~XM?L :L'""""'`'#!"*3MMMMMMMHHHHXXXXXXXXXXXXXXxx::<<<<<<<<<<
+<<<<<<<<<<?MMR@8F         '*o8MMMMMMM98!MM*MMMMMMMMMM?*9MXX<::<<<<<<<<<
+<<<<<<<<<<!?MMN8~          '#88MMMM98P*/M"4NMMMMMMNM!SLWMMHX!!<:<<<<<<<<
+<<<<<<<<<<!!MMM?"           s8B8NN****= 4e@*NNM88Ef  ^"*8MMMHHXXxx:<<<<<<:
+<<<<<<<<<<!!HMMM@L.         UI88RR^      ^ '"#888k:    t8N8MM8M!8M!X<:<<<<:
+<<<<<<<<<!!!MMMM888Wuu.     78*8`             ^**NN.   988""""#-M:zMH!:<<<<<
+<<<<<<<<:!XHMMMN888*R8Nc.   88H#                '"#hL  8P"     s`^"?9X!<<<<<
+<<<<<<<:XHMMM9X'"`"    ""  dP"                    . ` /"       9bmnh(M!<<<<<<
+~<<<<<<XE2@**8f      .z  .'"                    u@F ...    ..x'RMMMMM!!<<<<<<<
+ ~<<<<<?M5C..?~     x8P  "ho.                 d@8F  '"*NN@@8N8MRMMM?!!<<<<<<<<
+ '<<<<<!?MM#)>+u...JN8>   "8Ne:.            .:B@6L     "##888RMMMM!!!<<<<<<<<<
+   <<<<<!!%nMRdR5HMR8R>    `8888:.. .     ./B@88ZF        '"M*MMM%!!<<<<<<<<<<
+    ~<<<<<~!!???MMMMMNc.   /8RRM88W**r:+eWd@8888P-           xXMMX!!<<<<<<<<<<
+     ~<<<<<<<<!!!!?MM@F7Lx@RRMMMMM8<xk)o9RMMMMM8Nu           d8MMMX!<<<<<<<<<<
+      `<<<<<<<<<!!!?MMhH(MMMMMMMMM9dMHdRMMMMMMM9P#h         .88@8MH!<<<<<<<<<<
+        ~<<<<<<<<<<!!!!??????????????MMMMMMMMMM@hn:sc . ....'R  t2M!:<<<<<<<<~
+          ~<<<<<<<<<<<<<~!!!!!!!!!!!!!!!!!???MMMMMMMRN88R@") (nmMMM!!<<<<<<<<
+            ~<<<<<<<<<<<<<<<<<<<<<<<<<<<<!!!!!!?MMMMMM8f   'hL  "*M!!<<<<<<<
+              ~<<<<<<<<<<<<<<<<<<<<<<<<<<<<~!!!!!?MMMNZ>    98nn:xM!<<<<<<<~
+                `~<<<<<<<<<<<<<<<<<<<<<<<<<<<<!!!!?MMM8bu. .HRMMMM!<<<<<<<
+                   `~<<<<<<<<<<<<<<<<<<<<<<<<<<<!!!MM9M""S.?MM?!!!<<<<<<~
+                       ~<<<<<<<<<<<<<<<<<<<<<<<<<~!?MC7xdRXM!!!<<<<<<<~
+           "Fractal"      ~~<<<<<<<<<<<<<<<<<<<<<<<!!*MMM?!!!<<<<<<<~
+                             ""<<<<<<<<<<<<<<<<<<<<<<<:::<<<<<<<<""
+           -Bob Allison           """<<<<<<<<<<<<<<<<<<<<<<"""
+                                         """""""""""""
+
+
+
+
+Fractal Tree
+
+              v  v        v  v
+           >__|  |__<  >__|  |__<
+         v    \\//        \\//     v
+      >__|     ||          ||      |__<
+         \\.___||          ||____.//
+          ).--. |          | .---.(
+         //    \ \.      ,/ /     \\
+       >-.      `\ \.  ,/ /'       .-<
+         ^        `\ \/ /'         ^
+                    |  |
+                    |  |
+                    |  |
+                    |  |
+                    |  |
+                    |  |
+                    |  |
+
+
+Michael Naylor
+
+
+
+
+From : kennedy@inside.com.tw
+
+
+                                                ,_
+                                              iW@@Wi
+                                              !@@@@f
+                                      __ ,gsmWmmWWmmmmsz
+                                      M@W@@@@@@@@@@@@@@@@bd@P
+                                   ,sm@@@@@@@@@@@@@@@@@@@@@W_
+                                  ,m@@@@@@@@@@@@@@@@@@@@@@@@@s.
+                      s.,_s..    ,W@@@@@@@@@@@@@@@@@@@@@@@@@@W
+                    ,_@@@@@@@Ws. d@@@@@@@@@@@@@@@@@@@@@@@@@@@@`
+                    W@@@@@@@@@@@.@@@@@@@@@@@@@@@@@@@@@@@@@@@@A
+                i@@W@@@@@@@@@@@@W@@@@@@@@@@@@@@@@@@@@@@@@@@P`
+                 ~~`@@@@@@@@@@@@!@@@@@@@@@@@@@@@@@@@@@@@@@@@Ws
+                    !*@@@@@@@@Af M@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+                      AfV*Aff`   !@@@@@@@@@@@@@@@@@@@@@@@@@@@@`
+                                  !@@@@@@@@@@@@@@@@@@@@@@@@@@D-
+                                   -A@@@@@@@@@@@@@@@@@@@@@@@*
+                                      8@@@@@@@@@@@@@@@@@@AMWi
+                                      **'VMA@@@@@@@@@@AK~`'~~
+                                             `,mWWm.
+                                              ]@@@@P
+                                               'V*`
+
+
+
+
+
+                          ,                             ,
+                  mWm,gWmm@Wssi
+                  'X@@@@@@@@@@Wi      _. ,e@z,,.   _Wmmz
+                  =@@@@@@@@@@@@@ ,,mW@@@@@@@@@@@Wms@@@@A
+                  m@@@@@@@@@@@@5m@@@@@@@@@@@@@@@@@@@@KL
+                    YA@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Wm-
+                      'V~V~TW@@@@@@@@@@@@@@@@@@@@@@@@@@@@bg.
+                          ,W@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Af`
+                         iW@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@'
+                       - M@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A~
+                        ,8@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@P\
+                       -Y*M@@@@@@@@@@@@@@@@@@@@@@@@A**~
+                          !8@@@@@@@@@@@@@@@@@@@@@@@@i
+                           -YM@@@@@@@@@@@@@@@@@@@@@P`
+                           ,mm@@@@@@@@@@@@@@@@@@@@*-
+                          'W@@@@[VVM@@@@@@@@@@A*Wz
+                           =***f`   -~~~~e@Wc
+                                          '`                         .
+
+
+
+
+From: (Curd Reinert)
+
+ I found a three liner in C producing a Mandelbrot set. However, it was
+never supposed to do any kind of ascii-art, but to show how obscure
+C code can be. Here it is:
+
+float o=0.075,h=1.5,T,r,O,l,I;int _,L=80,s=3200;main(){for(;s%L||
+(h-=o,T= -2),s;4 -(r=O*O)<(l=I*I)|++ _==L&&write(1,(--s%L?_<L?--_
+%6:6:7)+"World! \n",1)&&(O=I=l=_=r=0,T+=o /2))O=I*2*O+h,I=l+T-r;}
+
+And that's its output (sorry, 80 colums):
+
+WWWWWWWWWWWWWWWWooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+WWWWWWWWWWWWWWooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+WWWWWWWWWWWWWooooooooooooooooorrrrrrrrrrrrrrrrrrrrroooooooooooooooooooooooooooo
+WWWWWWWWWWWoooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrooooooooooooooooooooo
+WWWWWWWWWWooooooooorrrrrrrrrrrrrrrrrrrrrrrllllld!!ddllllrrrrrrooooooooooooooooo
+WWWWWWWWoooooooorrrrrrrrrrrrrrrrrrrrrrllllllldd!oWW!!dllllllrrrrroooooooooooooo
+WWWWWWWoooooorrrrrrrrrrrrrrrrrrrrrrlllllllldddd!orro!o!dllllllrrrrrrooooooooooo
+WWWWWWooooorrrrrrrrrrrrrrrrrrrrrllllllllldddd!WorddddoW!ddllllllrrrrrrooooooooo
+WWWWWoooorrrrrrrrrrrrrrrrrrrrrlllllllllddd!!!o!!!   !dWW!ddddllllrrrrrrrooooooo
+WWWWooorrrrrrrrrrrrrrrrrrrrllllllllldd!!!!WWWoo      WloW!!!ddddllrrrrrrrrooooo
+WWWWoorrrrrrrrrrrrrrrrrrrlllllllddddWldolrrlo!Wl     r!dlooWWWoW!dllrrrrrrroooo
+WWWoorrrrrrrrrrrrrrrrrlllllddddddd!!Wdo  l!               rdo!l!r!dlrrrrrrrrooo
+WWoorrrrrrrrrrrrrrrlllddddddddd!!!!oolWW                       lW!ddlrrrrrrrroo
+WWorrrrrrrrrrrrllld!!!!!dddd!!!!WWrd !                        rlW!ddllrrrrrrrro
+Worrrrrrrllllllddd!oooWWWoloWWWWoodr                           drrWdlllrrrrrrrr
+Worrrlllllllldddd!WolWrr!!dWWWlrrldr                            ro!dlllrrrrrrrr
+Wrrllllllllddddd!WWolWr        oWoo                              r!dllllrrrrrrr
+Wlllllllldddd!!odrrdW            o                              lWddllllrrrrrrr
+Wlddddd!!!!!WWordlWrd                                          oW!ddllllrrrrrrr
+olddddd!!!!!WWordlWrd                                          oW!ddllllrrrrrrr
+Wlllllllldddd!!odrrdW            o                              lWddllllrrrrrrr
+Wrrllllllllddddd!WWolWr        oWoo                              r!dllllrrrrrrr
+Worrrlllllllldddd!WolWrr!!dWWWlrrldr                            ro!dlllrrrrrrrr
+Worrrrrrrllllllddd!oooWWWoloWWWWoodr                           droWdlllrrrrrrrr
+WWorrrrrrrrrrrrllld!!!!!dddd!!!!WWrd !                        rlW!ddllrrrrrrrro
+WWoorrrrrrrrrrrrrrrlllddddddddd!!!!oolWW                       lW!ddlrrrrrrrroo
+WWWoorrrrrrrrrrrrrrrrrlllllddddddd!!Wdo  l!               rdo!l!r!dlrrrrrrrrooo
+WWWWoorrrrrrrrrrrrrrrrrrrlllllllddddWldolrrlo!Wl     r!dlooWWWoW!dllrrrrrrroooo
+WWWWooorrrrrrrrrrrrrrrrrrrrllllllllldd!!!!WWWoo      WloW!!!ddddllrrrrrrrrooooo
+WWWWWoooorrrrrrrrrrrrrrrrrrrrrlllllllllddd!!!o!!!   WdWW!ddddllllrrrrrrrooooooo
+WWWWWWooooorrrrrrrrrrrrrrrrrrrrrllllllllldddd!WorddddoW!ddllllllrrrrrrooooooooo
+WWWWWWWoooooorrrrrrrrrrrrrrrrrrrrrrlllllllldddd!orro!o!dllllllrrrrrrooooooooooo
+WWWWWWWWoooooooorrrrrrrrrrrrrrrrrrrrrrllllllldd!oWW!!dllllllrrrrroooooooooooooo
+WWWWWWWWWWooooooooorrrrrrrrrrrrrrrrrrrrrrrllllld!!ddllllrrrrrrooooooooooooooooo
+WWWWWWWWWWWoooooooooooorrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrooooooooooooooooooooo
+WWWWWWWWWWWWWooooooooooooooooorrrrrrrrrrrrrrrrrrrrroooooooooooooooooooooooooooo
+WWWWWWWWWWWWWWooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+WWWWWWWWWWWWWWWWooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+WWWWWWWWWWWWWWWWWWWoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+WWWWWWWWWWWWWWWWWWWWWoooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: vlinders@rcl.wau.nl (meindert de jong <^_^>)
+
+
+
+
+
+                       __/\__
+                       \    /
+                 __/\__/    \__/\__
+                 \                /
+                 /__            __\
+                    \          /
+      __/\__      __/          \__      __/\__
+      \    /      \              /      \    /
+__/\__/    \__/\__/              \__/\__/    \__/\__
+
+
+                    _
+                  _| |_
+                _|     |_
+              _|_       _|_
+            _| |_|     |_| |_
+          _|                 |_
+        _|_                   _|_
+      _| |_|_   _       _   _|_| |_
+    _|     |_|_|_|     |_|_|_|     |_
+  _|_       _|_|_       _|_|_       _|_
+_| |_|     |_| |_|     |_| |_|     |_| |_
+
+              __
+           __|  |   __
+          |__   |__|  |__
+        _____|      _____|
+   __  |__         |__                __
+__|  |  __|           |            __|  |   __
+     |__|             |__         |__   |__|
+                    _____|      _____|
+                   |__    __   |__
+                      |__|  |   __|
+                            |__|
+
+ __    __    __    __    __    __    __    __
+|  |__|  |  |  |__|  |  |  |__|  |  |  |__|  |
+|__    __|  |__    __|  |__    __|  |__    __|
+ __|  |________|  |__    __|  |________|  |__
+|   _____    _____   |  |   _____    _____   |
+|__|   __|  |__   |__|  |__|   __|  |__   |__|
+ __   |__    __|   __    __   |__    __|   __
+|  |_____|  |_____|  |__|  |_____|  |_____|  |
+|__    _____    _____    _____    _____    __|
+ __|  |__   |__|   __|  |__   |__|   __|  |__
+|   __   |   __   |__    __|   __   |   __   |
+|__|  |__|  |  |_____|  |_____|  |  |__|  |__|
+ __    __   |   _____    _____   |   __    __
+|  |__|  |  |__|   __|  |__   |__|  |  |__|  |
+|__    __|   __   |__    __|   __   |__    __|
+ __|  |_____|  |_____|  |_____|  |_____|  |__
+
+
+               /\
+              /\/\
+             /\  /\
+            /\/\/\/\
+           /\      /\
+          /\/\    /\/\
+         /\  /\  /\  /\
+        /\/\/\/\/\/\/\/\
+       /\              /\
+      /\/\            /\/\
+     /\  /\          /\  /\
+    /\/\/\/\        /\/\/\/\
+   /\      /\      /\      /\
+  /\/\    /\/\    /\/\    /\/\
+ /\  /\  /\  /\  /\  /\  /\  /\
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+
+                                              __/\__
+(From Kerry Mitchell, August 1991)            \    /
+   (repositioned to save space)         __/\__/    \__/\__
+                                        \                /
+               /\                       /__            __\
+              /\/\                         \          /
+             /\  /\          __/\__      __/          \__      __/\__
+            /\/\/\/\         \    /      \              /      \    /
+           /\      /\  __/\__/    \__/\__/              \__/\__/    \__/\__
+          /\/\    /\/\                                _
+         /\  /\  /\  /\                             _| |_
+        /\/\/\/\/\/\/\/\                          _|     |_
+       /\              /\        YEAH!          _|_       _|_
+      /\/\            /\/\                    _| |_|     |_| |_
+     /\  /\          /\  /\                 _|                 |_
+    /\/\/\/\        /\/\/\/\              _|_                   _|_
+   /\      /\      /\      /\           _| |_|_   _       _   _|_| |_
+  /\/\    /\/\    /\/\    /\/\        _|     |_|_|_|     |_|_|_|     |_
+ /\  /\  /\  /\  /\  /\  /\  /\     _|_       _|_|_       _|_|_       _|_
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\  _| |_|     |_| |_|     |_| |_|     |_| |_
+
+.. ... ... ... ... ... ... ...
+: :.: : : :.: : : :.: : : :.: :      (From Lauri Kanerva, May 1990)
+:.. ..: :.. ..: :.. ..: :.. ..:
+.: :.....: :.. ..: :.....: :..
+: ..... ..... : : ..... ..... :
+:.: ..: :.. :.: :.: ..: :.. :.:
+.. :.. ..: ... ... :.. ..: ...
+: :...: :...: :.: :...: :...: :
+:.. ..... ..... ..... ..... ..:
+.: :.. :.: ..: :.. :.: ..: :..
+: ... : ... :.. ..: ... : ... :
+:.: :.: : :...: :...: : :.: :.:
+.. ... : ..... ..... : ... ...
+: :.: : :.: ..: :.. :.: : :.: :
+:.. ..: ... :.. ..: ... :.. ..:
+.: :...: :...: :...: :...: :..
+
+
+*----------*          *----------@
+|          |           \                   (From Will Gilbert, May 1990)
+|          |            \
+|  *----------*          *----------*
+*  |       *  |       *----------*  |
+|  |        \ |        \         |  |
+|  |  *----------*      \   *----------*
+|  *  |       *  |       *---\------*  |
+*   \ |    *-----|----*       \  *     |
+ \   \|  *----------*  \       *----------@
+  \   *  |   \   *  |   \   *----------*
+   *     |    *   \ |    *   \      *
+*--|-----|-*  |    \| *--|----\--*  |
+ \ |     *  \ |     *  \ |     *----------*
+  \|  *  |   \|  *      \|  *      \|  *  |
+   *  |\ |    *  |\      *  |\      *  |\ |
+      | \|       | \        | \        | \|
+      |  *       |  *----------*       |  *
+      *          *          *          *
+       \          \          \          \
+        \          \          \          \                Will Gilbert
+         *----------*          *----------*
+
+
+
+
+
+
+
+
+
+:.                              
+:.:.                            
+:.  :.                          
+:.:.:.:.                        
+:.      :.                      
+:.:.    :.:.                    
+:.  :.  :.  :.                  
+:.:.:.:.:.:.:.:.                
+:.              :.              
+:.:.   [Raf256] :.:.            
+:.  :.          :.  :.          
+:.:.:.:.        :.:.:.:.        
+:.      :.      :.      :.      
+:.:.    :.:.    :.:.    :.:.    
+:.  :.  :.  :.  :.  :.  :.  :.  
+:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:. 
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::      ::::::::::::      ::::::::::::      ::::::
+::  ::      ::  ::::  ::      ::  ::::  ::      ::  ::
+::::::      ::::::::::::      ::::::::::::      ::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::                  ::::::::::::::::::
+::  ::::  ::::  ::                  ::  ::::  ::::  ::
+::::::::::::::::::                  ::::::::::::::::::
+::::::      ::::::                  ::::::      ::::::
+::  ::      ::  ::    [Raf256]      ::  ::      ::  ::
+::::::      ::::::                  ::::::      ::::::
+::::::::::::::::::                  ::::::::::::::::::
+::  ::::  ::::  ::                  ::  ::::  ::::  ::
+::::::::::::::::::                  ::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::      ::::::::::::      ::::::::::::      ::::::
+::  ::      ::  ::::  ::      ::  ::::  ::      ::  ::
+::::::      ::::::::::::      ::::::::::::      ::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::::  ::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::: 

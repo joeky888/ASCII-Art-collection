@@ -1,0 +1,258 @@
+88888888888888888888888888888888888888888888888888888888888888888888888
+88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .'|   |.'|     |  _..88
+88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .'  |.;'   |   _.!-'|  88
+88      | `-!._  |  `;!  ;. _______________ ,'| .-' |   _!.i'     |  88
+88..__  |     |`-!._ | `.| |_______________||."'|  _!.;'   |     _|..88
+88   |``"..__ |    |`";.| i|_|MMMMMMMMMMM|_|'| _!-|   |   _|..-|'    88
+88   |      |``--..|_ | `;!|l|MMoMMMMoMMM|1|.'j   |_..!-'|     |     88
+88   |      |    |   |`-,!_|_|MMMMP'YMMMM|_||.!-;'  |    |     |     88
+88___|______|____!.,.!,.!,!|d|MMMo * loMM|p|,!,.!.,.!..__|_____|_____88
+88      |     |    |  |  | |_|MMMMb,dMMMM|_|| |   |   |    |      |  88
+88      |     |    |..!-;'i|r|MPYMoMMMMoM|r| |`-..|   |    |      |  88
+88      |    _!.-j'  | _!,"|_|M<>MMMMoMMM|_||!._|  `i-!.._ |      |  88
+88     _!.-'|    | _."|  !;|1|MbdMMoMMMMM|l|`.| `-._|    |``-.._  |  88
+88..-i'     |  _.''|  !-| !|_|MMMoMMMMoMM|_|.|`-. | ``._ |     |``"..88
+88   |      |.|    |.|  !| |u|MoMMMMoMMMM|n||`. |`!   | `".    |     88
+88   |  _.-'  |  .'  |.' |/|_|MMMMoMMMMoM|_|! |`!  `,.|    |-._|     88
+88  _!"'|     !.'|  .'| .'|[@]MMMMMMMMMMM[@] \|  `. | `._  |   `-._  88
+88-'    |   .'   |.|  |/| /                 \|`.  |`!    |.|      |`-88
+88      |_.'|   .' | .' |/                   \  \ |  `.  | `._    |  88
+88     .'   | .'   |/|  /                     \ |`!   |`.|    `.  |  88
+88  _.'     !'|   .' | /                       \|  `  |  `.    |`.|  88
+88 vanishing point 888888888888888888888888888888888888888888888(FL)888
+Felix Lee
+
+
+
+
+
+From: Nveilleu@emr1.emr.ca (Normand Veilleux)
+[From a long discussion on mazes.  See below for how to make them easily.]
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   a
+8   8               8               8           8                   8   8
+8   8   aaaaaaaaa   8   aaaaa   aaaa8aaaa   aaaa8   aaaaa   aaaaa   8   8
+8               8       8   8           8           8   8   8       8   8
+8aaaaaaaa   a   8aaaaaaa8   8aaaaaaaa   8aaaa   a   8   8   8aaaaaaa8   8
+8       8   8               8           8   8   8   8   8           8   8
+8   a   8aaa8aaaaaaaa   a   8   aaaaaaaa8   8aaa8   8   8aaaaaaaa   8   8
+8   8               8   8   8       8           8           8       8   8
+8   8aaaaaaaaaaaa   8aaa8   8aaaa   8   aaaaa   8aaaaaaaa   8   aaaa8   8
+8           8       8   8       8   8       8           8   8           8
+8   aaaaa   8aaaa   8   8aaaa   8   8aaaaaaa8   a   a   8   8aaaaaaaaaaa8
+8       8       8   8   8       8       8       8   8   8       8       8
+8aaaaaaa8aaaa   8   8   8   aaaa8aaaa   8   aaaa8   8   8aaaa   8aaaa   8
+8           8   8           8       8   8       8   8       8           8
+8   aaaaa   8   8aaaaaaaa   8aaaa   8   8aaaa   8aaa8   aaaa8aaaaaaaa   8
+8   8       8           8           8       8   8   8               8   8
+8   8   aaaa8aaaa   a   8aaaa   aaaa8aaaa   8   8   8aaaaaaaaaaaa   8   8
+8   8           8   8   8   8   8           8               8   8       8
+8   8aaaaaaaa   8   8   8   8aaa8   8aaaaaaa8   aaaaaaaaa   8   8aaaaaaa8
+8   8       8   8   8           8           8   8       8               8
+8   8   aaaa8   8aaa8   aaaaa   8aaaaaaaa   8aaa8   a   8aaaaaaaa   a   8
+8   8                   8           8               8               8   8
+8   8aaaaaaaaaaaaaaaaaaa8aaaaaaaaaaa8aaaaaaaaaaaaaaa8aaaaaaaaaaaaaaa8aaa8
+
+
+"If you wish to create your own mazes use the following grid and
+replicate the bottom two lines as many times as you need to make a
+large rectangle of little squares."
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8   8
+8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8aaa8
+
+"Then, all you have to do is knock down walls.  As a finishing
+touch, replace by an 'a' all the 8's that are on top of a vertical
+line or that show through a line of a's."
+
+
+
+
+
+
+From: stock@fwi.uva.nl (Lennert Stock)
+[This next one is the view from inside a maze.]
+
+  \ \_\ .----------.     /
+   \   (  ||    ||  )   /..
+|\  \   ~-||====||-~_  ///\\
+| \  \    ||    || // /((()))
+ \|  |    ||====|| ~ / \\\///
+     |__  ||    ||   |  `|''
+     | |\ ||====|| __|  _|_
+     | | \`'    `'/| |  =O=
+     | | |_ `    / | |   ~
+     | | ||\____|  | |_
+ _   | | || ____|  | |_]
+| |  | | |l/::::|  | |
+|/   | | |::::::\  | |
+     | | /:::::::\ | |
+     |_|/:::::::::\|_|
+  /|/|:.:.:.:.:.:.:.:|
+ | / |.:.:.:.:.:.:.:.|
+ |/| /...............\ |\
+   |/.................\ \|
+   /. . . . . . . . . .\
+  /. . . . . . . . . . .\
+
+
+
+
+
+
+
+
+
+\                           /
+ \                         /
+  \                       /
+   ]                     [    ,'|
+   ]                     [   /  |
+   ]___               ___[ ,'   |
+   ]  ]\             /[  [ |:   |
+   ]  ] \           / [  [ |:   |
+   ]  ]  ]         [  [  [ |:   |
+   ]  ]  ]__     __[  [  [ |:   |
+   ]  ]  ] ]\ _ /[ [  [  [ |:   |
+   ]  ]  ] ] (#) [ [  [  [ :===='
+   ]  ]  ]_].nHn.[_[  [  [
+   ]  ]  ]  HHHHH. [  [  [
+   ]  ] /   `HH("N  \ [  [
+   ]__]/     HHH  "  \[__[
+   ]         NNN         [
+   ]         N/"         [
+   ]         N H         [
+  /          N            \
+ /           q,            \
+/                           \
+
+
+  O!o
+
+
+
+
+
+
+
+
+
+
+
+From: CJRandall <colin@shieldwolf.demon.co.uk>
+
+[][ hi ...
+
+trawling my archives ... (mag-tape2cd procedure)
+
+i found something which some readers may find of passing interest
+
+the snippet-items below were taken from:-
+
+>
+>From: gregm@otc.otca.oz.au (Greg McFarlane)
+>Newsgroups: alt.sources
+>Subject: VI SOLVES MAZE (commented macros)
+>Date: 10 Feb 91 23:31:02 GMT
+>
+>A real working model. See it walk the maze in front of your very own eyes.
+>To prove that you can do anything in vi, I wrote a couple of macros that
+>allows vi to solve mazes. It will solve any maze produced by maze.c
+>that was posted to alt.sources last month.
+>
+>After studying these macros, anyone who cannot write an emacs emulator
+>in vi macros should just curl up and :q!.
+>
+>Coming soon to a newsgroup near you: "Vi macros solve Tower of Hanoi",
+>and a repost of the original "Turing Machine implemented in Vi macros"
+>
+>Anyone who has a version of these macros for edlin or nroff, please post.
+>
+
+
+maze.c - John Tromp (tromp@piring.cwi.nl)
+
+char*M,A,Z,E=40,J[40],T[40];main(C){for(*J=A=scanf(M="%d",&C);
+--            E;             J[              E]             =T
+[E   ]=  E)   printf("._");  for(;(A-=Z=!Z)  ||  (printf("\n|"
+)    ,   A    =              39              ,C             --
+)    ;   Z    ||    printf   (M   ))M[Z]=Z[A-(E   =A[J-Z])&&!C
+&    A   ==             T[                                  A]
+|6<<27<rand()||!C&!Z?J[T[E]=T[A]]=E,J[T[A]=A-Z]=A,"_.":" |"];}
+
+[i got segmentation-fault with this][i486 gcc2.6 linux1.3.0]
+
+
+maze.ansi.c - antonyc@nntp-server.caltech.edu (Bill T. Cat)
+
+char*M,A,Z,E=40,J[80],T[3];main(C){for(M=J+E,*J=A=scanf("%d",&
+C)            ;--            E;J             [E            ]=M
+[E   ]=  E)   printf("._");  for(;(A-=Z=!Z)  ||  (printf("\n|"
+)    ,   A    =              39              ,C             --
+)    ;   Z    ||    printf   (T   ))T[Z]=Z[A-(E   =A[J-Z])&&!C
+&    A   ==             M[                                  A]
+|6<<11<rand()||!C&!Z?J[M[E]=M[A]]=E,J[M[A]=A-Z]=A,"_.":" |"];}
+     .
+    /|\
+     |
+     `---- i had to change this to 27 (my rand.seed default is 1)
+
+
+with an input value of 5 (rows)
+produces:
+._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+| ._| . . ._| | |_._._. . ._|_._._._._. ._|_. ._|_._. ._| | . ._|_. | . ._._. |
+| ._|_| |_. | | | | ._._|_._|_._. . |_. | | | ._._| |_._._._| | ._. ._| . . |_|
+|_._._._. | ._|_. ._._._. | | ._. |_._. . | ._._| |_. | . ._._._. |_. | |_|_| |
+| | . |_._| . ._._._| ._._. ._._| | | |_| . | |_. . ._|_|_| ._._. |_._|_| . | |
+|_._|_._._._|_._._._|_|_._._._|_._|_._._._|_._._._|_._._._._|_._._._._._._|_._|
+|
+
+
+and using this - maze.ansi40.c
+
+char*M,A,Z,E=20,J[40],T[3];main(C){for(M=J+E,*J=A=scanf("%d",&
+C)            ;--            E;J             [E            ]=M
+[E   ]=  E)   printf("._");  for(;(A-=Z=!Z)  ||  (printf("\n|"
+)    ,   A    =              19              ,C             --
+)    ;   Z    ||    printf   (T   ))T[Z]=Z[A-(E   =A[J-Z])&&!C
+&    A   ==             M[                                  A]
+|6<<27<rand()||!C&!Z?J[M[E]=M[A]]=E,J[M[A]=A-Z]=A,"_.":" |"];}
+
+cc -o maze40 maze.ansi40.c
+maze40
+with an input value of 15
+gave:
+._._._._._._._._._._._._._._._._._._._
+| |_. ._._| |_._._. |_. | |_. |_. ._._|
+|_. | | | |_. . |_._._._._. ._|_. | ._|
+| . | | |_. |_| | | ._._._. |_. ._. | |
+|_| . ._._._._| | |_. ._| | |_._| | | |
+|_. | ._|_. |_._._. |_| | | | | | |_. |
+| | |_| ._. | | |_. . |_. | ._| | ._. |
+|_._._. | ._._|_._._| |_. ._._. . . | |
+|_._._. | ._._. ._._|_. ._._. | |_|_|_|
+| | | ._|_|_._. | . |_. . ._|_| ._. ._|
+|_. | . |_._. | . |_. ._| |_. | ._|_| |
+|_._. |_. . . |_| ._|_| |_| | ._. ._| |
+|_._. . | |_|_._| . ._._._| |_._| |_. |
+| | . |_| ._._| | |_|_. | ._._. ._._| |
+| |_| |_._._._._| | |_. |_. | |_|_. | |
+|_._._|_._._._._._|_._._._._._._._._._|
+|
+
+watching vi solve the maze is quite entertaining
+(the maze.vi.macros are binary)
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,267 @@
+
+See `abacus' for more!
+
+
+
+
+soroban (Japanese abacus)
+
+
+
+  _____________________________________________________________________
+,  ___________________________________________________________________ `
+| |(_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_)| |
+| |_|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|___|_| |
+| | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | |
+| |(e) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_)| |
+| |(j) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_)| |
+| |(m) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_) (_)| |
+| |(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)_(_)| |
+`______________________________________________________________________,
+
+
+
+
+
+
+     _____________________________________
+      |. . . . . . . . . . . . . . . . .|
+      |+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+|
+      |: : : : : : : : : : : : : : : : :|
+ejm  _|:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:_:|_
+
+
+
+
+
+
+
+
+From llizard aka ejm:
+
+Example with the numbers 153 and 39
+
+traditional western method:
+
+1. starting in the ones column:  3+9=12, carry the 1
+           |
+           _  _
+        | |_  _)
+        |  _) _)
+           _  _
+   _|_     _)(_)
+    |      _) /
+      ___________
+              _
+               )
+              /_
+
+2. moving to the tens column: 1+5+3=9
+           |
+           _  _
+        | |_  _)
+        |  _) _)
+           _  _
+   _|_     _)(_)
+    |      _) /
+      ___________
+           _  _
+          (_)  )
+           /  /_
+
+3. moving to the hundreds column: 1+0=1
+           |
+           _  _
+        | |_  _)
+        |  _) _)
+           _  _
+   _|_     _)(_)
+    |      _) /
+      ___________
+           _  _
+        | (_)  )
+        |  /  /_
+
+
+Adding 153 to 39 with the soroban:
+
+1. Put 153 onto the soroban, then starting with the hundreds column: 1+0=1
+(89 is less than 100 so zero is the number in the 100's column for it)
+   _____________________________________
+    |o o o o o o o o o o o o o o o | o|
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o_||
+    || | | | | | | | | | | | | | o | o|
+    |e o o o o o o o o o o o o o | o o|
+    |j o o o o o o o o o o o o o o o o|
+    |m o o o o o o o o o o o o o o o ||
+   _|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o|_
+           
+2. Moving to the tens column: 5+3=8
+   _____________________________________
+    |o o o o o o o o o o o o o o o | o|
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o_||
+    || | | | | | | | | | | | | | o o o|
+    |e o o o o o o o o o o o o o | o o|
+    |j o o o o o o o o o o o o o o o o|
+    |m o o o o o o o o o o o o o o | ||
+   _|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o|_
+           
+3. Moving to the ones column: 3+9
+
+   oh oh, not enough beads to move in the ones column! okay, so
+   add 1 to the tens column (adding 10) and subtract one from the
+   ones column.
+
+    3a:
+   _____________________________________
+    |o o o o o o o o o o o o o o o | o|
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o_||
+    || | | | | | | | | | | | | | o o o|
+    |e o o o o o o o o o o o o o | o o|
+    |j o o o o o o o o o o o o o o o o|
+    |m o o o o o o o o o o o o o o o ||
+   _|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_|_o|_
+
+
+   3b:
+   _____________________________________
+    |o o o o o o o o o o o o o o o | o|
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o_||
+    || | | | | | | | | | | | | | o o o|
+    |e o o o o o o o o o o o o o | o o|
+    |j o o o o o o o o o o o o o o o ||
+    |m o o o o o o o o o o o o o o o o|
+   _|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_|_o|_
+
+Answer: 192
+
+
+
+
+Lesson 2 (from llizard's bbackwards sschool of soroban)
+
+Example with subtracting 128 from 237
+
+traditional method:
+
+1. starting in the ones column:  7-8=9 (take one from the tens column...)
+
+          -|
+        _  _  __
+         ) _)  /
+        /_ _) /
+          _   _
+   ___  |  ) (_)
+        | /_ (_)
+      ___________
+              _
+             (_)
+              /
+
+2. going to the tens column:  3-1-2=0
+          -|
+        _  _  __
+         ) _)  /
+        /_ _) /
+          _   _
+   ___  |  ) (_)
+        | /_ (_)
+      ___________
+           _  _
+          | |(_)
+          |_| /
+
+
+3. going to the hundreds column:  2-1=1
+          -|
+        _  _  __
+         ) _)  /
+        /_ _) /
+          _   _
+   ___  |  ) (_)
+        | /_ (_)
+      ___________
+           _  _
+        | | |(_)
+        | |_| /
+
+
+
+
+
+
+Example with subtracting 128 from 237
+
+1. Put 237 onto the soroban, then starting with the hundreds column: 2-1=1
+
+   1a
+   _____________________________________
+    |o o o o o o o o o o o o o o o | ||
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o|
+    || | | | | | | | | | | | | | o o o|
+    |o o o o o o o o o o o o o o o o o|
+    |o o o o o o o o o o o o o o | o ||
+    |o o o o o o o o o o o o o o o | o|
+ejm_|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o|_
+
+   1b
+   _____________________________________
+    |o o o o o o o o o o o o o o o | ||
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o|
+    || | | | | | | | | | | | | | o o o|
+    |o o o o o o o o o o o o o o | o o|
+    |o o o o o o o o o o o o o o o o ||
+    |o o o o o o o o o o o o o o o | o|
+ejm_|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o|_
+
+2. Moving to the tens column: 3-2=1
+
+   _____________________________________
+    |o o o o o o o o o o o o o o o | ||
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o|
+    || | | | | | | | | | | | | | o o o|
+    |o o o o o o o o o o o o o o | | o|
+    |o o o o o o o o o o o o o o o o ||
+    |o o o o o o o o o o o o o o o o o|
+ejm_|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o|_
+
+3. Moving to the ones column: 7-8 oh oh, can't do that, so subtract 10 and
+add 2
+
+
+
+
+
+
+
+   3a
+   _____________________________________
+    |o o o o o o o o o o o o o o o | ||
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o|
+    || | | | | | | | | | | | | | o | o|
+    |o o o o o o o o o o o o o o | o o|
+    |o o o o o o o o o o o o o o o o ||
+    |o o o o o o o o o o o o o o o o o|
+ejm_|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o|_
+
+   3b
+   _____________________________________
+    |o o o o o o o o o o o o o o o | ||
+    ||_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_o|
+    || | | | | | | | | | | | | | o | o|
+    |o o o o o o o o o o o o o o | o o|
+    |o o o o o o o o o o o o o o o o o|
+    |o o o o o o o o o o o o o o o o o|
+ejm_|o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_o_||_
+
+
+
+
+
+
+
+
+
+
+
+

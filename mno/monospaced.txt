@@ -1,0 +1,12 @@
+
+From: Carl W. (crw)
+
+The following two lines tell you which kind of font you're using. The arrow
+ends up in a different place for different font types, and is right most of
+the time:
+
+You are using a [Proportional] [Monospaced] font
+                                  --^--
+
+
+

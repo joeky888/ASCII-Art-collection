@@ -1,0 +1,617 @@
+
+
+
+
+
+
+
+
+         ____ /\ ____            _ _   --           - -__     -_
+        /v y \/\/    \                   --  --___     _ __--__ -" _
+       ____\7 \\_^_^/ \                            _ --        -_ "-_
+      /    V/ \/   \ ^/\            __                          _--,_
+     / \^\|/ \()^7_ \ ^|      /">^/",,\                        /"("\"\
+    /\^   / \^_() 7_\        </">LX<"<,\                    _/"/"|\ )\>_
+    |^    /\ ()_|  7|        / >/ >O-,\"                 _/"_." _/ / / \"\
+          ^   \_\            ^" V"O^  V               /""_-" ,/"  /\  \ ) "-,_
+               \_\              '  \>              _-"/ ( .-/ \ !   )  \ _\"-_"\_
+ ___ ___ ______ \_\ _ _____ ___ ___ \> _ ___   _-"/_-"   / (    |  / \  | \  \_- "-_  __ _ _
+       _  _ _-   \_\   --  -   - --  \">   -<_"__" /  _/|   \ \ | /! \  \  -_( _"-<_">-- -
+              --  \_`>    _--    _ ___",">-____ _"> ""_" "--"--"-" "-"' "-"  '"  _
+                   \__">      C"" -_O   "O-'           '">        __ -  -
+  jjs    _ __()_ ___"-__"\__ __)    - O         __ - - "      - -
+                ()   _">--"> _ .-- "      - """
+                        """
+
+
+
+
+
+      ,*-'.
+      .'+* 
+    '   #   '
+       /v\
+     ,'  .`.
+__.-"  ^    "-.__
+             cgmm
+
+
+
+
+
+
+
+
+
+
+ 
+                        (   (( . : (    .)   ) :  )
+                          (   ( :  .  :    :  )  ))
+                           ( ( ( (  .  :  . . ) )
+                            ( ( : :  :  )   )  )
+                             ( :(   .   .  ) .'
+                              '. :(   :    )
+                                (   :  . )  )
+                                 ')   :   #@##
+                                #',### " #@  #@
+                               #/ @'#~@#~/\   #
+                             ##  @@# @##@  `..@,
+                           @#/  #@#   _##     `\
+                         @##;  `#~._.' ##@      \_
+                       .-#/           @#@#@--,_,--\
+                      / `@#@..,     .~###'         `~.
+                    _/         `-.-' #@####@          \
+                 __/     &^^       ^#^##~##&&&   %     \_
+                /       && ^^      @#^##@#%%#@&&&&  ^    \
+              ~/         &&&    ^^^   ^^   &&&  %%% ^^^   `~._
+           .-'   ^^    %%%. &&   ___^     &&   && &&   ^^     \
+          /akg ^^^ ___&&& X & && |n|   ^ ___ %____&& . ^^^^^   `~.
+                   |M|       ---- .  ___.|n| /\___\  X
+                             |mm| X  |n|X    ||___|             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: Randy Gardner <randyg@slip.net>
+
+
+
+
+Outline 1.1:
+                 ..-``````-..
+                 . `.````.` .
+                 .  .    .  .
+                .   .    .   .
+               .   .      .   .
+              .   .        .   .
+            .`   .          .   `.
+          .`    .            .    `.
+      _.-`     .              .     `-._
+   .-`       .`                `.       `-.
+.-`........-`....................`-....-RG-`-.
+
+Textured 1.1:
+                 ..-``````-..
+                 . `.````.` .
+                 .% .#   .% .
+                .  %.  # .  %.
+               .%  . #    .%  .
+              .  %.     #  .  %.
+            .` % .  #       .%  `.
+          .`  % .#     #  #  .  % `.
+      _.-` % % .   #    #     .%  % `-._
+   .-`%   %  .` #    #  #  # # `.%   %  `-.
+.-`........-`....................`-....-RG-`-.
+
+Textured 1.2:
+                  xl""``""lx
+                 X8Xxx..xxX8X
+                 8X8bdX8bd8X8
+                dX8Xbd8XbdX8Xb
+               dX8Xbd8X8XbdX8Xb
+              dX8Xbd8X8X8XbdX8Xb
+            .dX8Xbd8X8X8X8XbdX8Xb.
+          .d8X8Xbd8X8X8X8X8XbdX8X8b.
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8X8Xb-._
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8X8X8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Textured 2.2:
+                  xl""``""lx
+                 X8Xxx..xxX8X
+                 8X8bdX8bd8X8    X
+                dX8Xbd8XbdX8Xb  d8b
+               dX8Xbd8X8XbdX8b.d8X8b
+              dX8Xbd8X8X8XbdX8bdX8X8b
+            .dX8Xbd8X8X8X8XbdX8bdX8X8b
+          .d8X8Xbd8X8X8X8X8XbdX8bdX8X8
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Textured 3.2:
+                  xl""``""lx
+                 X8Xxx..xxX8X
+                 8X8bdX8bd8X8    X
+                dX8Xbd8XbdX8Xb  d8b
+               dX8Xbd8X8XbdX8b.d8X8b
+              dX8Xbd8X8X8XbdX8bdX8X8b
+      X     .dX8Xbd8X8X8X8XbdX8bdX8X8b
+     dXb  .d8X8Xbd8X8X8X8X8XbdX8bdX8X8
+    dXXXbdX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   dXX8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+
+Textured 4.2:
+                  xl""``""lx
+                 X8Xxx..xxX8X
+             X   8X8bdX8bd8X8    X
+            dXb dX8Xbd8XbdX8Xb  d8b
+           dX8bdX8Xbd8X8XbdX8b.d8X8b
+          dX8bdX8Xbd8X8X8XbdX8bdX8X8b
+      X   X8bdX8Xbd8X8X8X8XbdX8bdX8X8b
+     d8b d8X8X8Xbd8X8X8X8X8XbdX8bdX8X8
+    d8X8bdX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   d8X8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+
+Lava 1.1:
+                  xl""``""lx
+                 X8Xxx..x..8X
+                 8X8bdX8bd..8
+                dX8Xbd8Xbd...b
+               dX8Xbd8X8XbdX..b
+              dX8Xbd8X8X8XbdX..b
+            .dX8Xbd8X8X8X8XbdX..b.
+          .d8X8Xbd8X8X8X8X8XbdX8..b.
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8...b-._
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8X...X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8..-RG-b-.
+
+Lava 1.2:
+                  xl""``""lx
+                 X..xx..xxX8X
+                 8..bdX8bd8X8
+                d..Xbd8XbdX8Xb
+               d..Xbd8X8XbdX8Xb
+              d..Xbd8X8X8XbdX8Xb
+            .d...bd8X8X8X8XbdX8Xb.
+          .d...Xbd8X8X8X8X8XbdX8X8b.
+      _.-d....Xbd8X8X8X8X8X8XdbX8X8Xb-._
+   .-d.....X8bdX8X8X8X8X8X8X8X8db8X8X8X8b-.
+.-d......8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Lava 1.3:
+                  xl""``""lx
+                 X8X....xxX8X
+                 8X8..X8bd8X8
+                dX8....XbdX8Xb
+               dX8..d8..XbdX8Xb
+              dX8..d8X8..XbdX8Xb
+            .dX...d8X8X8...bdX8Xb.
+          .d8...b...8X8X....bdX8X8b.
+      _.-dX8...bd8..X8X..8X..dbX8X8Xb-._
+   .-d8X8X..8bdX...X8X..8X8X..8db8X8X8X8b-.
+.-d8X8X8....bdX8X...8X8..X8X8..X8db8X8X8-RG-b-.
+
+Lava 1.4:
+                  xl""``""lx
+                 X8X////xxX8X
+                 8X8/\X8bd8X8
+                dX8//\\XbdX8Xb
+               dX8//d8\\XbdX8Xb
+              dX8//d8X8\\XbdX8Xb
+            .dX//\d8X8X8/\\bdX8Xb.
+          .d8///b\\\8X8X//\\bdX8X8b.
+      _.-dX8///bd8//X8X//8X\\dbX8X8Xb-._
+   .-d8X8X//8bdX\\\X8X//8X8X\\8db8X8X8X8b-.
+.-d8X8X8////bdX8X\\\8X8//X8X8\\X8db8X8X8-RG-b-.
+
+
+Lava 1.5:
+                  xl""``""lx
+                 X8X::::xxX8X
+                 8X8::X8bd8X8
+                dX8::::XbdX8Xb
+               dX8::d8::XbdX8Xb
+              dX8::d8X8::XbdX8Xb
+            .dX:::d8X8X8:::bdX8Xb.
+          .d8:::b:::8X8X::::bdX8X8b.
+      _.-dX8:::bd8::X8X::8X::dbX8X8Xb-._
+   .-d8X8X::8bdX:::X8X::8X8X::8db8X8X8X8b-.
+.-d8X8X8::::bdX8X:::8X8::X8X8::X8db8X8X8-RG-b-.
+
+
+Lava 2.1:
+
+                  xl""``""lx
+                 X8Xxx....X8X
+                 8X8bdX8b..X8    X
+                dX8Xbd8Xb..8Xb  d.b
+               dX8Xbd8X8Xb..8b.d8X.b
+              dX8Xbd8X8X8Xb..8bdX8X.b
+            .dX8Xbd8X8X8X8Xb..8bdX8.8b
+          .d8X8Xbd8X8X8X8X8Xb..8bdX8.8
+      _.-dX8X8Xbd8X8X8X8X8X8Xd...bdX8Xb_
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8d..Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8d..X8X8-RG-b-.
+
+Lava 2.2:
+                  xl""``""lx
+                 X8X....xxX8X
+                 8X..8X8bd8X8    X
+                dX8..d8XbdX8Xb  d.b
+               dX8..d8X8XbdX8b.d.X8b
+              dX8..d8X8X8XbdX8bd.8X8b
+            .dX8..d8X8X8X8XbdX8bdX8X8b
+          .d8X8..d8X8X8X8X8XbdX8bdX8X8
+      _.-dX8X...d8X8X8X8X8X8XdbX8bdX8Xb_
+   .-d8X8X8X..dX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X..dX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+
+Lava 2.3
+                  xl""``""lx
+                 X8X....xxX8X
+                 8X..dX..d8X8    X
+                dX..bd8..dX8Xb  d.b
+               dX8..d8X8..dX8b.d8.8b
+              dX8..d8X8X...dX8bd.8.8b
+            .dX8..d8X8X.X8...X8bdX..8b
+          .d8X8...8X8X.X8X8X...8bdX.X8
+      _.-dX8X...d..8X8X8X8X..d...bdX8Xb_
+   .-d8X8X8X..dX8X..8X8X8X..8X8..8Xbd8X8b-.
+.-d8X8X8X8X..dX8X8X..8X8X..8X8X8..8X8X8-RG-b-.
+
+
+Lava 2.4
+                  xl""``""lx
+                 X8X//\\xxX8X
+                 8X//dX\\d8X8    X
+                dX//bd8\\dX8Xb  d|b
+               dX8//d8X8\\dX8b.d8\8b
+              dX8//d8X8X/\\dX8bd.8\8b
+            .dX8/\d8X8X/X8\\\X8bdX\\8b
+          .d8X8//\8X8X/X8X8X/\\8bdX\X8
+      _.-dX8X///d\\8X8X8X8X//d\\\bdX8Xb_
+   .-d8X8X8X//dX8X\\8X8X8X//8X8\\8Xbd8X8b-.
+.-d8X8X8X8X//dX8X8X\\8X8X//8X8X8\\8X8X8-RG-b-.
+
+
+Lava 2.5:
+                  xl""``""lx
+                 X8X::::xxX8X
+                 8X::dX::d8X8    X
+                dX::bd8::dX8Xb  d:b
+               dX8::d8X8::dX8b.d8:8b
+              dX8::d8X8X:::dX8bd.8:8b
+            .dX8::d8X8X:X8:::X8bdX::8b
+          .d8X8:::8X8X:X8X8X:::8bdX:X8
+      _.-dX8X:::d::8X8X8X8X::d:::bdX8Xb_
+   .-d8X8X8X::dX8X::8X8X8X::8X8::8Xbd8X8b-.
+.-d8X8X8X8X::dX8X8X::8X8X::8X8X8::8X8X8-RG-b-.
+
+Lava 3.1:
+                  xl""``""lx
+                 X8Xxx....X8X
+                 8X8bdX8..8X8    X
+                dX8Xbd8Xb..8Xb  d.b
+               dX8Xbd8X8Xb..8b.d8X.b
+              dX8Xbd8X8X8Xb..8bdX8.8b
+      X     .dX8Xbd8X8X8X8Xb..8bdX8.8b
+     d.b  .d8X8Xbd8X8X8X8X8Xb..8bdX8X8
+    dX.XbdX8X8Xbd8X8X8X8X8X8Xd...bdX8Xb_
+   dXX8.8X8X8bdX8X8X8X8X8X8X8X8d..Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8d..X8X8-RG-b-.
+
+Lava 3.2:
+                  xl""``""lx
+                 X8X....xxX8X
+                 8X..dX8bd8X8    X
+                dX8..d8XbdX8Xb  d.b
+               dX8..d8X8XbdX8b.d8.8b
+              dX8..d8X8X8XbdX8bd.8X8b
+      X     .dX8..d8X8X8X8XbdX8bdX8X8b
+     d.b  .d8X8..d8X8X8X8X8XbdX8bdX8X8
+    d8.8bdX8X...d8X8X8X8X8X8XdbX8bdX8Xb_
+   dX.8X8X8X..dX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X..dX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Lava 3.3:
+                  xl""``""lx
+                 X8X......X8X
+                 8X..dX..d8X8    X
+                dX...d8..dX8Xb  d.b
+               dX..b..X8..dX8b.d.X.b
+              dX..bd..8X8..dX8bd.8.8b
+      X     .dX...d8X..8X..bdX8bdX8.8b
+     d.b  .d8X..bd8X8...8X..bdX8bdX8X8
+    d.X.bdX8X8..d8X8..X8X8X8..bX8bdX8Xb_
+   dXX8.8X8X8..X8X8..X8X8X8X8..db8Xbd8X8b-.
+.-d8X8X8X8X..dX8X8X8..X8X8X...X8db8X8X8-RG-b-.
+
+Lava 3.4:
+                  xl""``""lx
+                 X8X///\\\X8X
+                 8X//dX\\d8X8    X
+                dX//\d8\\dX8Xb  d|b
+               dX//b\\X8\\dX8b.d/X\b
+              dX//bd\\8X8//dX8bd|8|8b
+      X     .dX///d8X\\8X\\bdX8bdX8\8b
+     d|b  .d8X\\bd8X8///8X\\bdX8bdX8X8
+    d/X\bdX8X8//d8X8//X8X8X8\\bX8bdX8Xb_
+   dXX8|8X8X8//X8X8\\X8X8X8X8//db8Xbd8X8b-.
+.-d8X8X8X8X//dX8X8X8\\X8X8X///X8db8X8X8-RG-b-.
+
+Lava 3.5:
+                  xl""``""lx
+                 X8X::::::X8X
+                 8X::dX::d8X8    X
+                dX:::d8::dX8Xb  d|b
+               dX::b::X8::dX8b.d/X\b
+              dX::bd::8X8::dX8bd|8|8b
+      X     .dX:::d8X::8X::bdX8bdX8\8b
+     d:b  .d8X::bd8X8:::8X:::dX8bdX8X8
+    d:X:bdX8X8::d8X8::X8X8X8::bX8bdX8Xb_
+   dXX8:8X8X8::X8X8::X8X8X8X8::db8Xbd8X8b-.
+.-d8X8X8X8X::dX8X8X8::X8X8X:::X8db8X8X8-RG-b-.
+
+Lava 4.1:
+                  xl""``""lx
+                 X8Xxx....X8X
+             X   8X8bdX8b..X8    X
+            d.b dX8Xbd8Xb..8Xb  d.b
+           dX.bdX8Xbd8X8Xb..8b.d8X.b
+          dX8b.X8Xbd8X8X8Xb..8bdX8.8b
+      X   X8bdX8Xbd8X8X8X8Xb..8bdX8.8b
+     d.b d8X8X8Xbd8X8X8X8X8Xb..8bdX8X8
+    d8.8bdX8X8Xbd8X8X8X8X8X8Xd...bdX8Xb_
+   d8X8.8X8X8bdX8X8X8X8X8X8X8X8d..Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8d..X8X8-RG-b-.
+
+Lava 4.2:
+                  xl""``""lx
+                 X8X....xxX8X
+             X   8X..dX8bd8X8    X
+            d.b dX8..d8XbdX8Xb  d.b
+           dX.bdX8..d8X8XbdX8b.d8.8b
+          dX.bdX8..d8X8X8XbdX8bd.8X8b
+      X   X.bdX8..d8X8X8X8XbdX8bdX8X8b
+     d.b d8X8X8..d8X8X8X8X8XbdX8bdX8X8
+    d8.8bdX8X...d8X8X8X8X8X8XdbX8bdX8Xb_
+   d8.8X8X8X..dX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X..dX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Lava 4.3
+                  xl""``""lx
+                 X8X......X8X
+             X   8X..dX..d8X8    X
+            d.b dX8..d8..dX8Xb  d.b
+           dX.bdX8..d8X8..dX8b.d.X.b
+          dX.bdX8..d8X8X8..dX8bd.8.8b
+      X   X8bdX8....X8X8X8..dX8bdX8.8b
+     d.b d8X8X8..d8..X8X8X8..dX8bdX8X8
+    d.X.bdX8X...d8X8..X8X8..X..X8bdX8Xb_
+   d8.8X8X8X..dX8X8..X8X8..X8..db8Xbd8X8b-.
+.-d8X8X8X8X..dX8X8..X8X8..X8X8..db8X8X8-RG-b-.
+
+Lava 4.4
+                  xl""``""lx
+                 X8X///\\\X8X
+             X   8X\\dX\\d8X8    X
+            d|b dX8//d8\\dX8Xb  d|b
+           dX/bdX8//d8X8\\dX8b.d/X\b
+          dX|bdX8//d8X8X8\\dX8bd|8\8b
+      X   X8bdX8//\\X8X8X8\\dX8bdX8|8b
+     d|b d8X8X8//d8\\X8X8X8/\dX8bdX8X8
+    d/X\bdX8X///d8X8//X8X8//X//X8bdX8Xb_
+   d8|8X8X8X//dX8X8//X8X8//X8\\db8Xbd8X8b-.
+.-d8X8X8X8X//dX8X8//X8X8//X8X8\\db8X8X8-RG-b-.
+
+Lava 4.5
+                  xl""``""lx
+                 X8X::::::X8X
+             X   8X::dX::d8X8    X
+            d:b dX8::d8::dX8Xb  d:b
+           dX:bdX8::d8X8::dX8b.d:X:b
+          dX:bdX8::d8X8X8::dX8bd:8:8b
+      X   X8bdX8::::X8X8X8::dX8bdX8:8b
+     d:b d8X8X8::d8::X8X8X8::dX8bdX8X8
+    d:X:bdX8X:::d8X8::X8X8::X::X8bdX8Xb_
+   d8:8X8X8X::dX8X8::X8X8::X8::db8Xbd8X8b-.
+.-d8X8X8X8X::dX8X8::X8X8::X8X8::db8X8X8-RG-b-.
+
+Smoke 1:
+                          .'  .
+                         .'.'.' .
+                        .`.'.`'.
+                       ..'..'.`'
+                       `,'....`
+                      `' ..'`.
+                     `'``''`.
+                     .'.``'`
+                  .'`..'''`.
+                    ````.'`
+                  xl""``""lx
+                 X8Xxx..xxX8X
+                 8X8bdX8bd8X8
+                dX8Xbd8XbdX8Xb
+               dX8Xbd8X8XbdX8Xb
+              dX8Xbd8X8X8XbdX8Xb
+            .dX8Xbd8X8X8X8XbdX8Xb.
+          .d8X8Xbd8X8X8X8X8XbdX8X8b.
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8X8Xb-._
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8X8X8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+
+Smoke 2:
+                          .'  .
+                         .'.'.' .
+                        .`.'.`'.
+                       ..'..'.`'
+                       `,'....`
+                      `' ..'`.
+                     `'``''`.
+                     .'.``'`
+                  .'`..'''`.         .'`
+                    ````.'`        `.`.`
+                  xl""``""lx      .`.`
+                 X8Xxx..xxX8X    '.`'
+                 8X8bdX8bd8X8    X
+                dX8Xbd8XbdX8Xb  d8b
+               dX8Xbd8X8XbdX8b.d8X8b
+              dX8Xbd8X8X8XbdX8bdX8X8b
+            .dX8Xbd8X8X8X8XbdX8bdX8X8b
+          .d8X8Xbd8X8X8X8X8XbdX8bdX8X8
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+
+Smoke 3:
+                          .'  .
+                         .'.'.' .
+                        .`.'.`'.
+                       ..'..'.`'
+                       `,'....`
+                      `' ..'`.
+                     `'``''`.
+                     .'.``'`
+                  .'`..'''`.         .'`
+                    ````.'`        `.`.`
+                  xl""``""lx      .`.`
+                 X8Xxx..xxX8X    '.`'
+                 8X8bdX8bd8X8    X
+      `,.       dX8Xbd8XbdX8Xb  d8b
+     `, .      dX8Xbd8X8XbdX8b.d8X8b
+     .`,      dX8Xbd8X8X8XbdX8bdX8X8b
+      X     .dX8Xbd8X8X8X8XbdX8bdX8X8b
+     dXb  .d8X8Xbd8X8X8X8X8XbdX8bdX8X8
+    dXXXbdX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   dXX8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+
+Smoke 4:
+                          .'  .
+                         .'.'.' .
+                        .`.'.`'.
+                       ..'..'.`'
+                       `,'....`
+                      `' ..'`.
+                     `'``''`.
+                     .'.``'`
+                  .'`..'''`.         .'`
+            `,'`.   ````.'`        `.`.`
+            `.`'  xl""``""lx      .`.`
+            `.,` X8Xxx..xxX8X    '.`'
+             X   8X8bdX8bd8X8    X
+      `,.   dXb dX8Xbd8XbdX8Xb  d8b
+     `, .  dX8bdX8Xbd8X8XbdX8b.d8X8b
+     .`,  dX8bdX8Xbd8X8X8XbdX8bdX8X8b
+      X   X8bdX8Xbd8X8X8X8XbdX8bdX8X8b
+     d8b d8X8X8Xbd8X8X8X8X8XbdX8bdX8X8
+    d8X8bdX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   d8X8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Eruption 1.1:
+
+              @      @     %   @
+                @  #     #        #  @
+            #  #    @     @  #  %
+         @   @   %    # %          #
+          %     #  @   @    @   @
+         @   @    %   #   #   %    @  #
+          @    # %             @  #  %
+        @ % @      xl""``""lx    %
+          #   #  X8Xxx..xxX8X  #  % @ #
+        @  %     8X8bdX8bd8X8    @   %
+           @ %  dX8Xbd8XbdX8Xb    % @   %
+       @   %   dX8Xbd8X8XbdX8Xb   @ %  #
+         #    dX8Xbd8X8X8XbdX8Xb    @
+            .dX8Xbd8X8X8X8XbdX8Xb.
+          .d8X8Xbd8X8X8X8X8XbdX8X8b.
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8X8Xb-._
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8X8X8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Eruption 1.2:
+
+              @      @     %   @
+                @  #     #        #  @
+            #  #    @     @  #  %
+         @   @   %    # %          #
+          %     #  @   @    @   @
+         @   @    %   #   #   %    @  #
+        % @    # %             @  #  %
+      #    #  #   xl""``""lx   # %@  %  #
+        @ % @    X8Xxx..xxX8X #@%@%# @ # %
+      %    #     8X8bdX8bd8X8  % X % # @  #
+    @ #  @  % @ dX8Xbd8XbdX8Xb @d8b  @  @
+        %  #   dX8Xbd8X8XbdX8b.d8X8b   #% #
+    % @  #    dX8Xbd8X8X8XbdX8bdX8X8b @  @
+         @  .dX8Xbd8X8X8X8XbdX8bdX8X8b  @
+      @   .d8X8Xbd8X8X8X8X8XbdX8bdX8X8 #  @
+      _.-dX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+   .-d8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Eruption 1.3:
+
+              @      @     %   @
+                @  #  @  #        #  @
+            #  #    @  #  @  #  %
+         @   @   %    # %          #
+          %     #  @ @ @ #  @   @
+         @   @    %   # @ #   %    @  #
+        % @    # %  #   #  %   @  #  %
+         # @ %    xl""``""lx  @ # @     %
+      @ % @  #   X8Xxx..xxX8X   #%   #
+        #    @   8X8bdX8bd8X8 @%#X%     %
+     #   %  %   dX8Xbd8XbdX8Xb  d8b#  @   #
+      %    @ # dX8Xbd8X8XbdX8b.d8X8b %      @
+   @#%#@ % #  dX8Xbd8X8X8XbdX8bdX8X8b  #  @
+   #@ X #@  .dX8Xbd8X8X8X8XbdX8bdX8X8b      %
+  @#%dXb# .d8X8Xbd8X8X8X8X8XbdX8bdX8X8  %  #
+  # dXXXbdX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_
+  @dXX8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+
+Eruption 4.1:
+              @      @     %   @
+                @  #  @  #        #  @
+            #  #    @  #  @  #  %
+         @   @   %    # %          #
+          %     #  @ @ @ #  @   @
+         @   @    %   # @ #   %    @  #
+        % @    # %  #   #  %   @  #  %
+    @ %     #@    xl""``""lx  @ # @     %
+        #  @%#@  X8Xxx..xxX8X   #%   #    #
+    % @   %  X   8X8bdX8bd8X8 @%#X%     %
+        #   dXb dX8Xbd8XbdX8Xb  d8b#  @   #
+   @  @    dX8bdX8Xbd8X8XbdX8b.d8X8b %      @
+  #  @# @ dX8bdX8Xbd8X8X8XbdX8bdX8X8b  #  @
+ @ #  X   X8bdX8Xbd8X8X8X8XbdX8bdX8X8b   %  #
+  #  d8b d8X8X8Xbd8X8X8X8X8XbdX8bdX8X8 %  #  %
+    d8X8bdX8X8Xbd8X8X8X8X8X8XdbX8bdX8Xb_     #
+   d8X8X8X8X8bdX8X8X8X8X8X8X8X8db8Xbd8X8b-.
+.-d8X8X8X8X8bdX8X8X8X8X8X8X8X8X8db8X8X8-RG-b-.
+

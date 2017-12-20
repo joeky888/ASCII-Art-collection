@@ -1,0 +1,44 @@
+              ..... ..
+          XXXXX:::XXXXXXXXXXXXX
+        XXX:XXXXXXXXXXXXXXXXXXXXXX:
+      XXXXX:XXXXXXX:XXXXXXX:XXXXX::
+     .::IXX::XXXXXX:XXXX::.:':XXXX::
+    ..::::XX:XXXXXX:XXXX:'::':XXXXX::
+   ..:::'X:XXXXXXXX':XXXX:XXXXXXXX':.
+   ...:X'.'XXXXXXXXX.XXXXXXXXXXXX'XXX:.
+  ....:X.:XXXXXXXXXXXXXXXXXXXXXX:'XXXX:
+  ...."X.XXXXXXXXXXXXXXXXX"""'' :XXXXXX:
+  ...::'"""''''"'""""'''        :XXXXXX:
+  ..:.:.....                    .:XXXXX:
+  :..::.....                    :'XXXXX:
+   .:::....                     .:XXXXX
+    ::''''                      .:XXXXX
+    .      ....,,     ......     :XXXXX
+  :::   .::"   XXX  ::'   ''":   .XXXX:.
+  :.:   :::"MM'""X   .:"MM '.     "X";.:
+  ::'     I:..:.:X    ."''.'      .::' :
+ ::XI     .    XI                :::  :
+   :XX         XI                .::"':
+   :X' .:.     /X.              .:::  .
+   """....    /XXX.:XX.         ...: .
+    ":....    '"""'             ..::.
+     ':...                      ...:
+      :....  :..:II:II:..:     ...:
+      ':....  ::.              ..::
+       ':...   '"""""'    .    .:::
+         .:...               . ..::::'
+         ':....            : ..:::XXL:.
+    ...:::X:...         .:::::'  XXXXXXX
+.:::XXXXXXX::::::......:::::'   .XXXXXXX
+XXXXXXXXXXX:::::::::::::::'    .XXXXXXXX
+XXXXXXXXXXX'::::::::::::'   .'.:XXXXXXXX
+XXXXXXXXXXX.'::::::::::'  .'   .XXXXXXXX
+XXXXXXXXXXX   ':::::::'. ,'   .XXXXXXXXX
+XXXXXXXXXXX    ':::::'.;     .XXXXXXXXXX
+XXXXXXXXXXX    .'WWWW.      .XXXXXXXXXXX
+XXXXXXXXXX.   .'WWWWWW     .XXXXXXXXXXXX
+XXXXXXXXXX,   .:WWWW" '    .XXXXXXXXXXXX
+XXXXXXXXXX  :  WWW'       XXXXXXXXXXXXXX
+XXXXXXXXX' .  WWW'    .XXXXXXXXXXXXXXXXX
+
+Chris Spiegel

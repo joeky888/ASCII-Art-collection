@@ -1,0 +1,221 @@
+From : cfbd@southern.co.nz (Colin Douthwaite)
+
+
+
+
+
+I took Richard Kirk's signal flags and added some code:
+
+
+  S
+  S_______________.
+  |WWWWWWW . . ..d|
+  |WWWWWWW. . .dWW|
+  |WWWWWWW . dWWWW|    Alpha    A    o -         di dah
+  |WWWWWWW. . :YWW|
+  |WWWWWWW . . .`Y|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |:::::::::::::;d|
+  |:::::::::::;dWW|
+  |::::::::::dWWWW|    Bravo    B    - o o o     dah di di dit
+  |:::::::::::!YWW|
+  |:::::::::::::!Y|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |. . . . . . . .|
+  |MMMMMMMMMMMMMMM|
+  | . . . . . . . |    Charlie   C   - o - o     dah dit dah dit
+  |MMMMMMMMMMMMMMM|
+  |. . . . . . . .|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |EEEEEEEEEEEEEEE|
+  |. . . . . . . .|
+  | . . . . . . . |    Delta     D   - o o       dah di dit
+  |. . . . . . . .|
+  |EEEEEEEEEEEEEEE|
+  S"""""""""""""""'
+  S
+  S_______________.
+  | . . . . . . . |
+  |. . . . . . . .|
+  |...............|    Echo      E   o           dit
+  |:::::::::::::::|
+  |:::::::::::::::|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |WWWWWP' `YWWWWW|
+  |WWP^'     `^YWW|
+  |8'           `8|    Foxtrot   F  o o - o      di di dah dit
+  |WWb.      ..dWW|
+  |WWWWWb. .dWWWWW|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |BB . BB . BB . |
+  |BB. .BB. .BB. .|
+  |BB . BB . BB . |    Golf      G   - - o       dah dah dit
+  |BB. .BB. .BB. .|
+  |BB . BB . BB . |
+  S"""""""""""""""'
+  S
+  S_______________.
+  |WWWWWWWW:::::::|
+  |WWWWWWWW:::::::|
+  |WWWWWWWW:::::::|    Hotel     H   o o o o     dit dit dit dit
+  |WWWWWWWW:::::::|
+  |WWWWWWWW:::::::|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |BBBBBBBBBBBBBBB|
+  |BBBBBP'  `YBBBB|
+  |BBBBB      8BBB|    India     I   o o         dit dit
+  |BBBBBb.  .dBBBB|
+  |BBBBBBBBBBBBBBB|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |.'.'.'.'.'.'.'.|
+  |wwwwwwwwwwwwwww|
+  |WWWWWWWWWWWWWWW|    Juliet    J   o - - -     di dah dah dah
+  |~~~~~~~~~~~~~~~|
+  |.'.'.'.'.'.'.'.|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |BBBBBBBB. . . .|
+  |BBBBBBBB . . . |
+  |BBBBBBBB. . . .|    Kilo      K   - o -       dah di dah
+  |BBBBBBBB . . . |
+  |BBBBBBBB. . . .|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |WWWWWWWW       |
+  |WWWWWWWW       |
+  |~~~~~~~~wwwwwww|    Lima      L   o - o o     di dah di dit
+  |        WWWWWWW|
+  |        WWWWWWW|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |`YWb.     .dWP'|
+  |   `YWb.dWP'   |
+  |      8W8      |    Mike      M   - -         dah dah
+  |   .dWP^YWb.   |
+  |.dWP'     `YWb.|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |   BBB   BBB   |
+  |BBB   BBB   BBB|
+  |   BBB   BBB   |    November  N   - o         dah dit
+  |BBB   BBB   BBB|
+  |   BBB   BBB   |
+  S"""""""""""""""'
+  S
+  S_______________.
+  |b;:::::::::::::|
+  |WWWb;::::::::::|
+  |WWWWWWb;:::::::|    Oscar     O   - - -       dah dah dah
+  |WWWWWWWWWb;::::|
+  |WWWWWWWWWWWWb;:|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |. . . . . . . .|
+  | . .BBBBBBB. . |
+  |. . BBBBBBB . .|    Papa      P   o - - o     di dah dah dit
+  | . .BBBBBBB. . |
+  |. . . . . . . .|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |EEEEEEEEEEEEEEE|
+  |EEEEEEEEEEEEEEE|
+  |EEEEEEEEEEEEEEE|    Quebec    Q   - - o -     dah dah di dah
+  |EEEEEEEEEEEEEEE|
+  |EEEEEEEEEEEEEEE|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |:::::::#:::::::|
+  |:::::::#:::::::|
+  |+#+#+#+#+#+#+#+|    Romeo     R   o - o       di dah dit
+  |:::::::#:::::::|
+  |:::::::#:::::::|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |BBBBBBBBBBBBBBB|
+  |BBBB. . . .BBBB|
+  |BBBB . . . BBBB|    Sierra    S   o o o       dit dit dit
+  |BBBB. . . .BBBB|
+  |BBBBBBBBBBBBBBB|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |:::::BBBBB. . .|
+  |:::::BBBBB . . |
+  |:::::BBBBB. . .|    Tango     T   -           dah
+  |:::::BBBBB . . |
+  |:::::BBBBB. . .|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |:::::::BBBBBBBB|
+  |:::::::BBBBBBBB|
+  |dddddddPPPPPPPP|    Uniform   U   o o -       di di dah
+  |BBBBBBB::::::::|
+  |BBBBBBB::::::::|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |;::YWWWWWWWY::;|
+  |WWb:::YWY::;dWW|
+  |WWWWW>:::<WWWWW|    Victor    V   o o o -     di di di dah
+  |WWY::;dWb:::YWW|
+  |::;dWWWWWWWb:::|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |. . . . . . . .|
+  | . BBBBBBBBB . |
+  |. .BBB:::BBB. .|    Whiskey   W   o - -       di dah dah
+  | . BBBBBBBBB . |
+  |. . . . . . . .|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |WWWWWWW .WWWWWW|
+  |WWWWWWW. WWWWWW|
+  |. . . . . . . .|  (Whiskey)   X   - o o -     dah di di dah
+  |WWWWWWW. WWWWWW|
+  |WWWWWWW .WWWWWW|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |P:;dBP:;dBP:;dB|
+  |;dBP:;dBP:;dBP;|
+  |BP:;dBP:;dBP:;d|    Yankee    Y   - o - -     dah di dah dah
+  |:;dBP:;dBP:;dBP|
+  |dBP:;dBP:;dBP:;|
+  S"""""""""""""""'
+  S
+  S_______________.
+  |`~9888888888P~'|
+  |   `~9888P~'. .|
+  |      :?:. . . |    Zulu      Z   - - o o     dah dah di dit
+  |    .:::::. . .|
+  | .:::::::::::. |
+  S"""""""""""""""'
+  S
+           -Richard Kirk-
+
+

@@ -1,0 +1,54 @@
+See `classic_art' for ascii pictures based on famous paintings!
+
+Picture by Allen Mullen (view white on black)
+
+
+The Creation of Man (from Sistine Chapel Ceiling) by Michelangelo Buonarroti>
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP"".="..`".
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMPP"". .,,z$$P"$$
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"   c$$$$$F"'P `$F
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP". ,c$$$??"" ?? cd$$
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP".<> c$""" zr???ccc$$"F
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP".<<>> `.z$$,."-?.`,d$"$$
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM".<>' ccc ?""?"$ccP"`?$$cc,
+""""""""?PPPPPPPPPPPPP>"""<?4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP .'',d$$$".  ,c$$??  ?c,.`??
+!!!!!!!;;;;;;;;,.````'`<!!!>'MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM".  <$P"."  ? dP"".zcccd$$$cdr
+!!!!!!!!!!!!!!!!!!!!!>;,,.`-  "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP ;C "?$ d$??h..''  $$$$$$$$?? .
+!!!!!!!!!!!!!!!!!!!!!!'''`<>;, "4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",<CCC>."-' c?$P" ccd$$$$F " .zdF
+!!!!!!!!!!!!!!!!!!'.,,cdcc,'``<>;,""4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",CCCCCCC' ; " .  . `?$$$$cc`""".r
+!!!;,!!;;,`<!!!!! ,$$$$$$$$??c,`'!!>.'"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",<CCCCC> ;!! c$"  $ h."?$""$????".
+!!!!!!!!!!;,!;, ;c$P"`"""",c=?." `!!!!;,"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM",CCCCCC' <''' _.zF`$.`?$c,zc,zcccc$
+!!!!!!!!!!!!!;, d$$L $$.,$$P=  h `!!!!!!> "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMP CCCCCC  `,cc$$$$$$ ?$c,`"$$$$$$$$$$
+!!!!!!!!!!!!!!! $$$"   $$$$$$.,$ <!!!!!!!!;`MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM <>>>''_,c$$$$$$??"'z."?$$c`?$$$$$$$$
+!!!!!!!!!!!!!!!;`$",d$c$$$$$$$"F.`!!!!!!!!! `MMMMMMMMMMMMMMMMMMMMMMMMMMMMM""_.,.""4444MMMMMMMMMMMMMMMMMMMMMMMMMP""_.,cc$$$$$$$$??",c$$$P""..`?c ?$$$$$$$
+!!!!!!!!!!!!!!!! ' d$$$$""?$h.' ;<!!!!!!!!!!.`4MMMMMMMMMMMMMMMMMMPPPPP"".zr???$$$$$$cc`"4MMMMMMMMMMMPPPP""_.,cccc$$$$$$$$$$$C cc$$$$P" zc$$??- " "?$$$$$
+!!!!!!!''''``.,,,' $$$$$$c-."? ;!!!!''```'`<!>.`4MMMMMMMMMMP""'_,cccccd$$$hc='`$$h.""""hh."??""__"".zcd$??)F d$$$$$$$$$$$$$P"z??"" .,. $$$Lzc$$$$cc,"?$$
+!!'`' .zc$hc$F""" -?$$$$$P.$' -`!' ,cc,"?hc, `'  `""""""" ,c$$$$$$$$$$$$$$P".nx.`""h.`"?."  ==""""",d?$F dL,cCCCCC?????"',=="" ,;!!!'' ?$$$$$$$$$$$$h.?$
+     d$$$$$""$c ",c$$$F"?;<";hcc c$$$$$h==$L,cc$$$$$$$$c,"??$$$$$$$$$$$P"",dMMMMMMn.`"  ? ;dMMM",cP".,,cF ,nx;;,,.`""''.. ;  <!!!' ,;;, "$$$$$$$$$$$$h."
+;,; <$$$$F z$$$$$$$$$$  -??;d$".,$$$$$P",$$??$$$$$$$$$$$$P=$$$$$$$$$P"';dMMMMMMMMMMMMMMmnndMMMMn ,z`$ .,ndMMMMMMMMM CCCCC ! !!!! <.'`'`! "?$$$$$$$???$$h
+!!! $$$$cc$$$$$$$$$$CL,dhcd$$$$$$$$$$$F ,d;z;""??$$$$$$$F,c$$???""".xnMMMMMMMMMMMMMMMMMMMMMMMMMM ?" " MMMMMMMMMMMMM,`CCCC,`. <!! !'`.,.' ,;;,> ;,  ;.`$$
+!!! "$$$$$$$$$$$$$$$h;?$$$$$$$$$$$$$$L,c,""??$$$????""'..   .zc$$$-.."4MMMMMMMMMMMMMMMMMMMMMMMMMbnmMMMMMMMMMMMMMMMMM CCCC>'!.'`!.' ``' ;!!!'!!'`.<C> . "
+!!!! ?h "$$$$$$$$$$$$"d$$$$$$$$$$$$$$$$F ;;;;;,;;;;;!!!!'.zd$$$$$hd$$c MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,`CCCC `!!..```''' !!!! `.;<C' ,;!!.
+!!!! d$L $$$$$$$$$$$$;$$$$$$$$$$$$$"?$$ ;!!!!!!!!!!!'' ,c$$$$$$$$$$$$$ .`""44MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM CCCCC !!!!!!;;;,  `..;CCCC ;!!!!!!
+!!!>,$$$c`,d$$$$$$$$$;$$$$$$$$$??$P $$".!!!!!!!!!!'.,c$$$$$P",$$$$$$$$ !!!!>;;;,"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMr`CCCC;`!!!!!!!' ;>  CCCCC ;!!!!!!!
+!!!>'$$$$. "$$$$$$P)F,?$$$$$$$$c?",d$$ !!!!!!;;` ,c$$$$$$$" ;$$$$$$$$r !!!!!!!!!>;,'""4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.`CCCC,`!!!!! ;C>.; <CC>  !!!!!!!!
+!!!' $$$$ dcc,,$$$CLcc$$$$$$$$ -c$$$$$ !!!!!!!',d$$$$$$$$",c$$$$$$$$P ;!!!!!!!!!!!!!!;,"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMM.`<CCC; `!! <CC <C, .,;! `<!!!!!!
+!' zd$$$$ ?$$$$$$$$$$$$$$$$$$$$c`$$$$$ `!!!!! z$$$$$$$$$",$$$$$<$$$$'<!!!!!!!''`!!!!!!!>;'"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMn.`<CCC;. ;CCC CC> <!!!!> `!!!!!
+,c$$$$$$$>`?$$$$$$$$$$$$$$$$$$$P $$??$hc,.`' z$$$$$$$$$",$$$$$>d$$$$ !!!!!!!!>;, `<!!!!!!!; 4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMb.`CCCC,CCC ;CCC, <!!!!>'!!!!!
+d$$$$$$$,"= "$$$$?$$$$$$$$$$$$.zc, -c$$$$P<$$$$$$$$$$$P $$$$$>d$$$$P !!!!`<!!!!!!;;,``<!!!!>.'"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMn.`'<<>>'.`CCCC;.``<!,''''`!
+ "$$$$$$???c $$P" $$$$$$$$$$$c,z$$$h$$$$$F<$$$$$$$$F$$F<$$$$Fd$$$$$';!!!>;;`<!!!!!!!!;, `<!!!!; "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmnmMx`<CCCCC>.  ,;;;;,
+!.`"?hc."= `-   c$$$$$$$$$$$$$$$$$$$$$$$$$.?$$$$$$P,$$F<$$$Fd$$$$$';!!!!!!!>.,..``'''' ,;,``<!!!;'"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMn.`'<CCC ;!!!!!'`
+!!!;, .,;;;;;,,.`?$$$$$$$$$$$$$$$$$$$$$$$$$ ?$$$$"z$$$"<$$>d$$$$P ;!!!!!!!!!!!!!!!!;;;!!!!!; ``!!!; MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMn,.` ;!!!!!>;!
+!!!!!!!!!!!!'``'  ?$$$$$$$$$$$$$$$$??" ?$Fdcc,"'cd$$$" $Pld$$$$" <!!!!!!!!!!!!!!!!!!!!!!!!!!!>.`!!!; "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM `!!!!!!!!
+!''``''''''' ``.:  ?$$??".,;;;;,cccd$$$$$h ? .,.`"?"  d$c$$$$P".!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!! MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMb.`''''`<!
+,;;!!!!!!;;!;   .,;;, =c$$$$$$$$$$$$$$$$$$c,d$$$$c,." ?$$$$$F ;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! `!!!!; "4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMbmnmnmn.
+!!!!!!!!!!!!!!!!!!!!!>.`?$$$$$$$$$$$$$$$$$$$$$$$$$$$hcc,.`"" `!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> `!!!!!;, "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+!!!!!!!!!!!!!!!!!!!!!!!; "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$hc,.`<!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  <.```!!!!; "MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+!!!!!!!!!!!!!!!!!!!!!!!!!;,.`"?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$c, `!!!!!!!!!!<!!!!!!!!!!!!!!!!>.. `' ```!!!; "4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;;,""???$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.``''''`!;;;, , `!!!!!!!!!!!!!!!!;;!>;,``!!;,'"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+!!!!!!!!!!!!!!!!!!!!!!!''``,,'   ,c,. """""???$$$$$$$$$$$$$$$$$$$$$$$$$$ccc, ' , ``, -<!!!!!!!!!!!!!!!!!!!>; `!!!;,'"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+!''''''``````````'''`'  ,cc,,cc$$$$$$hc ``<>;;,,.`""""`.."""?$$$$$$$$$$$$$$$$c,`<!!!!!!!!!!!!!!!!!!!!!!!!!!!!;`<!!!!;,"4MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+>   .      ;- ``(   ' /""""??$$$$$$$$$$$$cc,`'`<!!!!!!!!!!!>;,"?$$$$$$$$$$$$$$$c,._`'`!!'`<!!!!!!!!!!!!!!!!!!!> !!!!!!>. "4MMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+'   ..  -'' ;!!' ,;;,' ;!!!> $$$""`?$$$$$$$$$$c, `!!!!!!!!!!!!; "?$$$$$$$$$$$$$$$$$$hcc,, `'`'''````'`!!!!!!!!!>'!!!!!!!!;,'"4MMMMMMMMMMMMMMMMMMMMMMMMMM
+

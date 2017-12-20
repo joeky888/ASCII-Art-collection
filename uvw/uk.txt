@@ -1,0 +1,143 @@
+
+copyright (c) Chris M. Dickson, 1998
+
+This is a rough ASCII map of continental Great Britain. It excludes
+a lot of the Scottish islands off the West coast. Furthermore, the
+North-South scale is compressed in the North and artificially extended
+in the South. One square East-West represents about 4 1/2 miles at the
+North of the map, and about 5 1/2 miles at the South of the map. One
+square North-South represents about 5 miles regardless of location.
+The Scottish coastline is probably less accurate than the English
+coastline.
+
+
+
+                                    DEGREES WEST     DEGREES EAST
+59 6...*...5...*...4...*...3...*...2...*...1...*...0...*...1...*...2
+ .
+ .
+ .         _           ___
+ .        / \---------/   \
+ *D       |               |
+ .E       /               /
+ .G     __|              /
+ .R     \               /
+ .E     /              /
+ .E     \             /
+ .S     /            /
+58      \           /
+ .N     _|         /
+ .O    /         ==--/
+ .R   /             /
+ .T   \            /   ____________
+ .H    \          /  _/            -
+ .    _/         / _/               \
+ *   /         ---/                  |
+ .   |_                              |
+ .     |                             /
+ .    <                            _/
+ .     \                            |
+ .    <                             |
+ .    _\                            /
+57   /                             /
+ .   \----                        /
+ .       /_                      |
+ .        /                     /
+ .        |                    |
+ .        /                    /
+ .       /                    /
+ *      /                    /
+ .      |                    |
+ .     /                     \
+ .    <                       \
+ .     \                    __/
+ .     / /|           ____--
+ .    / / |          =       _
+56    | | /           \-----/ \-\
+ .    | / \                      -\
+ .   /  |  \                       -\
+ .   |  |  |                        |
+ .   >  >  -\                       \
+ .   / /     \                       |
+ .   | |      \                       \
+ *   / /      |                       |
+ .  | |       |                       |
+ .  \_/       |                       |
+ .            /                       |
+ .          _/                        |
+ .         /                           \
+ .         |                            \
+55         |           ___              |
+ .        ^v          /  /              |
+ .        |  ^  ^-   /  |               |
+ .        \ / \_| \_/   /               \
+ .         \|   v      |                 \
+ .          v          |                  \_
+ .                     |                    \_
+ *D                    |                      \
+ .E                    |                       \
+ .G                    \                       |
+ .R                     \                       \
+ .E                      |__                    |
+ .E                      v  v^                   \
+ .S                          |                   |
+54                           |                   |
+ .N                         /                     \
+ .O                        <                       \
+ .R                         \_                 __   \
+ .T                         =                 =__\_  \
+ .H                        /                     \ \_|
+ .                        <                       \
+ *                         \                       \
+ .              _          /\                       \
+ .             J |_ __----\\ \                       \
+ .             \__//                                  \
+ .               -/                                   |
+ .               |                                    |
+ .               |                                    /
+53             _/                                    /
+ .            /___|                                 /  ________
+ .           //   |                                 | /        \_
+ .           ^    |                                 \/           \
+ .                >                                              |
+ .                |                                              |
+ .                |                                              |
+ *                |                                              |
+ .                |                                              |
+ .               /                                               |
+ .              /                                               /
+ .             /                                                |
+ .            _/                                                /
+52         _/                                                 /
+ .        /                                                  _|
+ .       <                                                  /
+ .        >     .                                          |
+ .        <_  _/|               /                       --/
+ .         /_/  |              /                          |
+ .              \___/\        /|                      ___/
+ *D                  |     /-/_/                     /_____
+ .E                  \    /  /                             \
+ .G                   \__/  /                             -------\
+ .R                         |                                   _|
+ .E                         |                                  /
+ .E             ___________/                                _--
+ .S            |                                           /
+51             /                                          |
+ .N           /                                          _|
+ .O           |                        _                /
+ .R           /                         \___  ___--__  /
+ .T          /            /\__      /--/    \/       \/
+ .H         /            /    \_/--\|
+ .         /             |
+ *        /            ./
+ .       /             |
+ .      /              |
+ .     /         .-\   |
+ .    /     __---/  \  |
+ .   /_    /         -/
+ .    |_/||
+50       -
+ .
+ .
+  6...*...5...*...4...*...3...*...2...*...1...*...0...*...1...*...2
+                                    DEGREES WEST     DEGREES EAST

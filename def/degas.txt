@@ -1,0 +1,79 @@
+See `classic_art' for ascii pictures based on famous paintings!
+
+Picture by Allen Mullen (view white on black)
+
+Four Dancers by Edgar Degas
+
+                                         . .
+                                       , h $ F
+                                       ?,$,$,F
+                                       `$$$$$P  ,
+                                        ?$$$$L,c'
+                                         $$$$$"'
+                                        c$$P"                                         .CC,
+;;,                                  .z$$$F                                          <CCCC
+!'',ccc                            ,c$$$P"                                        ,;, `CC ;!.!;
+ ,$$$$$".                        zJ$$$$"                        .z..             <!!!! ' <<!!!!;
+> $".,,c,.                     c$$$$$P'                        ,$$$$$c,.     ,cL !!!!! ;> ``!!!!!
+ z$$,.,$$$F                   $$$$$$P                          J$$$$PP$$$hc  $$$ !!!!! `<!> !!!!!>;
+z$$$$$$$$$=                  "??$$$"                           <$$$$$ $$P"..`$$F !!!!!!>'!><!'!'!!!
+$$$$$$$$$,ccc             zJ$$$$$P'                            `?$$$$c " ??$c$$$ !!!!!!!.,.' .,.!!!
+$$$$$$$$$$??"         .zJ$$$$$P"                        .,;;;!!; <$$$$.  =$$$$$$r`!!'``'!!!!!!! ``'
+`$$$$$$$P"     ,ccd$$$$$$$$$"'                         <!!!!!'!! `"?$$h <c$$$$$$h  .. <!!!!> !>
+ $$$$$$$F  .zc???$??""'..`"         zcccc,,,.,..,..   `!!!!'  ' ;!; "$$.`$$$$$$$$h,$P ;!!!' `'
+J$$$$$$$L $P" ,;;,;;!!!''          <$$$$$$$$$$$$P",;,-``!(.-' .<!!!! `$L  "?$$$$L.,.  ``! c?c,
+$$$$$$$$$ ? ;!!!!!!'``,;;;;;;,      $$$$$"""???" <!'  ' !' ;!!!!!!!!> $$h.   J$$$$$$$c   z, ? ,c$?hc,
+$$$$$$$$'  <!!!'  ,;<!!!!!!!!!!>    ?$$$$$c     `!! ,;;!!;<`<!!!!!'`. $$$$. <$$$$$$$$$.  `""? ' .==$$.
+$$$$$$$$ ;!!!!'!!!!!!!!!!!!!!!       $$$$$$c     !! !!!!!' ;'`!'' ,$F."???$ J$$$$$$$$$h.,,cc.    .,$$$c
+$$$$$$$' `(!!> !!!!!! ..`!!!' ,$     ?$$$$$$.      ;!!!' ;! ., z$$F zJh=y,?$$??"'.,..`"?$$$$$r';, `"'?$c
+$$$$$P  ;!!!!> !!!!' <F" `' ,J$$      $$$$$$h     c, `..<'' `,J$$P  " $r`F`'.,c$$$$$$$c $$$$$F`!!   ?$$$
+$$$P" <; ``!!! !!!' .`?chcc$$$L       `$$$$$$c    $$$c,.,ccc$$$$F cc  ".,c$$$$$$$$$$$$P $$$$$'`!! c <$$$
+.",;<!!!!>; ;! `' z$$L ",$$$$$$c       $$$$$$$c, J$$$$$$??????" z$$$$ ! ?$$$$$$$$$$$P",c$$$$F !!! $c ?$$
+!!!!!!!!!!! `' c$$$$$$cd$$$$$$$""      $$$$$$$$h $$$$$$$c,.,,zc$$$$$$.`! $$$$$$$$$"',c$$$$$P <!! z$$c`$$
+!!!!!!!!!!!!!`<$$$$$$$$$$$$$$??        ?$$$$$$$',$$$$$$$$$$$$$$$$$$$$F !><$$$$P"",c$$$$$$$$ ;!!' $$$$.?$
+!!!!!!!!!!!!! J$$$$$$$"$$$$$$F         `??$???',$$$$$$$$$$$$$$$$$$$$$ <!> "".,cd$$$$$$$$$$" !'' `?$$$$$P
+!!!!!!!!!!!' z$$$$$$$$ """??",$$F ,c$,c c  .- ,$$$$$$$$$$$$$$$$$$$$$" !!>  ?$$$$$$$$$$$$F ;!!      ""??
+!!!!!!!!!',c$$$$$$$$$",$$$$cd$P  J$$$$$$$c=". $$$$$$$$$$$$$$$$$$$$$" !!!>';`?$$$$$$$$P"".!''
+!!!!!!'`,c$$$$$$$$$$$ $$$$$$$F J $$$$$$$"  "F<$$$$$$$$$$$$$$$$$$$$" <!!! <!;,"""???".,;!!'
+!!!'.,c$$$$$$$$$$$$$$$$$$$$$P J z$$$$P".z$$cc,,.""?$$$$$$$$$$$$$$P >'!!  ``'`!!!>;;!''`'
+! ,J$$$$"".,... "$$$$$$$$$$P / z$$$$P c$$$$$$$$$$$c,."???$$$$$$$" <'`!!! !;;;;, !!,,;'
+! ?$$$F ;!!!!!!!  `"??$$$$F `,J$$$$$   `"?$$$$$$$$$$$$hcc ?$$$$" !! `!!! !!!!!!,;!!!>
+! <$$" <!!!!!!'.zc,`'-.,..- z$$$$$$'        ""???$$$$$$$$F`??" ;!!! <!!! !!!!!!!!!!!
+!> $" !!!',,,zc$$$$$cc,_' ,J$$$$$$F        <!>;;;;,  $$$$$  ;!!!!!! !!!';!!!!!!!!!' .xx.  .
+!! ' !!! J$$$$$$$$$$$$$$$$$$$$$$$".         !!!!!!!!;`$$$$h `!!!!!  <!! <!!!!!''  nMMMMMb."MMMn,.
+`' .<!! .""???$$$$$$$$$$$$$$$$$$F !          `!!!!!!!;`$$$$$ <!!!! ;,.,;!!!' xJMbx`4MMMMMM 4MMMMMb.,..
+Mx`<!'! !!!;;;,."""?$$$$$$$$$$P";!!           <!!!!!!!; $$$$c`!!! , `````.,."4MMMMn."4MMMML ."4MMMMMMMMn
+MMn ',`!!!!!!!!!!!>;,,,."""??" <!!             !!!!!!!!; ?$$$.`!>4MMMMMM MMMb 4MMMMMM,`4MMM Mb."MMMMMMMM
+MMMb.`,`!!!!!!!!!!!!!!!!!!! ;!!!!              `!!!!!!!!; ?$$$ ' ,_""4MMMMMMMbx`MMMMMMMx`4Mx,MMMMMMMMMMM
+MMMMMx`,`!!!!!!!!!!!!!!!!!' !!!                 !!!!!!!!!> ?$$F MMMMM,  ..`"4MM,JMMMMMMMbnMMMMMMMMMMMMMM
+MMMMMMn `!!!!!!!!!!!!!!!!'`!!!'             .xnx `<!!!!!!' J$$F,MMMMMMM 44Mbn,.'"MMMMMMMMMMMMMMMP4MMP4MM
+MMMMMMMM,`!!!!!!!!!!!!!!!>'!!!.            `""")Mnx,,,._ ,J$$$F`MMMMMMMbmn,. "4Mx."Mb.`"4MMM"4MMb "4hx`M
+MMMMMMPPP  `!!!!,'`!!<!!!,`!!!'        .xn,c"""MMMMMMMMP F"$$$F4MMMMMMMMMMMMMb 4MMx "4Mb."4MMn.`MMn 4P M
+MP""_.nmnP"..``!!> <>'!!!> `' .nn. -nx.`""4MMMMMMMMMMMP J',P"$>4MMMMMMMMMMMMMMbx'"??nx "4n.`MMM 4MMMx. 4
+.xJMMMP".nMMMM-..`.   _,_ -nhn 4MMMn."MMMmn.'"44MMMMP".. cP,j)-4MMMMMMMMMMMMMMMMMMmnMMMn.'4r`MMb "MMMMMx
+MMMP".xJMMMMM",M> MMMMMMMb MMMb.`4MMMx`4MMMMMMnx'"* xJMMx r',',MMMMMMPMMMMMMMMMMMMMMMMMMMbx. 4MMM,)MMMMM
+MP ,JMMMMMP".nMM>4MMMMMMML MMMMMb."MMMMn."4MMMMPMn,."4MMMnx.,nMMMMMM",MMMMMMMMMMMMMMMMMMMMMMx`4MMb..`MMM
+MnJMMMMMP xJMM"..`MMMMMMMM,`MMMMMM,`4MMMMbn "MM MMMMMr`4MMMMMMMMMMM",MMMMMMMMMMMMMMMMMMMMMMMMx "MMMM,"4M
+MMMMMMMP JMMMM M>,MMMMM 4MMnMMMMMMMM,"MMMMMMn.",MMPPlCx "MMMMMMMPP ,MMMML`4MMMMMM MMMMMP4MMMMMM 4MMMMb "
+MMMMMP",JMMMM uM JMMMMM>4MMMMMMMMMMMbx`MMMMMMMn."MMMMMMMn."4MM".,nMMMMMMMnx.""MMM 4MMMMb."MMMMMMn MMMMb.
+MMMP".nMMMMM>;MM MMMMMM>'MMMMMMMML.'"? `4MMMMMMMx`4MMMMMMMn."M MMMMMMMMMMMMMb MMML`MMMMMM 4MMMMMM )MMMMM
+MM',JMMMMMMMMMM>,MMPMMM .`44MMMMMMMx +Mn 4MMMMMMMb."4MMMMMM>. ,MMMMMMMMMMMMMP MMMM MMMMMMb."MMMMM 4MMMMM
+M",MMMMMMP"MMMM JMM MMM 4Mnr4MMMMMMM>4MMb "MMMMMMMMnx."4??CCML "4MMMMMMMMMMM,`4MMM 4MMMMMMP,MMMMM\4MMMMM
+MnJMMMMMP ;MMMM,MMM MMMb MM>'MMMMMMML`MMMb 4MMMMMMMMMMx'n 4MMMMn,."4MMMMMMMMMb MMMb MMMMMML`4MMMMx MMMMM
+MMMMMMM".r4MMMMMMMM "MMMr`MM MMMMMMMM,"MMMb MMMMMMMMMMM )n 4MMMMMML MMMMMMMMMM MMMM MMMMMMMMn MMMMx`4MMM
+MMMMMMP M JMMMM MMM  4MMM 4Mx`MMMMMMMM,4MMM,"MMMMMMMMMMb Mx,MMP4MMM 4MMMMMMMMM MMMM MMMMMMMMMr`MMMMn MMM
+MMMMMP J uMMMMP MMM L`MMM>4MMr`MMMMMMMLJMMMM,"MMMMMMMMMMx`MMMMb "MMn 4MMMMMMMM MMMM MMMMMMMMMP MMMMM "MM
+MMMMM J';MMMMM l `M M,"MMb MMM MMMMMMMMMMMMMM,)MMMMMMMMMM 4MMMMM,`4M>'MMMMMMMMxJ"44 MMMMMMMMM uMMMMMM 4M
+MMMM",M MMMMMM ,J ",MM )MM MMMx`MMMMMMMMMMMMM>'MMMMMMMMMM>'MMMC""b,`M 4MMMMMMMMMn>4 4MMMMMMMP MMMMMMMr'
+MMMMnM> MMMMMMMMM, MMM 4MMr`MM> 4MMMMMMMMMMMMM 4MMMMMMMMMM MMMMMbn,.`b MMMMMMMMMMb r4MMMMMM",JMMMMMMMM
+MMMMMM .`MMMMMMMMM,)MMn MMM MMMx`MMMMMMMMMMMMM>4MMMMMMMMMM MMMMMMMMMn. 4MMMMP MMMM, JMMMMMM MMMMMMMMMMr
+MMMMMP M,""MMMMMMM>4MMM 4MM )MMM,'"MMMMMMMMMMMb 4MMMMMMMMMMMMMMMMMMMMMM,`4MMP-4MMM>4MMMMMM",MMMMMPPPP"
+MMMMM 4MM" MMMMMMM>4MMM>4MML`MMML'x`MMMMMMMMMMM>'MMMMMMMMMMMMMMMMMMMMMMMMnx . MMMM>'MMMMMM 4MMMM"
+MMMMP MMM JMMMMMMM>4MMML'"MM MMMM,) MMMMMMMMMMMM,`MMMMMMMMMMMMMMMMMMMMMMMMML' 4MMM>4MMMMMML MMM'
+MMMP JMM uMMMMMMMM,)MMMMM MM 4MMP Jn."M MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM>  MMM>'??????"
+MMM nMMM MMMMMMMMM>4MMMMMnMM>4MMn."MM 4 MMMMMMMMMMMMb."MMMMMMMMMMMMMMMMMMMMMMn MMMP
+MMP,MMMC,MMMMMMMMM>'MMMMMMMMb MMMM MML' MMMMMMMMMMM "M 4MMMMMMMMMMMMMMMMMMMMMP
+P4 JMMP4MMMMMMMMMMM MMMMMMMMM,)MMM MMM, 4MMMMMMMMMMM,)h MMMMMMMMMMMMMMMMMMMP
+>  MMM JMMMMMMMMMMM MMMMMMMMMb MMMr`MMMb MMMMMMMMMMMb."= MMMMMMMMMMMMPP"""
+
+

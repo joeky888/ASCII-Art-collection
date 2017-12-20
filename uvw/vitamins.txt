@@ -1,0 +1,400 @@
+
+
+1.2 Name: L-Ascorbic Acid
+
+1.3 Common Synonyms: Vitamin C
+
+L-threo-2,3,4,5,6-pentahydroxy-1-hexenoic acid-4-lactone
+
+1.4 Empirical Formula: C6H806
+
+1.5 Structural Formula
+
+   OH   OH
+    |   |
+    C = C
+    |   |
+0 = C   CH-CHOH-CH2OH
+     0
+
+
+
+
+
+      .O.     OH
+    ,'   `.   |
+O==C       C--C--CH2OH
+    \     /
+     C===C
+    /     \
+  HO       OH
+
+
+
+
+
+
+From: Ben Norwood
+
+
+Righteo then, since the subject of chemical structures has resurfaced,
+and it's cold/flu season, I thought I'd have a go at the entire vitamin
+set, and to spice it up, a bit of biochemical trivia as well :)
+
+
+H3C    CH3    CH3     CH3
+   `.,'       |       |   CH2OH
+   ,'`. ,'\\,'\\,'\\,'\\,'
+  |   ||
+   `..' `.
+          CH3        mbfh
+
+
+
+H3C    CH3           CH3           CH3
+   `.,'              |             |      CH2OH
+   ,'`.     ,'\\   ,'\\   ,'\\   ,'\\   ,'
+ ,'    `, ,'   \\,'   \\,'   \\,'   \\,'
+|       :|
+|       :|
+ `.    ,' `.
+   `..'     `.
+              CH3       mbfh   
+
+
+Vitamin A - retinol
+
+Amongst other uses in the body, combines with the protein opsin to form
+rhodopsin (visual purple) in the eye's rod (night-vision) cells.
+
+
+                                         H3C
+H3C    CH3    CH3     CH3                   `.,'`,
+   `.,'       |       |                      ||   |
+   ,'`. ,'\\,'\\,'\\,'\\,'\\,'\\,'\\,'\\,'\\,'`.,'       mbfh
+  |   ||                       |       |      ,'`,
+   `..' `.                     CH3     CH3 H3C    CH3
+          CH3
+
+Pro Vitamin A - Beta-carotene
+
+Pro-vitamins are precursors of vitamins that can be converted by the
+body into the 'normal' vitamin. Beta-carotene is one of the most famous
+of these (yes, eating carrots *can* theoretically improve your
+night-vision), and is often used as a yellow/orange food colourant.
+
+
+-oOo-oOo-oOo-
+
+The B Group Vitamins - also known as 'Vitamin B Complex'.
+
+There are currently six numbered vitamins and two unnumbered vitamins in
+this group. The complex of vitamins was discovered in yeast, and were
+originally thought to be a single substance. Later, its constituents
+were seperated and labelled. Further analysis showed that B's 4, 5, 7,
+8, 9, 10 and 11 weren't vitamins, hence only 1, 2, 3, 5, 6, 12 remain,
+plus biotin and folacin.
+
+
+       N----.           ,----S
+      //    \\        +//    |
+H3C--<        >--CH2--N      |
+      \      /       _ \     |                mbfh
+       N===='      Cl   `====+
+                       ,'     `.,'`.
+                    H3C             OH
+
+
+Vitamin B1 - Thiamine
+
+Deficiency of which causes beriberi, it's pyrophosphate is also known as
+Coenzyme A, which plays a vital role in respiration.
+
+-oOo-
+
+               HO
+                 `.
+                   `.
+                    |
+         HO         |
+           `.     ,' `.
+             `. ,'     `.
+               |         OH
+               |
+             ,' `.
+           ,'     `.
+         HO        |
+H3C                |
+   `.    ,'`.     ,N.     ,N.
+     `.,'  `.`. ,'   `. ,',' `.
+      ||     ` |       | '     |
+      ||     , |     , |       |                    mbfh
+     ,'`.  ,',' `. ,',' `.    ,N--H
+   ,'    `.,'     `N'     `.,'
+H3C                        ||
+                            O
+
+
+Vitamin B2 - Riboflavin
+
+One of the main antioxidant vitamins, a constituent of FAD and FMN
+co-enzymes, also used as a yellowish colourant in food.
+
+-oOo-
+
+
+             O
+             ||
+             ||
+   ,'`,     ,'`.
+ ,'  `.`. ,'    `.
+||     ` |        OH
+||     , |
+ `.  ,','
+   `N '                           mbfh
+
+
+Vitamin B3 - Nictotinic Acid / Niacin
+
+The carboxylic acid of nicotine, American officials called it 'niacin'
+so as to prevent people thinking that they could fulfil their RDA of
+this vitamin by smoking...
+
+It is readily converted into:
+
+             O
+             ||
+             ||
+   ,'`,     ,'`.
+ ,'  `.`. ,'    `.
+||     ` |        NH2
+||     , |
+ `.  ,','                            mbfh
+   `N '
+
+Nicotinamide, the amine of B3, which itself forms part of NADH (and
+NADPH in plants), a coenzyme used to extract energy from carbohydrates.
+
+Although the vitamin can be produced from nicotine, it is far cheaper to
+manufacture it from:
+
+   ,'`,           ,'`.     ,'`.
+ ,'  `.`.       ,','  `. ,'  `.`.
+||     ` |     | '      ||     ` |
+||     , |     | .      ||     , |
+ `.  ,','       `.`.  ,' `.  ,','
+   `N '           `.,'     `N '                    mbfh
+
+ Pyridine    or     Quinoline
+
+
+-oOo-
+
+
+  H3C  CH3    OH
+     `.|    ,'
+       >---'
+     ,'
+HO--<         H
+     `.     ,'
+       >---N                       OH
+      //    `.                   ,'
+      O       `---.         ,---<                 mbfh 
+                   `.     ,'     \\
+                     N---'        O
+                   ,'
+                  H
+
+
+Vitamin B5 - Pantothenic Acid
+
+Pantothenic acid is another constituent of Coenzyme A, but nowadays
+perhaps more famous are the numerous derivates collectively labelled as
+"Pro-Vitamin B5 Complex" or panthenol/panthenate. These were originally
+developed to help WWII burns victims, but it was somehow discovered at
+the time that the complex helped to strengthen hair, and the firm
+Pantene was set up (now owned by Glaxo Smithkline, info from SB's
+website).
+
+-oOo-
+
+HOH2C                  OH
+     `.     ,'`,     ,'
+       `. ,','  `. ,'
+         | '     ||
+         | .     ||
+          `.`.  ,' `.                           mbfh  
+            `N '     `.
+                       CH3
+
+
+Vitamin B6 - Pyridoxine
+
+Used in the production of antibodies, manufacture of haemoglobin, and
+metabolism of proteins.
+
+
+-oOo-
+
+Vitamin B12 - Cyanocobalamine
+
+Helps make erythrocytes (red blood cells). Structure not asciified due
+to its complexity.
+
+For more info: http://www.chem.ox.ac.uk/mom/vitamins/vitaminb12.html
+
+Verbose description: Vitamin B12 consists of:
+a monovalent cobalt metal at the center, surrounded by a porphyrin-like
+structure of tetrapyrrole rings, bound to the metal center is a cyano
+group and a 5',6'-dimethylbenzimidazolyl nucleotide which is linked to
+the tetrapyrrole rings via a phosphate sugar linkage.
+
+(see, I told you it was complicated!)
+
+-oOo-
+
+H2N
+   `.     ,N.      ,N.
+     `. ,','  `. ,'  `.`.
+       | '     ||      ` |
+       | .     ||        |
+        `.`.  ,' `.    ,' `.
+          `.,'     `N '     `.
+           |                  |
+           |                  |
+           OH                 NH
+                   ,'`.     ,'
+                 ,'  `.`. ,'
+                ||     ` |
+       O        ||     , |
+        `.    ,' `.  ,','
+        `.`.,'     `.,'
+          ` |       
+            |
+           HN
+             `.    ,'||`.
+               `.,'  ||  `.
+                 |   O     OH
+                 |
+               ,'
+             ,'
+            |
+            |                                           mbfh
+          ,' `.
+        ,','   `.
+       O '       OH
+
+Vitamin Bc - Folacin / Folic Acid
+
+Helps synthesise DNA, RNA, erythrocytes, and antibodies, so is essential
+in foetuses. Found in abundance in green leaves, but easily destroyed by
+cooking.
+
+-oOo-
+
+[no pic as altavista can't find it's structure for me to copy]
+
+Biotin
+
+Used in the metabolism of carbohydrates, maintains healthy skin, hair
+and nails.
+
+-oOo-oOo-oOo-
+
+                    OH
+                    |
+         ,O.        |
+ O.    ,'   `.    ,' `.
+ `.`.,'       `.,'     `CH2OH
+   ` \         /
+      \       /                                     mbfh
+       >-----<
+     ,'       `,
+  HO'           `OH
+
+
+Vitamin C - Ascorbic Acid
+
+Since everybody already knows almost everything about this vitamin, I'll
+give the trivia a miss on this one...
+
+
+-oOo-
+
+                                             CH3
+                                             |
+                         H3C                 |
+                            `.     ,'`.    ,' `.
+                              `. ,'  `.`.,'     `.
+                                |      `|         CH3
+                            CH3 |       |
+                      ,'`.  |  ,'\      CH3
+                    ,'    `.|,'   \
+                   |        |      \
+               H2C |        |      /
+         ,'`.   //  `.    ,' `.   /
+       ,'    `.//     `.,'     `./
+      |        |       ||
+      |        | .     ||                            mbfh
+    ,' `.    ,' `.`.  ,'
+  ,'     `.,'     `.,'
+HO
+
+
+Vitamin D2 - Calciferol
+
+Essential for the development of teeth and bones, plus the absorption of
+calcium and phosphorous, vitamin D2 can be formed by the irradiation of
+7-dehydrocholesterol (a derivative of cholesterol).
+
+-oOo-
+
+         |                                             mbfh  
+HO       |
+  `.    ,'`.     ,'`.
+    `.,' ., `. ,'    `.
+     |  |  |  |        |       H3C    H    H3C    H
+     |  |  |  |        |          `.,'        `.,'          ,'
+   ,' `. `' ,' `.    ,'|`.  ,'`.  ,'`.  ,'`.  ,'`.  ,'`.  ,'`.
+ ,'     `.,'     `O '  |  `'    `'    `'    `'    `'    `'    `
+          |            CH3
+          |
+
+
+Vitamin E - d-alpha tocopherol
+
+Helps maintain healthy arteries (it's an anti-coagulant and
+vaso-dilator), and is an anti-oxidant as well.
+
+-oOo-
+
+             O                  |""            ""|
+             ||               | |             |  |
+             ||               | |             |  |
+   ,'`.     ,'`.     ,'`.    ,'`|    ,'`.    ,'`.|
+ ,' ,. `. ,'    `. ,'    `.,',' |`.,'    `.,'    |.
+|  |  |  |       ||             |                |
+|  |  |  |       ||             |                |
+ `. `' ,' `.    ,'              |__            __|n
+   `.,'     `O '
+             ||
+             ||
+             O                         mbfh
+
+
+Vitamin K2 - Menaquinone (side chain length varies)
+                         (in K1 - phylloquinone, n=3)
+
+Involved in blood clotting, possibly part of prothrombin
+
+
+-oOo-
+
+Unless otherwise stated, all diagrams are (manually!) copied from gifs
+at http://www.geocities.com/CollegePark/Den/5701/ES.htm
+
+All asciifications copyright (c) Benjamin Norwood, January 2000
+
+If anyone feels the urge to use any of the asciifications, please
+attribute with the alias "mbfh"
+

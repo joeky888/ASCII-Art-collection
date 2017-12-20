@@ -1,0 +1,282 @@
+
+Colin Douthwaite <cfbd@southern.co.nz> wrote in article <5uf32f$i0g$1@mnementh.southern.co.nz>...
+
+
+ ===========================================================================
+
+          , ___ _,_        _, _, _ _, _ _ _,_ __, __,  _,  _, __, , _
+        / |  |  |_|       / \ |\ | |\ | | | / |_  |_) (_  /_\ |_) \ |
+        ~~|  |  | |       |~| | \| | \| | |/  |   | \ , ) | | | \  \|
+          ~  ~  ~ ~       ~ ~ ~  ~ ~  ~ ~ ~   ~~~ ~ ~  ~  ~ ~ ~ ~   )
+                                                                   ~'
+         _, __,      _, _,  ___       _,  _,  _, _ _     _, __, ___
+        / \ |_      /_\ |    |       /_\ (_  / ` | |    /_\ |_)  |
+        \ / |       | | | ,  |       | | , ) \ , | | ~~ | | | \  |
+         ~  ~       ~ ~ ~~~  ~   ~   ~ ~  ~   ~  ~ ~    ~ ~ ~ ~  ~
+
+
+ =================================   2   ==================================
+
+
+                                  CIRCLES
+
+ ==========================================================================
+
+
+ I find circles a very difficult shape, especially as they become
+ smaller.
+
+ I usually start with a template - e.g. the 2 speedos and work inside
+ or outside those:
+
+
+
+            90    100                          90    100
+       80  \           110                80              110
+            \
+   70        \             120        70                      120
+              \
+ 60            \             130    60                          130
+                O                                  O
+ 50                          140    50              \           140
+                                                     \
+  40                        150      40               \        150
+               mph                                mph  \
+     30                  160            30              \   160
+   This is your code on the VAX       This is your code on the SGI
+
+
+
+ Depending on your screen characteristics they will look like:
+
+                   perfect circles
+                   horizontal ovals
+                   vertical ovals
+
+
+
+
+            .....
+        _d^^^^^^^^^b_
+     .d''           ``b.
+   .p'     Objects     `q.
+  .d'   in mirror may   `b.
+ .d'   be less virtual   `b.
+ ::   than they appear.   ::
+ ::  ...................  ::
+ ::                       ::
+ `p.  johnca@netcom.com  .q'
+  `p.   John Abbe aka   .q'
+   `b.     Rademir     .d'
+     `q..          ..p'
+        ^q........p^
+            ''''
+
+        _.,,,,,,,,,._
+     .d''           ``b.
+   .p'     Objects     `q.
+ .d'   in mirror may    `b.
+ .d'   be less virtual   `b.
+ ::   than they appear.   ::
+ `p.  johnca@netcom.com  .q'
+  `p.   John Abbe aka   .q'
+   `b.     Rademir     .d'
+     `q..            ..,'
+        '',,,,,,,,,,''
+
+
+
+
+        . -- ~~~ -- .
+    .-~               ~-.
+   /                     \
+  /                       \
+ |                         |
+ |                         |
+ |                         |
+  \                       /
+   \                     /
+    `-.               .-'
+        ~- . ___ . -~
+
+
+
+         , - ~ ~ ~ - ,
+     , '               ' ,
+   ,                       ,
+  ,                         ,
+ ,                           ,
+ ,                           ,
+ ,                           ,
+  ,                         ,
+   ,                       ,
+     ,                  , '
+       ' - , _ _ _ ,  '
+
+
+
+
+
+ Bryon DeLaBarre's  "Chinese Face" makes quite a nice Circle.
+
+
+                   ooo OOO OOO ooo
+               oOO                 OOo
+           oOO                         OOo
+        oOO                               OOo
+      oOO                                   OOo
+    oOO                                       OOo
+   oOO                                         OOo
+  oOO                                           OOo
+ oOO                                             OOo
+ oOO                                             OOo
+ oOO                                             OOo
+ oOO                                             OOo
+ oOO                                             OOo
+  oOO                                           OOo
+   oOO                                         OOo
+    oOO                                       OOo
+      oOO                                   OOo
+        oO                                OOo
+           oOO                         OOo
+               oOO                 OOo
+                   ooo OOO OOO ooo
+
+                after -Byron DeLaBarre-
+
+
+
+
+ Use your own version of "Find" and "Replace" to replace the
+ characters making this circle to characters of your own choice.
+
+
+ example:
+
+ Find "O"  Replace "#"
+ Find "o"  Replace "*"
+
+
+
+                   *** ### ### ***
+               *##                 ##*
+           *##                         ##*
+        *##                               ##*
+      *##                                   ##*
+    *##                                       ##*
+   *##                                         ##*
+  *##                                           ##*
+ *##                                             ##*
+ *##                                             ##*
+ *##                                             ##*
+ *##                                             ##*
+ *##                                             ##*
+  *##                                           ##*
+   *##                                         ##*
+    *##                                       ##*
+      *##                                   ##*
+        *#                                ##*
+           *##                         ##*
+               *##                 ##*
+                   *** ### ### ***
+
+
+
+
+                      ,,ggddY""""Ybbgg,,
+                 ,agd""'              `""bg,
+              ,gdP"                       "Ybg,
+            ,dP"                             "Yb,
+          ,dP"         _,,ddP"""Ybb,,_         "Yb,
+         ,8"         ,dP"'         `"Yb,         "8,
+        ,8'        ,d"                 "b,        `8,
+       ,8'        d"                     "b        `8,
+       d'        d'        ,gPPRg,        `b        `b
+       8         8        dP'   `Yb        8         8
+       8         8        8)     (8        8         8
+       8         8        Yb     dP        8         8
+       8         Y,        "8ggg8"        ,P         8
+       Y,         Ya                     aP         ,P
+       `8,         "Ya                 aP"         ,8'
+        `8,          "Yb,_         _,dP"          ,8'
+         `8a           `""YbbgggddP""'           a8'
+          `Yba                                 adP'
+            "Yba                             adY"
+              `"Yba,                     ,adP"'
+                 `"Y8ba,             ,ad8P"'
+                      ``""YYbaaadPP""''
+
+
+
+ I got these circles from cycle wheels:
+
+
+        *  *              *  *
+     *        *        *        *
+    *          *      *          *
+    *          *      *          *
+     *        *        *        *
+        *  *              *  *
+
+
+        /  /              /  /
+     /        /        /        /
+    /          /      /          /
+    /          /      /          /
+     /        /        /        /
+        /  /              /  /
+
+
+        o  o              o  o
+     o        o        o        o
+    o          o      o          o
+    o          o      o          o
+     o        o        o        o
+        o  o              o  o
+
+
+        =  =              =  =
+     =        =        =        =
+    =          =      =          =
+    =          =      =          =
+     =        =        =        =
+        =  =              =  =
+
+
+
+        x  x              x  x
+     x        x        x        x
+    x          x      x          x
+    x          x      x          x
+     x        x        x        x
+        x  x              x  x
+
+
+
+                                              _  _
+             =  =                          =        =
+          =        =                     =            =
+         =          =                   =              =
+         =          =                   =              =
+          =        =                     =            =
+             =  =                          =        =
+                                              ~  ~
+
+
+           %%%    %%%
+      %%%              %%%
+
+  %%%                      %%%
+
+ %%%                         %%%
+
+ %%%                         %%%
+
+ %%%                        %%%
+
+    %%%                  %%%
+
+          %%%     %%%
+
+
+ ================================================  cfbd ==========

@@ -1,0 +1,140 @@
+
+              .-----------------------------.
+              |  Build own your transporter |
+              |   (c) David Palmer 2000     |
+              '-----------------------------'
+
+
+1. Construct a Heisenberg Compensator.
+
+   a) Locate a domestic microwave oven.
+        .---------------.
+        |.-----------.  |
+        ||           |()|
+        ||           |oo|
+        |'-----------'  |
+         """""""""""""""
+   b) Removing the outer casing from the and pull out the magentron.
+
+        .---------------.
+        |.-----------.  |
+        ||           |()|
+        ||           |oo|   (Don't skip this step or you won't be
+        ||___________|__|   able to derive the precise vector and
+               .'.'         positional data of particles at a
+             .'.'           subatomic level).
+            _:_:____
+           [XXXXXXXX]
+            """"""""
+        |---------------|
+         """""""""""""""
+      Leave the wires attached to the magnetron.
+
+2.    Glue it to the primary induction terminals on the No.7 Transporter
+      circuit (Tandy / Radio Shack) taking care not to reverse the polarity .
+                     _____________
+                    |##TT####ooo##|
+                    |##++#-#I=##-#|
+                    |##=#HH<>#=#I.|
+                    |#############|
+                     """""""""""""
+
+                 (Use Metal-Glue)
+                  ___________
+                 ||          \___
+                 ||           |__|
+                 ||__________/
+
+
+3. Take 2 metres of coaxial cable
+
+                __...---...---...---...---...---...---
+
+   and attach the secondary induction terminals of the transport
+   circuit to a pair of Pattern buffers.
+
+   I haven't worked out how to multiplex the buffers so you'll have
+   to operate these in synchronization when you adjust the frequency
+   for the doppler effect or else the subject could get "transporter
+   psychosis".
+
+   If you can't locate genuine pattern buffers take two condenser
+   microphones and tape them between two pairs of frisbees.
+                                    _...---------..._
+            __...---...---'''---===(-----------------)
+                                    ~---.........---~
+                                    _...---------..._
+            __...---...---'''---===(-----------------)
+                                    ~---.........---~
+
+4. Fit the components to the inside of a Telephone box
+
+                __..---'''---...___
+              .'                   '.
+             | .-------------------. |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             | |                   | |
+             |_|___________________|_|
+
+
+
+5. Bolt a Satelite dish to the top of the telephone box.
+                   .
+                  /
+                 /
+               _.   o
+              [_]====\
+              ||'
+              || \
+              ||  \
+              ||   '
+
+   and connect to the magnetron using coxial cable.
+
+
+7. Take a pair of car jumper cables (heavy duty)
+
+    >8============================8<
+    >8============================8<
+
+
+8. Connect one end to a 12v Car Battery
+            +         -
+           _n_________n_
+          |             |
+          |             |
+          |             |
+          |_____________|
+
+9. Connect the other ends to the power terminals of the transporter
+   circuit and there we have it!
+
+
+I'm still working on the rematerialisation chamber and would really
+appreciate it if anyone could let me know of a source of dilithium
+crystals and antimatter.
+
+* CAUTION * It only takes one handful of antimatter to rip the
+atmosphere off a planet so wear thick gloves if you find some.
+

@@ -1,0 +1,900 @@
+
+ __________________________________________________________________________
+                          ____  ____          ___
+                         / __ \/ __ \        / ( )____
+                        / / / / /_/ /   __  / /|/ ___/
+                       / /_/ / __  /   / /_/ / (__  )
+                      /_____/_/  |_|   \____/ /____/
+    _____     _    __      ______       ____                  _
+   / ___/_ __(_)__/ /__   /_  __/__    / __ \_______ __    __(_)__  ___ _
+  / (_ / // / / _  / -_)   / / / _ \  / /_/ / __/ _ `/ |/|/ / / _ \/ _ `/
+  \___/\_._/_/\___/\__/   /_/  \___/ /_____/_/  \_._/|__.__/_/_//_/\_  /
+     ____ ____     ___  _________________   ___  _     __         /___/
+    |_  // __ \   / _ \/ __/ ___/  _/  _/  / _ \(_)___/ /___ _________ ___
+   _/_ </ /_/ /  / _  /\ \/ /___/ /_/ /   / ___/ / __/ __/ // / __/ -_|_-<
+  /____/_____/  /_//_/___/\___/___/___/  /_/  /_/\__/\__/\_._/_/  \__/___/
+ __________________________________________________________________________
+
+      Copyright (c) 1994    DR J, Leaping Off The Screen Enterprises.
+ __________________________________________________________________________
+
+                               Release v1.0
+ __________________________________________________________________________
+
+    Acknowledgements
+
+    Thanks to Bob Allison for writing the Ascii-Art FAQ and Rowan Crawford
+ for writing Ascii Graphical Techniques, both of which were invaluable when
+ setting out this guide.
+
+    Thanks to Stuart Inglis and Todd Hale for writing the Stereogram FAQ,
+ available from alt.3d or the ftp site katz.anu.edu.au in the directory
+ pub/stereograms.
+
+    Thanks to Mike Jittlov for the original idea.
+
+    Big shout to the following for proofreading this document and making
+ their own suggestions:
+ The Bionic Babe, Rowan Crawford, PH, Mike Hertz, Edwin Khachatourian,
+ James Middleton.
+ __________________________________________________________________________
+
+    Contents
+
+ 1. Introduction                   ____  _____      ____  _____
+ 2. The basics                    |___ \|  __ \    |___ \|  __ \
+ 3. Spacing                          _) | |  | |      _) | |  | |
+ 4. Changing depth              ASCII_  ASCII| |ASCII|_ ASCII | |ASCII
+ 5. Multiple layers                ___) | |__| |    ___) | |__| |
+ 6. To mask or mix                |____/|_____/    |____/|_____/
+ 7. Possible traps and pitfalls
+ 8. Conclusion
+ A. Viewing 3D pictures
+ __________________________________________________________________________
+
+ 1. Introduction
+
+    This guide doesn't offer any advice on drawing Ascii pictures, there
+ are plenty of artists in a better position to offer guidance on Ascii art
+ techniques. It is instead a way of listing the techniques peculiar to
+ drawing pictures that can be made to appear three dimensional (3D) and the
+ methods I use both to create and improve them.
+
+    I'm assuming that you already know how to view stereograms. For those
+ of you who don't, I've included an appendix with information about how to
+ view stereograms. If this is no help, try reading the stereogram FAQ (see
+ Acknowledgements) as it contains far more helpful information on the
+ various techniques that can be used.
+
+    This guide is about drawing stereograms that still look like pictures
+ when viewed normally (non-random or picture-type) rather than the random-
+ letter type that look like PGP key blocks. This is because several people
+ have written software that can automatically turn a simple text file into
+ a random-letter stereogram. They are also a right pain to draw by hand!
+
+    Parts of the guide concern the appearance of 3D pictures and this is
+ mostly personal opinion. I have however, tried to justify everything I say
+ on the topic.
+
+              .                  It helps a lot if you have good eyesight.
+             / \              I prefer relaxing my eyes to look behind
+            /   \             stereograms (wide-eye) rather than crossing
+        ___/_____\___         my eyes, as it hurts less and allows me to
+       |             |        stay sitting. If you view them cross-eyed,
+       | H R D Z A S |        all my drawings will appear inside-out. If I
+       |  x r u h i  |        mention an image appearing nearer, cross-eyed
+       |   * * * *   |        viewers will see it being further away and
+       |    '.'.'    |        vice-versa. Of course, if you spend all day
+       |_____________|        drawing 3D pictures you end up pretty cross-
+                              eyed no matter how you view them!
+ __________________________________________________________________________
+
+ 2. The basics
+
+    'Let's start at the very beginning...'. Easier said than done. The main
+ principle of any stereogram is that the brain can be fooled by identical
+ images spaced horizontally. Instead of looking at one of the images, each
+ eye looks at a different image, but the brain can't tell the difference
+ between the two separate images and is convinced that there is only one.
+ To solve the paradox, the brain pretends that there really is only one
+ image, but at a different depth.
+
+    By using a non-proportional text font (where all the letters are of the
+ same width) we have two immediate advantages when trying to create our own
+ stereograms, the ability to create countless identical copies of an image
+ and control of the spacing between them.
+
+    First step is to get two images that look the same, like this -
+
+                             @__@          @__@
+                              ||            ||
+                              ||            ||
+                              ||            ||
+                             -~~-          -~~-
+
+    When you look at the picture, the brain has two images, one from each
+ eye and it wants to overlap them to form a single image. The brain looks
+ for visual cues (any bits of the two images that are obviously from the
+ same object) to decide how to overlap them. Normally it would overlap them
+ so this part from the left eye sits ontop of this part from the right.
+          \__                                 ______/
+             |                               |
+          ___|____________________        ___|____________________
+        L|   |                    |      |   |                    |R
+        e|                        |      |                        |i
+        f|   @__@          @__@   |      |   @__@          @__@   |g
+        t|    ||            ||    |      |    ||            ||    |h
+         |    ||            ||    |      |    ||            ||    |t
+        e|    ||            ||    |      |    ||            ||    |
+        y|   -~~-          -~~-   |      |   -~~-          -~~-   |e
+        e|   |                    |      |                 |      |y
+         |___|____________________|      |_________________|______|e
+             |                                             |
+             |_________________________                ____|
+                                       \              /
+    However, unfocussing matches this part with this part (Cross-eyed
+ viewing matches the inner two). This should result in you seeing three
+ columns, a solid one in the centre of your vision and two translucent ones
+ on either side. It's the one in the middle that we're interested in
+ because it appears to be closer than the rest of the screen.
+
+    To show the importance of having two identical images, look what
+ happens when one of the columns is altered -
+                              __            __
+                             @__@          @__@
+                              ||            ==
+                              ||            ==
+                              ||            ==
+                             -~~-          -~~-
+
+    The sections that are identical remain three dimensional, but where
+ the overlapping images are different, the effect is gone and the image is
+ a flat mess of characters.
+
+    If we wanted to have more than one column in three dimensions, we just
+ add another next to the first two -
+
+                      @==@          @==@          @==@
+                       ||            ||            || 
+                       ||            ||            || 
+                       ||            ||            || 
+                      =~~=          =~~=          =~~=
+
+    Now we have two columns in three dimensions. Notice we still have the
+ two translucent columns at either side. The 3D effect works on real
+ columns too, try it on your next holiday to Athens!
+
+    Some stereograms are simply two images that combine into a single 3D
+ image, like the two columns above. Alternatively we can lay down a whole
+ screen full of images as below -
+
+      ___            ___            ___            ___            ___
+    .' _ '.        .' _ '.        .' _ '.        .' _ '.        .' _ '.
+    |R: '.'        |R: '.'        |R: '.'        |R: '.'        |R: '.'
+    |o|            |o|            |o|            |o|            |o|
+    |c|            |c|            |c|            |c|            |c|
+    |k|            |k|            |k|            |k|            |k|
+    |_|            |_|            |_|            |_|            |_|
+
+    If we now link the images together we can give the appearance of one
+ continuous layer that hovers infront of the screen -
+
+ --.____.--~~~~~~--.____.--~~~~~~--.____.--~~~~~~--.____.--~~~~~~--.____.--
+            ____            ____            ____            ____
+ '.      .'~    ~'.      .'~    ~'.      .'~    ~'.      .'~    ~'.      .'
+   \    /          \    /          \    /          \    /          \    /
+    Y  Y            Y  Y            Y  Y            Y  Y            Y  Y
+    |  |            |  |            |  |            |  |            |  |
+    |  |            |  |            |  |            |  |            |  |
+    |  |            |  |            |  |            |  |            |  |
+    |__|            |__|            |__|            |__|            |__|
+
+    The double images work best for simple pictures or where you want to
+ draw attention to one particular image. The multiple images work better if
+ you're trying to create a larger picture.
+ __________________________________________________________________________
+
+ 3. Spacing
+
+    Next we must consider the spacing of the images. The 3D effect relies
+ heavily on geometry, so we have to make some assumptions about how the
+ images will be viewed.
+
+    The majority of people who see 3D Ascii artwork will be using an 80
+ column display, on a screen about 12 - 14 inches wide and sitting about 3
+ or 4 feet away from it. Ignoring any difficult maths, the effect of this
+ arrangement is that most people won't be able to overlap images that are
+ separated by more than 23 - 25 columns.
+
+    This means that the repeating part of the picture is limited to this
+ width (see if you can make the two vertical lines overlap) -
+
+                         |                        |
+                   _____\|                        |/_____
+                        /|                        |\
+                         |                        |
+
+    Even though the overall picture can be wider than this, it will have to
+ consist of segments that are this wide. Needless to say this makes it more
+ restrictive to draw 3D images than normal Ascii pictures as you have less
+ space in which to work.
+
+    Remember, the space is not the distance between the two images (A on
+ the diagram below), but the distance between the repeating parts of the
+ stereogram (distance B) -
+
+                           ____              ____
+                         .'    '.          .'    '.
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+                         '.____.'          '.____.'
+
+                         |      |<--- A -->|
+                         |                 |
+                         |<------ B ------>|
+
+
+    If you're new to viewing 3D art, you may find that images over 15 - 18
+ columns are too wide. This is because your eye muscles will need time to
+ strengthen and your brain will need time to learn to relax the eyes to
+ very wide angles before you can unfocus by a large amount. Persevere, it's
+ worth it and some people reckon it improves their eyesight!
+ __________________________________________________________________________
+
+ 4. Changing depth
+
+    When the brain calculates how far away an object is, it measures the
+ angle between the two eyeballs. The closer the eyes are to being parallel,
+ the further away the object. As we have seen, getting the brain to overlap
+ two separate images gives the impression of there being one image at a
+ different depth. Therefore it follows that if we adjust the gap between
+ the repeated images, we can alter the depth at which the object appears.
+
+    If we take two objects again, but this time draw them with different
+ spacings -
+                             .                 .
+                            /|\               /|\
+                           / |:\             / |:\
+                          /  |:/            /  |:/
+                         /___|/            /___|/
+                              .               .
+                             /|\             /|\
+                            / |:\           / |:\
+                           /  |:/          /  |:/
+                          /___|/          /___|/
+                               .             .
+                              /|\           /|\
+                             / |:\         / |:\
+                            /  |:/        /  |:/
+                           /___|/        /___|/
+
+    Start at the top two and get the single 3D image. Now if you look down
+ you should see that the next pyramid is closer to you. The bottom pyramid
+ is closer still.
+
+    To make the pictures symmetrical, I've decreased the spacing by two
+ characters each time. Changing the spacing by a single column gives you
+ more control over the depth of the image.
+
+    The general rule for viewers who relax their eyes (wide-eye) is that
+ bringing images closer together makes them appear nearer to the viewer,
+ spacing them out makes them appear deeper into the picture. Cross-eyed
+ viewers will see the effect in reverse.
+
+    We'll take the pyramids again, but this time copied across the screen
+ with a single space between each layer - 
+
+       .               .               .               .               .
+      /|\             /|\             /|\             /|\             /|\
+     / |'\           / |'\           / |'\           / |'\           / |'\
+    /  |'/          /  |'/          /  |'/          /  |'/          /  |'/
+   /___|/          /___|/          /___|/          /___|/          /___|/
+         .              .              .              .              .
+        /|\            /|\            /|\            /|\            /|\
+       / |'\          / |'\          / |'\          / |'\          / |'\
+      /  |'/         /  |'/         /  |'/         /  |'/         /  |'/
+     /___|/         /___|/         /___|/         /___|/         /___|/
+           .             .             .             .             .
+          /|\           /|\           /|\           /|\           /|\
+         / |'\         / |'\         / |'\         / |'\         / |'\
+        /  |'/        /  |'/        /  |'/        /  |'/        /  |'/
+       /___|/        /___|/        /___|/        /___|/        /___|/
+
+    The change in depth between each layer is smoother, but equally is less
+ pronounced.
+
+    I aligned the middle columns for symmetry, there's no actual need to do
+ this, sometimes it looks better if the images don't line up. In the above
+ example, the pyramids don't get out of step by more than a couple of
+ squares, but as we will see in the next section, it can become a problem
+ ensuring that different layers don't drift too far horizontally from each
+ other.
+
+    When it comes to deciding depths, it's worth remembering that most
+ viewers will expect the images at the bottom of the screen to appear
+ closer than those at the top.
+ __________________________________________________________________________
+
+ 5. Multiple layers
+
+    Changing the gaps between columns produces different layers, but the
+ previous example is a bit cold and disjointed - the individual images are
+ flat and they don't interact with each other. A much better 3D effect is
+ gained when layers of objects at different depths are laid on top of each
+ other, or when one of the images contains more than one layer.
+
+    When discussing layers, I often use the term one layer deeper or one
+ layer nearer. If I say I've pushed a set of images one layer deeper into
+ the screen, it means I've added one extra column of spaces in between the
+ images. Bringing images one layer out of the screen involves removing a
+ column of spaces between the images. If the layer is continuous, then I've
+ either reduced it or widened it by one column.
+
+    Let's look at a simple example of the images containing multiple layers
+ first. Two squares (in case you weren't sure!) -
+                      ____________       ____________
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |            |     |            |
+                     |____________|     |____________|
+
+    Completely flat and uninteresting, so lets add another square in the
+ middle - 
+                       ____________      ____________
+                      |  ________  |    |  ________  |
+                      | |        | |    | |        | |
+                      | |        | |    | |        | |
+                      | |        | |    | |        | |
+                      | |        | |    | |        | |
+                      | |________| |    | |________| |
+                      |____________|    |____________|
+
+    Still flat, so lets try and make the inner square appear deeper in the
+ picture by making it further apart than the outer one -
+                       ____________      ____________
+                      | ________   |    |  ________  |
+                      ||        |  |    | |        | |
+                      ||        |  |    | |        | |
+                      ||        |  |    | |        | |
+                      ||        |  |    | |        | |
+                      ||________|  |    | |________| |
+                      |____________|    |____________|
+
+    Now you get the feeling of looking into a pit, so let's add some more
+ squares - 
+                       ____________      ____________
+                      | ________   |    |  ________  |
+                      ||  ____  |  |    | |   ____ | |
+                      || |    | |  |    | |  |    || |
+                      || |[]  | |  |    | |  | [] || |
+                      || |____| |  |    | |  |____|| |
+                      ||________|  |    | |________| |
+                      |____________|    |____________|
+
+    Now you have a reasonably convincing lift (elevator) shaft. Why the
+ stagger in placing the squares? Personal opinion. This is how the picture
+ looks if you only move the squares from one image -
+                       ____________      ____________
+                      | ________   |    |  ________  |
+                      || ____   |  |    | |  ____  | |
+                      |||    |  |  |    | | |    | | |
+                      |||[]  |  |  |    | | | [] | | |
+                      |||____|  |  |    | | |____| | |
+                      ||________|  |    | |________| |
+                      |____________|    |____________|
+
+    Notice how the shaft now seems tilted to the left? (Did you just catch
+ yourself shifting your head to the right? Convincing isn't it?!!) If I am
+ drawing a double-image stereogram, I try to make changes to the layers on
+ both the left and right images, otherwise one of the images becomes very
+ distorted when compared to the other. It also makes for a more centred 3D
+ effect.
+
+
+    Now onto the hardest type of stereogram drawing, the multi-layer 
+ continuous picture (sorry, I just love inventing names for things!).
+
+    First we need to decide on some layers. My favourite way of drawing a
+ multi-layer 3D picture is to start with the background layer and add the
+ foreground layers on top as I need them. We'll start with a simple two
+ layer picture to show the basic principles involved.
+
+    Here's the background, a line of street lights, nine lines high -
+1              __                __                __                __
+2         .===|__|          .===|__|          .===|__|          .===|__|
+3         ||                ||                ||                ||
+4         ||                ||                ||                ||
+5         ||                ||                ||                ||
+6         ||                ||                ||                ||
+7         []                []                []                []
+8         []                []                []                []
+9         []                []                []                []
+
+    Thin vertical columns work well in stereograms as they allow you to
+ fill the spaces in between with other layers.
+
+    Now here's the foreground, a four line convoy of jeeps -
+A           _  _            _  _            _  _            _  _
+B        __//  |___.     __//  |___.     __//  |___.     __//  |___.
+C       |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+D       `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+
+    The jeeps are two layers above the streetlights for extra effect. The
+ numbers are to make identification easier later on.
+
+    First we put the two layers below each other to see how they line up
+ horizontally (it's worth doing this now because once we start to overlap
+ the layers it gets awkward to move them horizontally) -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    []                []                []                []
+    []                []                []                []
+    []                []                []                []
+            _  _            _  _            _  _            _  _
+         __//  |___.     __//  |___.     __//  |___.     __//  |___.
+        |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+
+    I've moved the streetlights so we get to see one of them between the
+ jeeps.
+
+    As the jeeps are 4 lines high, we'll overlap the top 3 lines of the
+ jeeps with the bottom 3 of the lights. This is the method I use.
+
+    Copy the top line from the foreground layer and insert it above the
+ layer it will overlap on the background layer as shown (I've trimmed the
+ rest of the layers to make it clearer) -
+
+6   ||                ||                ||                ||
+A           _  _            _  _            _  _            _  _
+7   []                []                []                []
+
+    We want to merge the middle line with the bottom line (above). Copy the
+ bottom line and edit the copy, inserting the characters from the middle
+ line as you go, making sure the new line matches both the old bottom line
+ and the middle line -
+
+6   ||                ||                ||                ||
+A           _  _            _  _            _  _            _  _
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+7   []                []                []                []
+
+    Now delete the old bottom and middle lines -
+
+6   ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+
+
+    And copy these lines back into the original background -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+6   ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+    []                []                []                []
+    []                []                []                []
+
+    And the next line -
+
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B        __//  |___.     __//  |___.     __//  |___.     __//  |___.
+8   []                []                []                []
+
+    Now we have a situation where the foreground characters are on top of
+ the background characters, so we simply delete any covered background
+ letters and replace them with the foreground ones -
+
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B        __//  |___.     __//  |___.     __//  |___.     __//  |___.
+B+8 []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+8   []                []                []                []
+
+    Putting the wanted lines back into the background -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B+8 []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+    []                []                []                []
+
+    And so on until -
+         __                __                __                __
+    .===|__|          .===|__|          .===|__|          .===|__|
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+    ||                ||                ||                ||
+A+7 []      _  _      []    _  _        []  _  _          []_  _
+B+8 []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+C+9 []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+
+    One multi-layer continuous stereogram! Phew!
+
+    Yes this technique is a bit laborious, but you'll find that you make
+ fewer mistakes when copying layers on top of each other. If you want more
+ layers, you simply overlap them as shown.
+ __________________________________________________________________________
+
+ 6. To mask or mix
+
+    'The Phantom of The Opera is here...'. Well, almost the right type of
+ mask, but no star prize. Masking is a technique I sometimes use when I'm
+ working on complicated stereograms.
+
+    The 3D effect relies on the brain being able to overlap two images to
+ form a three dimensional one. Well sometimes, layers overlap in such a
+ way to leave only one image. Let's take a look at the bottom of the jeep
+ drawing again -
+
+    ||                ||                ||                ||
+    []      _  _      []    _  _        []  _  _          []_  _
+    []   __//  |___.  [] __//  |___.    [__//  |___.     __//  |___.
+    []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+
+                                        |_____
+                                              \
+    Notice that the street light is obscured here. Looked at in 3D, this
+ part of the street light is now difficult to see properly as it has
+ nothing to overlap with.
+
+    The simplest way to cure this problem is to shift the jeeps one column
+ to the left to obscure the street light. However, this is difficult in an
+ overlapped drawing and it just causes new problems with other clashing
+ layers.
+
+    Instead, the next best thing to do is try to mask off the offending
+ characters. By this I mean draw an imaginary blank layer around the fore-
+ ground image - in this case, the jeep. This gives you -
+
+    ||                ||                ||                ||
+    []      _  _      []    _  _        [   _  _            _  _
+    []   __//  |___.  [] __//  |___.     __//  |___.     __//  |___.
+    []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+
+    Now this is not the best example as I've deleted a lot of characters,
+ but it does illustrate the how the picture can be 'cleaned up' by trying
+ to remove characters that don't appear to fit properly. This is very much
+ personal judgement, particularly since once you start to draw more
+ complicated drawings with three or four complicated layers, you will get
+ character clashes that *cannot* be removed with masks, no matter how hard
+ you try!
+
+
+    Unfortunately, there is a drawback with masking - you can be left with
+ large holes in your stereogram that can spoil the picture. The other way
+ to deal with character clashes is to borrow (steal) an idea from Row and
+ use an alternative Ascii character that best approximates the two clashing
+ characters.
+
+    In the above example, the clash is fairly simple to mix. The two
+ Ascii characters that need to be mixed are the '[' of the streetlight and
+ the '_' of the jeep's bonnet. The obvious character to use to represent
+ both of these Ascii shapes is the '[' as it contains the streetlight shape
+ plus enough of a low horizontal line to fool the eye. The result of this
+ mix can be seen below -
+
+    ||                ||                ||                ||
+    []      _  _      []    _  _        []  _  _          []_  _
+    []   __//  |___.  [] __//  |___.    []_//  |___.     _[//  |___.
+    []  |'_ '--' _ |  []|'_ '--' _ |    |'_ '--' _ |    |'_ '--' _ |
+        `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=   `(_)----(_)'=
+
+    In this drawing, the mixing effect gives a much better overall look. In
+ other cases, the masking effect is a better way to solve character clashes.
+ Of course, the decision on which effect appears better is very subjective,
+ so don't always expect to be able to make a quick decision when you see a
+ character clash.
+
+
+    Good examples of character clashes that aren't worth fixing can be
+ seen in one of my earlier drawings, shown below -
+
+      .                    .                    .                    .
+      :                    :                    :                    :
+      :    .               :    .               :    .               :
+     .'   .   .           .'   .   .           .'   .   .           .'   .
+    .'   .' O.'   .      .'   .O  .'   .      .'  O.'  .'   .      .'O  .'
+   .'   .'  .'  ..      .'   .'  .'  ..      .'   .'  .'  ..      .'   .'
+   ::   :   .O ..       ::   :  O.' ..       ::   :O  .' ..       ::  O:
+   : \. '   :  :         \. .'   :  :        \.  .'   :  :       \.   .'
+ \,  ;\\,,  :O '.    \,  ;\\,,  O:  '.   \,  ;\\,, O :   '.  \,  ;\\,,O'
+  \\::333:o  .  ''    \\::333:o  '.  ''   \\::333:o   '.  ''  \\::333:o
+ , /:33333:< :  ,      /:33333:<  ,   :    /:33333:<,  ::  :   /:33333:<
+  ' '///''    .:/     ' '///''  .:/   :   ' '///''.:/  .'  :  ' '///'' ::
+     /  :: ,,///;,  ,/   /   ,,///;,  ,/ .:  / ,,///;,  ,/ '. .: /     ::
+       .' o:33333:://       o:33333::// . :   o:33333:://   '. :      .''
+      .' >:3333333:\\      >:3333333:\\ ::   >:3333333:\\    ::      .'  .
+     .'    ''\\\\\" '\       ''\\\\\" '\ :     ''\\\\\" '\   ::     .'   :
+     ::    '. ';\  ' '\   ::    ';\  . '\ '    :: ';\ .  '\ .' '    ::
+     ':..   ' ,. '' :     ':..   ' ,.:'' :     ':..   ' ,.:'' :     ':..
+      :::    .''   ::      :::    .''   ::      :::    .''   ::      :::
+      :::  .:' .  .'       :::  .:' .  .'       :::  .:' .  .'       :::
+      ::: :::  ::::        ::: :::  ::::        ::: :::  ::::        ::: :
+
+                                 DR J                DR J
+
+    Look at the seaweed above the foreground fish's tail, notice the clash
+ caused by the fish covering the seaweed? Well I could try and sort out a
+ way of curing the problem, but what for? The clash is almost unnoticeable
+ and has virtually no effect on the overall look of the picture.
+
+    As an aside, this picture is clearer when viewed as a stereogram
+ because the 3D separates the fish from the seaweed better than the brain
+ can when looking at the flat picture!
+
+    When drawing random-letter stereograms, many artists add two markers at
+ the top of the drawing to show at what point the images should overlap. I
+ decided to incorporate this idea in my drawings by adding my name in 3D.
+ The DR J's are always one layer above the main picture, so you should look
+ at them first to get an idea of the picture's depth. Once you've got them,
+ look at the main image and you should be able to see it as a stereogram
+ immediately.
+
+
+    Still here? You are keen, aren't you?!! ;-)
+
+    Well this concludes the sections on the basic drawing techniques, the
+ next section lists some of the common problems that arise when drawing
+ stereograms.
+ __________________________________________________________________________
+
+ 7. Possible traps and pitfalls
+
+    This section is based on personal opinion more than any of the others.
+
+ 
+ Too many layers
+
+    Once you start drawing multi-layer stereograms, the temptation is to
+ keep adding more and more layers. Up to about five layers is fine, but go
+ beyond that and the difference in spacing between the characters in the
+ top layer and the bottom layer will be so great as to cause the layers to
+ 'break up' while being viewed. This is when the characters on one layer
+ obviously no longer overlap while the viewer is concentrating on another
+ layer.
+
+    For example, look at the stereogram below - 
+
+                        (-O-)      (-O-)      (-O-)
+                       |-O-|       |-O-|       |-O-|
+                      (-O-)        (-O-)        (-O-)
+                     |-O-|         |-O-|         |-O-|
+                    (-O-)          (-O-)          (-O-)
+                   |-O-|           |-O-|           |-O-|
+                  (-O-)            (-O-)            (-O-)
+
+    If you lock onto the top layer, and then glance downwards, you will see
+ that each layer down becomes further and further disjointed. At first, the
+ effect is not too noticeable, but by the time you reach the bottom layer,
+ the images are so badly misaligned that the 3D effect is missing
+ completely.
+
+
+ Images too close together
+
+    As I mentioned earlier, there is a 'limit' to the distance between
+ repeating images in a stereogram before the pattern becomes too wide to be
+ seen. The reverse effect is also true, if the repeating patterns are too
+ close together, then the 3D effect becomes difficult to 'lock onto'. For
+ example, take the picture shown below -
+
+               ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___
+               :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o:
+               :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o:
+               :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o: :o:
+                |   |   |   |   |   |   |   |   |   |   |   |
+                |   |   |   |   |   |   |   |   |   |   |   |
+
+    When the brain tries to unfocus the eyes by only a small amount, to
+ view a closely spaced stereogram, it is still receiving visual information
+ about the correct distance to the screen. If the information is 'strong'
+ enough, then the eyes 'snap back' to the correct focusing point and the 3D
+ effect is lost. This is often what happens when you view stereograms for
+ the first time, the 3D illusion isn't strong enough to fool the brain so
+ it re-aligns the eyes making the correct images overlap.
+
+
+ Continous lines
+
+    When the brain overlaps images, it is looking for visual cues to use
+ as it aligns the two images. Normally, the images can only be overlapped
+ at certain points, such as the line shown below -
+
+   ----------||----------||----------||----------||----------||----------
+
+    However, when drawing Ascii pictures, sometimes you may want to draw a
+ continuous line, for example for a bridge or a road. This can cause
+ problems when viewed in 3D.
+
+    For example, taking the line above, we can see that the brain will want
+ to overlap this part with this part, giving the line a specific depth -
+                   \_____        \___
+                         |           |
+
+   ----------||----------||----------||----------||----------||----------
+
+    Now take a continous line like so -
+
+   ----------------------------------------------------------------------
+
+    The brain no longer has any visual cues on which to rely on, so when
+ it tries to align this character, it can align it with any of these ones -
+                          \_              ______________________/
+                            |            |         |
+   ----------------------------------------------------------------------
+
+    The result of this is that the line does not stay at the depth that you
+ want and instead changes depth as the brain attempts to align the image.
+ For this reason, I always try to break up any continous lines with other
+ characters, to ensure that the line stays at the depth I want.
+ __________________________________________________________________________
+
+ 8. Conclusion
+
+    Well, what is there to conclude? This guide started out as simply a way
+ of answering some of the general questions that get asked about Ascii
+ stereograms. All the techniques listed above are ones that I use for my
+ own artwork, but that doesn't mean that it's a complete list of the
+ available techniques.
+
+    I hope that this guide will be useful, not just to novices, but to
+ Ascii artists of all levels. I think that we are still a long long way
+ from exhausting the possibilities of Ascii art and the stereogram is
+ arguably the least developed of all the Ascii styles.
+
+    Maybe it's time to redress the balance.
+
+    Have fun and get drawing!
+
+                                                       DR J
+
+ __________________________________________________________________________
+
+ A. Viewing 3D pictures
+
+    If you can't see stereograms then this is the key to the whole guide,
+ if you can't get beyond this part, nothing I've said in the previous
+ sections is going to make much sense!
+
+    Humans have two eyes, roughly              Critical Design
+ level and separated by only a few                 Feature
+ centimetres, but it is this 'design
+ feature' that lets us see in three               ->|   |<- 6-8cm
+ dimensions.
+                                                   |||||||
+    The key to stereoscopic or three              /       \
+ dimensional vision is the ability               | (o) (o) |
+ to 'line up' the separate views of              |    .    |
+ an object seen from each eye to form             \  \_/  /
+ a single image.                                   \_____/
+
+    Normally, when looking at something, the brain is presented with two
+ images, one from each eye. In order to make sense of the information it
+ is receiving, the brain alters the angle of the two eyes until the images
+ overlap. The brain then uses the muscles that surround the eyeballs to
+ alter their shape to create a sharp image. Using the eyeballs to provide
+ a sharp image is an independent action from lining up the eyes and does
+ not contribute to the 3D effect, just the clarity. This is known as
+ focusing. The brain then measures the angle between the eyes and using
+ simple trigonometry, calculates the distance to the object in focus. The
+ point at which the two images overlap is called the focal point and the
+ distance is referred to as the focal distance.
+
+    The two pictures below show how the eyes normally see an image on a
+ monitor. The right-hand '3-D' seen by the right eye overlaps with the
+ right-hand '3-D' seen by the left eye (same for the left-hand one) and
+ the brain locks the eyes as the image is focused. The diagram on the left
+ shows the angle between the eyes whilst focusing on a screen image. The
+ diagram on the right shows what the brain sees and what distance it
+ perceives it to be.
+
+
+ screen       ________3-D___3-D________        ________3-D___3-D________
+                          .
+                        .   .
+                      .       .
+                    .           .
+ eye level        <O>           <O>                <O>           <O>
+
+
+    The problem for the brain is that it can only focus by comparing the
+ two images that it sees. It needs two images of an object to focus upon it
+ properly (making it difficult to focus on a point in mid air). Normally,
+ the brain is only presented with two images of each object, so is able to
+ overlap them easily. It is when the brain is unable to decide at what
+ point the images should overlap that it can be fooled.
+
+    As stated earlier, aligning the two eyes onto an object and obtaining a
+ sharp image are separate functions for the brain. This means that the eyes
+ can view an object clearly without locking onto it.
+
+    If we use the same two images as above, the brain will normally focus
+ correctly on the screen. However with a little training, it is possible to
+ let the eyes 'drift' outwards, so that they are effectively focusing on a
+ point *behind* the screen.
+
+    The best way to learn how to 'unfocus' is to stand at arms' length in
+ front of a wall, keep your elbows against your chest and hold both hands
+ in front of your face, with both index fingers extended vertically.
+
+    If you focus on your fingers,             _           _
+ you should simply see them both             |_|         |_|
+ as shown on the right. The wall             |L|         |R|
+ behind will be blurred and out              | |         | |
+ of focus.                                  Solid       Solid
+
+    Now focus on the wall. You will         _   _       _   _
+ probably see four translucent             |_| |_|     |_| |_|
+ (semi-transparent) fingers (don't         |L| |L|     |R| |R|
+ worry, they're alright!). This is         | | | |     | | | |
+ because the brain is now aligning
+ the images of the wall instead of      Translucent   Translucent
+ your fingers.
+
+    Next, keep focusing on the wall,         _      _      _
+ but step backwards or forwards             |_|    |_|    |_|
+ until the two centre fingers meet          |L|    |L|    |R|
+ and overlap, forming a solid finger        | |    |R|    | |
+ in the middle. Even though you are                 
+ still looking at the wall, it should        ^      ^      ^
+ be possible to see the 'combined'           |    Solid    |
+ finger clearly.                             '-Translucent-'
+
+    It is this skill, being able to look behind an object but still keeping
+ it in focus, that allows the brain to be fooled into seeing 3D pictures.
+
+    Returning to our screen with our new-found (and practiced!) skill, we
+ allow the eyes to focus behind the screen as shown below. Initially, the
+ brain sees two different images. However, as the eyes focus further back,
+ the right-eye's view of the left-hand '3-D' and the left-eye's view of the
+ right-hand '3-D' overlap (Yes, go back and re-read that again!). At this
+ point the brain becomes confused. It sees a solid combined image at the
+ centre of its vision (the only bit it is interested in) despite the rest
+ of the image being jumbled. If the viewer holds his or her eyes in that
+ position, the brain simply resolves the paradox by deciding that it has
+ locked on correctly to the object in front.
+
+
+ virtual screen                                ________3-D___3-D________
+                          .
+                         . .             3D image->       3-D
+ real screen  ________3-D___3-D________
+                       .     .
+                      .       .
+                     .         .
+                    .           .
+ eyes             <O>           <O>                <O>           <O>
+
+
+    Now convinced that it has the correct lock-on angle, the brain will
+ focus the eyeballs for a clear image and then recalculate the distance to
+ the object, but with an incorrect angle. Because the eyes are at a wider
+ angle, *everything* appears further back (although it might not seem that
+ way) but more importantly, the combined image appears in front of all the
+ other screen images - the brain appears to view everything unfocused as
+ being even further back.
+
+   It is worth noting again that crossing your eyes achieves a 3D effect
+ in reverse. This is not advised because the eyes have difficulty in
+ focusing on the two images and if the wind changes, you'll stay that way!
+ __________________________________________________________________________
+
+

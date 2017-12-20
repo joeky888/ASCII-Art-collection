@@ -1,0 +1,187 @@
+From: Elvis <dprossi@mail.webspan.net>
+
+
+
+The board:
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [____]  [____]  [____]  [____]  [____]  [____]   ____  \
+/ |    |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   |    | \
+/          [____]  [____]  [____]  [____]  [____]  [____]  |____| \
+/_________________________________________________________________\
+
+
+Normally this is lying flat on a table, not vertical on a computer
+screen.  So imagine it flat.  And wooden.  And 3-D.  Those little
+cutouts that I drew are actually carved out of the wood, like little
+pockets to hold the stones.
+
+There are two players.  Each sits on opposite sides of the board.
+The sides are the long sides drawn here. Your side consists of six
+holes and your home.
+
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [____]  [____]  [____]  [____]  [____]  [____]   ____  \
+/ |    |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   |home| \
+/          [_1__]  [_2__]  [_3__]  [_4__]  [_5__]  [_6__]  |____| \
+/_________________________________________________________________\
+
+
+I (your opponent) have the same setup as you on the other side.
+The object is to get the most stones into your home.
+
+Here's where the game varies.  For sake of illustrating, (and
+because that's how I usually play)  we'll start with four stones.
+I'll use numbers instead of stones.
+
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  [_4__]   ____  \
+/ |    |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   |    | \
+/          [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  |____| \
+/_________________________________________________________________\
+
+
+Play moves counterclockwise.  The object is to get the most stones
+in your home.  Pick up all the stones in one of the holes on your side
+and place one in each of the holes including your home (but excluding
+mine) in a counterclockwise fashion.
+
+Example:
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  [_4__]   ____  \
+/ |    |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   |    | \
+/          [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  |____| \
+/_________________________________________________________________\
+
+    Let's say that            ^
+    you choose               /|\
+    this one                  |
+        ______________________|
+
+
+The board after you move will look like this:
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_4__]  [_4__]  [_4__]  [_4__]  [_4__]  [_4__]   ____  \
+/ |    |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   | 1  | \
+/          [_4__]  [_4__]  [_0__]  [_5__]  [_5__]  [_5__]  |____| \
+/_________________________________________________________________\
+
+
+Get the hang of it?
+There are a couple of rules.
+
+1.  Game is over once all holes on your side are empty.
+
+2.  You can only pick up stones from your side.
+
+3.  If the last stone you place lands in your home, you go again.
+So in the above example, it would still be your turn.
+
+4.  If your last stone lands in an empty space on your side,  you
+get to put that stone in your home.  You also get everything directly
+opposite that spot.  Then your turn is over.
+
+
+Example:  Pretend after playing a while our board looks like this:
+
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_0__]  [_2__]  [_0__]  [_0__]  [_0__]  [_3__]   ____  \
+/ | 20 |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   | 19 | \
+/          [_0__]  [_4__]  [_0__]  [_0__]  [_0__]  [_0__]  |____| \
+/_________________________________________________________________\
+
+    Let's say that   ^
+    you choose      /|\
+    this one         |
+        _____________|
+
+
+The board after you move will look like this:
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_0__]  [_2__]  [_0__]  [_0__]  [_0__]  [_3__]   ____  \
+/ | 20 |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   | 19 | \
+/          [_0__]  [_0__]  [_1__]  [_1__]  [_1__]  [_1__]  |____| \
+/_________________________________________________________________\
+
+
+You get that last one in the last spot and the three directly opposite
+of it.  So now it looks like this.
+ __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_0__]  [_2__]  [_0__]  [_0__]  [_0__]  [_0__]   ____  \
+/ | 20 |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   | 23 | \
+/          [_0__]  [_0__]  [_1__]  [_1__]  [_1__]  [_0__]  |____| \
+/_________________________________________________________________\
+
+
+And it's my turn (yay!).  I have one choice.
+
+  __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_1__]  [_0__]  [_0__]  [_0__]  [_0__]  [_0__]   ____  \
+/ | 21 |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   | 23 | \
+/          [_0__]  [_0__]  [_1__]  [_1__]  [_1__]  [_0__]  |____| \
+/_________________________________________________________________\
+
+I go again.
+
+  __________________________________________________________________
+/  ____     ____    ____    ____    ____    ____    ____          \
+/ |    |   [_0__]  [_0__]  [_0__]  [_0__]  [_0__]  [_0__]   ____  \
+/ | 22 |                                                   |    | \
+/ |____|    ____    ____    ____    ____    ____    ____   | 23 | \
+/          [_0__]  [_0__]  [_1__]  [_1__]  [_1__]  [_0__]  |____| \
+/_________________________________________________________________\
+
+Uh oh, my side is empty.  Game is over.  You get to keep the remaining
+three on your side.  22 to 26.  Good game.  You win.
+
+
+
+
+
+
+From: naenia <naenia@geocities.com>
+
+
+hmm... I know that since mancala is not a widely known game, and it
+comes from two different parts of the world (Africa and The Middle East
+both have it, but the middle easters play with 9 spaces to a side
+instead of six) the rules may vary, but I just thought I'd share how I
+learned
+
+
+1.  Game is over once all stones are in one of the home spaces.
+
+2.  You can only pick up stones from your side.
+
+3.  If the last stone you place lands in your home, you go again.
+So in the above example, it would still be your turn. It would also
+continue to be your turn if you end in a space on your side of the
+board. You would pick up the pieces in that space and continue with your
+turn.
+
+4.  If your last stone lands in an empty space on your side, You get to
+move the pieces directly opposite that space from the opponent's side to
+yours. Then your turn is over.
+
+I believe the way I learned it has more of a middle eastern twist to it
+(since I learned on a middle eastern board, even though I own an African
+board), but I could be wrong. The visuals were excellent.
+
+naenia

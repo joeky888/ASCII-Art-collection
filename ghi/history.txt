@@ -1,0 +1,325 @@
+
+                 An Ascii-Art History of Humanity
+                  by Jorn Barger         v 1.01
+                   jorn@mcs.com        3 May 1997
+
+
+This is meant to be read slowly, each screen an object of contemplation.
+My intent was to simplify without losing perspective, while maintaining
+depth and avoiding cliches.  Lots of the ideas should be new and
+challenging.
+
+For more detail, see <URL: http://www.mcs.net/~jorn/>
+
+
+
+Maybe the universe originated 10-20 billion years ago, in a Big Bang.
+
+A one-line scale model of the Solar System:
+(1 character-width = 12 million miles)
+
+-----------------------------------------------------------------------
+.                                    .                               .
+^ ^ ^ ^  ^                           ^                               ^
+-----------------------------------------------------------------------
+S M V E Mars      asteroids       Jupiter                         Saturn
+
+[ SMVE = Sun - Mercury - Venus - Earth ]
+
+At this scale, the sun is 1/12th of a character wide, while
+Jupiter and Saturn are really invisible, at 1/100th of a char.
+The Moon's orbit around Earth is about 1/20th of a character in diameter.
+
+
+
+
+
+A closer view:
+
+
+
+---------------------------------------------------------------------------
+ ( )                                                                     o
+---------------------------------------------------------------------------
+Earth                                                                  Moon
+
+1 char = 5000 km
+
+
+
+
+
+Evolution began several billion years ago, probably with delicate    C------W
+chains of RNA units that occasionally managed to reproduce         C--------W
+themselves.  Adding DNA as well as RNA made this process less     C--------W
+delicate and more accurate.                                       C-------W
+                                                                   C----W
+Every DNA sequence embodies a long history of 'squeaking thru'        W
+nature's perils.  This is not _memory_, but rather useful           W--C
+'hallucinations'.  Mutations are genetic 'hallucinations', and     W-----C
+only the useful ones survive.                                     W--------C
+                                                                  W---------C
+By one billion years ago, the value of sharing DNA via sexuality   W--------C
+was well-established, but biologists acknowledge that we've          W-----C
+hardly begun to understand the rules of this evolutionary 'game'.        C
+Apparently the main purpose of sexual reproduction is to outrun        C--W
+the parasites, who keep managing to adapt to every *specific*        C------W
+genetic makeup.                                                    C--------W
+                                                                  C--------W
+Around 600 million years ago, the Cambrian Explosion generated    C-------W
+a profusion of new biological forms, surely with the help of       C----W
+sexual reproduction.                                                  W
+
+
+
+
+
+Evolution began several billion years ago, probably with delicate    C------W
+
+chai
+ns of RNA units that occasionally managed to reproduce         C--------W
+themselves.  Adding DNA as well as RNA made this process less     C--------W
+delicate and more accurate.                                       C-------W
+                                                                   C----W
+Every DNA sequence embodies a long history of 'squeaking thru'        W
+nature's perils.  This is not _memory_, but rather useful           W--C
+'hallucinations'.  Mutations are genetic 'halucinatons', and     W-----C
+only the useful ones survive.                                     W--------C
+                                                                  W---------C
+By one billion years ago, the value of sharing DNA via sexuality   W--------C
+was well-established, but biologists acknowledge that we've          W-----C
+hardly begun to understand the rules of this evolutionary 'game'.        C
+Apparently the main purpose of sexual reproduction is to outrun        C--W
+the parasites, who keep managing to adapt to every *specific*        C------W
+genetic makeup.                                                    C--------W
+                                                                  C--------W
+Around 600 million years ago, the Cambrian Explosion generated    C-------W
+a profusion of new biological forms, surely with the help of       C----W
+sexual reproduction.                                                  W
+
+
+
+Evolution began several billion years ago, probably with delicate chains
+of RNA units that occasionally managed to reproduce themselves.
+
+Adding DNA as well as RNA made this process less delicate and more accurate.
+
+Every DNA sequence embodies a long history of 'squeaking thru' nature's
+perils.  This is not _memory_, but rather useful 'hallucinations'.
+Mutations are genetic 'hallucinations', and only the useful ones survive.
+
+By one billion years ago, the value of sharing DNA via sexuality was
+well-established, but biologists acknowledge that we've hardly begun to
+understand the rules of this evolutionary 'game'.  Apparently the main
+purpose of sexual reproduction is to outrun the parasites, who keep
+managing to adapt to every *specific* genetic makeup.
+
+Around 600 million years ago, the Cambrian Explosion generated a profusion
+of new biological forms, surely with the help of sexual reproduction.
+
+
+                  ,_   .  ._. _.  .   _  ,   .
+              , _-\','|~\~~ ~~ ~~/  ;-'-'  ~-',    ,;_;_,    ~~-
+     /~~-\_/-'~'--' \~~| \,/' _-|  /  /  |_/~-/-/~~      ~~--~~~~'---_
+     /              ,/'-/~ '\./', '|,'|~   '                ._/-, /~~
+     ~/-'~\_,       '-,| '|. '  ,\ /'~                 /    /_  /~
+   .-~      '|        '',\~|\   _\~     ,_ .  .              /|
+             '\        /'~      |_/~\\,-,~' \ "          ,_,/ |
+              |       /  .      _-~'\_ _~|               \ ) /
+               \   __-\       ./      ~ |\  \_           /  ~
+     .,         '\ |x         |          \\_' ~|  /~\  \~ ,
+                  ~           \           '-,   \,'  /\/  |
+                       ,~'\_   \_ _,       /'    '   |, /|'
+65 million years ago  /     \_   ~ |      /   India  \  ~'; -,_.
+dinosaurs died out,   |       ~\    |    |  , was an  '-_, ,; ~ ~\
+the Atlantic was       \,      /    \    / /|  island      ,-, ,
+half its current width, |    ,/      |  |' |/ then, and  ,-   ~ \   '.
+& our ancestors were   ,|   ,/       \ ,/ the coastlines \       |
+small furry climbers   /    |         ~were all different.-~~-, /   _
+with good eyes and     |  ,-'                                  ~    /
+grasping fingers.      / ,'    The 30 million generations since
+                       ',|    have explored every imaginable social
+                         ~' structure hundreds or thousands of times.
+This intelligence is encoded in our DNA as social intuition, regarding
+territory, dominance, and sexuality.
+
+
+        _  ,   .                                       ,_   .  ._. _.  .
+      ;-'-'  ~-',    ,;_;_,    ~~-                 , _-\','|~\~~ ~~ ~~/
+     /  /  |_/~-/-/~~      ~~--~~~~'---_  /~~-\_/-'~'--' \~~| \,/' _-|
+  , '|,'| 50-100,000 years ago,_/-, /~~   /              ,/'-/~ '\./   '
+  ,\ /'~ modern humans spread /_  /~      ~/-'~\_,       '-,| '|. '
+  _\~     ,_ . out over the    /|       .-~      '|        '',\~|\
+  |_/~\\,-,~' \  planet... ,_,/ |                 '\        /'~
+  _-~'\_ _~|               \ ) /                   |       /  .
+./      ~ |\  \_           /  ~                     \   __-\
+|..from a  \\_' ~|  /~\  \~ ,             .,         '\ |,  ~-_       .
+\north African,   \,'  /\/  |                          ~-_'    ;
+ \_ _, origin/'    '   |, /|'                            '\_,~'\_
+   ~ |      /          \  ~'; -,_.                         / and \_
+      |    |  ,         '-_, ,; ~ ~\                       |reached~\
+      \    / /|             ,-, ,   -,                      \, here /
+       |  |' |/           ,-   ~ \   '.                      | 10 ,/
+       \ ,/               \       |                         ,|000 /
+        ~                  -~~-, /   _                      / yrs|
+                                ~    /                      |ago-'
+                                ~                           / ,'
+Their culture worldwide included fire, bow and arrow,       ',|  ~
+fishnets, baskets, tame dogs, burial of dead, and *speech*.   ~'
+Details like politics and religion had thousands of variations
+that their simple vocabulary was incapable of articulating precisely.
+Land belonged to the tribe that defended it.  Ancestor worship was also
+universal.  There may have been marco-polo-type individuals who travelled
+thousands of miles on foot.
+
+
+                ,_   .  ._. _.  .        _  ,   .
+            , _-\','|~\~~ ~~ ~~/       ;-'-'  ~-',    ,;_;_,    ~~-
+   /~~-\_/-'~'--' \~~| \,/' _-|       /  /  |_/~-/-/~~      ~~--~~~~'---_
+   /              ,/'-/~ '\./   '  , '|,'|~   '                ._/-, /~~
+   ~/-'~\_,       '-,| '|. '       ,\ /'~  10,000 yrs ago the  /_  /~
+ .-~      '|        '',\~|\        _\~     ,_ .  ice age ended, /|
+           '\        /'~           |_/~\\,-,~' \ less rain fell, |
+            |       /  .           _-~'\_ _~|agriculture arose.) /
+             \   __-\            ./The Nile|\  \_           /  ~
+   .,         '\ |,  ~-_       . | produced \\_' ~|  /~\  \~ ,
+                ~-_'    ;        \  pharaohs '-,   \,'  /\/  |
+                  '\_,~'\_        \_ _, 5000  /'    '   |, /|'
+                    /     \_        ~ | years/          \  ~'; -,_.
+                    |       ~\         | ago, (& the best'-_, ,; ~ ~\
+                     \,      /         \    / /| sculpture   ,-, ,   -,
+                      |    ,/           |  |' |/  ever...) ,-   ~ \   '.
+                     ,|   ,/            \ ,/               \       |
+                     /    |              ~                  -~~-, /   _
+                     |  ,-'   while human culture shifted from   ~    /
+                     / ,'        reasonable equality to         ~
+                     ',|  ~     *large-scale technology*
+                       ~'   requiring new ways of thinking, and
+                           new strategies for social _mindcontrol_:
+   1) Meet resistance with fast-escalating violence.
+   2) Impose a social mythology that resistance is wrong.
+Diverse tribes had to be integrated.  Land belonged to the ruling family.
+Myths of inequality had to be introduced.  Rulers' new inaccessibility
+enabled irresponsibility.  The citizenry evolved self-consciousness via
+self-control: deference to the absent ruler.
+
+
+                ,_   .  ._. _.  .        _  ,   .
+            , _-\','|~\~~ ~~ ~~/       ;-'-'  ~-',    ,;_;_,    ~~-
+   /~~-\_/-'~'--' \~~| \,/' _-|       /  /  |_/~-/-/~~      ~~--~~~~'---_
+   /              ,/'-/~ '\./   '  , '|,'|~   '                ._/-, /~~
+   ~/-'~\_,       '-,| '|. '       ,\ /'~                 /    /_  /~
+ .-~      '|        '',\~|\        _\Catholic .  .              /| Not
+           '\        /'~           |_/~\\,-,~' \ "          ,_,/ | even
+            |       /  .           _-~'\_ _~| Islam    Buddhist) / the
+             \   __-\            ./      ~ |\  \_ Hindu      /  ~  best
+   .,      Maya\ |,  ~-_       . |          \\_' ~|  /~\  \~ , intentioned
+                ~-_'    ;        \           '-,   \,'  /\/  | leaders can
+Evolving weaponry '\_,~'\_        \_ _,       /'    '   |, /|' rule wisely
+unleashes an unending     \_        ~ |      /          \  ~'; -,_.   for
+series of violent   |       ~\         |    |  ,         '-_, ,; ~ ~\ long
+conquests, one       \,Inca  /         \    / /|             ,-, ,   -,
+megalomaniacal        |    ,/           |  |' |/           ,-   ~ \   '.
+religion against     ,|   ,/            \ ,/               \       |
+another, as the first/    |              ~                  -~~-, /   _
+attempts are made    |  ,-' Though Islam and Catholicism both    ~    /
+to formulate ethics  / ,' revere a Jewish revolutionary, executed 2000
+in words.            ',| years ago for claiming *all* are equally beloved
+                       ~of god, and that *only the homeless are blameless*
+                  ...still everyone interprets these doctrines differently.
+
+
+                ,_   .  ._. _.  .        _  ,   .
+            , _-\','|~\~~ ~~ ~~/       ;-'-'  ~-',    ,;_;_,    ~~-
+   /~~-\_/-'~'--' \~~| \,/' _-|       /  /  |_/~-/-/~~      ~~--~~~~'---_
+   /              ,/'-/~ '\./   '  , '|,'|~Catholicism fragments./-, /~~
+   ~/-'~\_,       '-,| '|. 'Newton ,\ /'~                 /    /_  17th C
+ .-~      '|     B  'F,\Shakespeare_\~ DaVinci.  .              /|spheres
+500 years  '\     F  /'~     Defoe |_/~\\,-,~' \ "          ,_,/ |    of
+ago European|   F  B/  .           _-~'\_ _~|               \ )influence:
+ Christians  \ S __-\S          P./      ~ |\ B\_     B     / D~   French
+ win a huge   '\ |,  ~-_       . |F         \\_'P~|D /~\  \~ ,    Spanish
+advantage when  ~-_'  S ;BFD     \B          '-,   \,'  /\/P |S   British
+ technological    '\_,~'\_        \_ B,       /'    '   |, /|' Portuguese
+ advances allow     /    D\_        ~ |      /          \  ~'; -,_. Dutch
+ their navies to    |S      ~\         |P  P|  ,         '-_,D,; ~ ~\
+colonize the world.  \,     P/         \    / /|             ,-, ,   -,
+Their worldview is    |    ,/      B    |  |' |/FD         ,-   ~ \   '.
+intensely moralistic, |   ,/            \D,/               \D      |   B
+ hypocritical, and   /  S |              ~                  -~~-, /   _
+    hierarchical.    |  ,-'The printing press carries the record ~    /
+                     / ,'   of humanity's limited self-insight to~
+Individual ownership ',|  ~  a mass audience, with Greece and Rome
+of land via inheritance.      (via Islam) providing the foundation.
+
+
+                ,_   .  ._. _.  .        _  ,   .
+            , _-\','|~\~~ ~~ ~~/       ;-'-'  ~-',    ,;_;_,    ~~-
+   /~~-\_/-'~'--' \~~| \,/' _-|       /  /  |_/~-/-/~~      ~~--~~~~'---_
+   /              ,/'-/~ '\./Willam, '|,'Tolstoy and Flaubert  ._/-, /~~
+   ~/-'~\_,       '-,| '|. ' Blake ,\ /'achieve new levels of  /_  /~
+ .-~      '|        '',\~|\ Karl   _\~ psychological subtlety   /Mendeleev
+American colonists   /'~     Marx  |_/~\\,-,~'  in language.,_ inventories
+revive democratic   /  .           _-~'\_ _~|               \ the chemical
+models based on   __-\US Civil War/      ~ |\  \_           /    elements.
+native American\ |,  ~-_ raises |          \\_' ~|  /~\  \~ ,
+ societies.     ~-_' industrialization      '-,   \,'  /\/  |
+                  '\_,~'\_  to a  \_ _,      /'    '   |, /|'
+             Darwin /     \_  new   ~ |     / Colonies \  ~'; -,_.
+         undermines |       ~\ level.  |    |  ,  rebel  '-_, ,; ~ ~\
+           religious \,      /         \    / /| worldwide,  ,-, ,   -,
+             models.  |    ,/           |  |' aristocracies,-   ~ \   '.
+                     ,|   ,/            \ ,/are overthrown.\       |
+                     /    |              ~                  -~~-, /   _
+                     |  ,-'                                      ~    /
+                     / ,'                                        ~
+                     ',|  The process of scientific discovery is defined.
+                       ~'
+
+                ,_   .  ._. _.  .        _  ,   .
+            , _-\','|~\~~ ~~ ~~/       ;-'-'  ~-',    ,;_;_,    ~~-
+   /~~-\_/-'~'--' \~~| \,/' _-| Joyce /  /  |_/~-/-/~~      ~~--~~~~'---_
+   /     Ruthless ,/'-/~ '\./ conquers|,'|~  Communism vs      ._/-, /~~
+   ~/-'~\_, greed '-,| 'literature ,\ /'~ Capitalism proves an /_  The
+ .-~      '|prevails',\~|\  with   _\~    ,_ .  . unequal      /| brain-
+           '\        /'~  Ulysses, |_/~\\,-,~' \ "  battle. ,_,/ computer
+            |       /then throws it_-~'\_ _~|               \ )  metaphor
+  Hollywood  \   __-\into disarray/ The  ~ |\  \_           /  is proposed
+  takes over  '\ |,  ~-_  with . |  genetic \\_' ~|  /~\  \~ ,  while
+   popular      ~-_'    Finnegans\   code is '-,   \,'  /\/  | behavioral
+  mythmaking.     '\_,~'\_  Wake. \_ _,broken./'    '   |, /|' science
+                    /     \_        ~ |      /          \  ~'; founders.
+                    |Industry\         |    |  ,         '-_, ,; ~ ~\
+                     \poisons/         \    / /|             ,-, ,   -,
+  The broadcast       nature/  Academia |  |' |/           ,-   ~ \   '.
+   spectra are       ,|   ,/ substitutes\ ,/               \       |
+  dominated by the   /    |  status-wars ~                  -~~-, /   _
+  corporate agenda.  |  ,-'  for scholarship.                    ~    /
+                     / ,'                                        ~
+                     ',|  ~
+                       ~'
+
+
+                ,_   .  ._. _.  .        _  ,   .
+            , _-\','|~\~~ ~~ ~~/       ;-'-'  ~-',    ,;_;_,    ~~-
+   /~~-\_/-'~'--' \~~| \,/' _-|       /  /  |_/~-/-/~~      ~~--~~~~'---_
+   /              ,/'-/~ '\./   '  , '|,'|~   '                ._/-, /~~
+   ~/-'~\_,       '-,| '|. ' Elvis ,\ /'~                 /    /_  /~
+ .-~      '|        '',\~|\Costello_\~     ,_ .  .              /|
+Birth-control        /'~adds anger |_/~\\,-,~' \ "          ,_,/ |
+pill creates|       /  .  to the   _-~'\_ _~|               \ ) / Internet
+a sexual     \   __-\    rock mix./      ~ |\  \_           /  ~challenges
+revolution,   '\ |,  ~-_       . |          \\_' ~|  /~\  \~ ,  broadcast
+challenging     ~-_'  Cyc project\           '-,   \,'  /\/  |  monopoly.
+taboo after taboo.'\_,~'\_tries to\_ _,Bonobo /'    '   |, /|'
+                    /     \_ create ~ |'Eden'/          \  ~'; -,_.
+Electric guitar and |       ~\ mind    found!  ,         '-_, ,; ~ ~\
+rock'n'roll re-awaken\,      /  in a   \    / /|             ,-, ,   -,
+the urge to freedom.  |    ,/computer by|  |' |/           ,-   ~ \   '.
+                     ,|   ,/an inventory\ ,/               \       |
+Sociobiology uses    /    |   of human   ~                  -~~-, /   _
+Darwin for a new     |  ,-'  experience.                         ~    /
+approach to ethics.  / ,'                                        ~
+                     ',|  ~
+                       ~'
+

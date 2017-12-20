@@ -1,0 +1,254 @@
+
+--------------------------------------------------------------------------
+
+@                               _                                  ,,
+ \\   _   @'                    ( )_                       .      _  \\
+  \\_( )_//                    / Y |                   .      /--( )_//
+    | Y/--                    /\   /               .        '//  \~ \
+    |_/       _ / o"         ( _\ /            .                   - \
+  _ //\      | | |    .       \_\\\        .                     //  \\--,
+ /_// /      | | |      .    / \ \\\ .                           \\
+/ // /_______|_|_|__________/_/_\ \_______________________________\\______
+-------------------------------------------- Play Cricket ----------------
+Unknown
+
+
+
+
+
+From: Harish Y S 
+
+ Bowler         Batsman        Wicket-Keeper     Fielder
+
+     o             @            _    ___              
+    \O_         ==/\           \\O  |||         \__/O
+     |         o  //           /<o  |||         _| \,o
+    _|\           ||
+      /
+
+
+
+
+
+
+
+
+           -=[ cricket player ]=-  3/01
+                           _
+                          ( \
+                          _\ \
+                         /,_\,\
+                       .-\__/_\\
+                       | .____`))
+                       |    /\//
+                       |___/\_/
+                       ; -'\
+                      /  |\_\  ()
+                      |'-| |_|
+                      /-/  | |
+                jgs  /_/   ( \
+                    (_/     '-'
+                     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           ?!?               H
+                               O
+           **\           O       W
+           * o\         /\         Z
+           |   >       /\      O     A
+           \_~/       / /     _/\      T
+            ||                  /    O   !
+            |\\     _           \   _/\
+            ||\\   | | `  O           /
+            || \\  | |______          \
+            ||  U====(______)
+            ++     | |  /               -Alan Iwi-
+            ||     | | /
+            || ~~~~~~~~~~~~~~~
+            ||/               \
+            ||_                \
+            |_                  \
+           /---------------------\
+
+
+
+
+From: Ganesh
+
+[...]
+They belong to a Cricket FAQ available at http://go.to/rsc-faq
+Help with the FAQ itself also eagerly solicited! ;-)
+
+
+                For a Right Handed Batsman(RHB)
+
+
+                          -----
+                          | | |         stance of a right-hander
+                          | | |       /
+              offside<----| | |     /
+                          | |||  |/
+                             |   |--->legside
+                           --' --'    or onside
+
+
+
+                 For a Left Handed Batsman(LHB)
+
+
+
+                           -------
+                           |  |  |        stance of a left-hander
+                           |  |  |     /
+                           |  |  |---/-------->offside
+                         | | ||  | /
+          legside<-------|   |   /
+          or onside      `-- `--
+
+
+
+FIElDING Positions
+
+
+
+
+                                      Square
+                                     /
+                                  |/
+                      *   *    *  | *         wider<--------.
+                *   \             |      *                   \
+            *         \    cover  |          *                \
+        *               \        p|          3rd*              \
+      *           off     \       | gully     man *             |
+     *                      \     |                 *           |
+    *                  ||-----\---||                 *          V
+    *------------------||       \ ||wk---------------*          finer
+    *                  ||------/--||                 *
+     *                       /    |                 *           finer
+      *           on       / mid- |      leg       *            ^
+        *                / wicket |              *              |
+           *           /          |          *                  |
+                *    /            |      *                     /
+                   / *    *    *  | *                        /
+                       forward<---|--->backward     wider<--'
+                               squ|are
+
+ONE MORE FIELDING DIAGRAM
+
+
+
+                                                      GLOSSARY
+  .---------------------------------------------.
+ /                "off side"                     \  1 1st slip
+|                                                 |  2 2nd slip
+|  l-              cv    cp                 3m    |  3 3rd slip
+|            ec              p  g                 |  4 4th slip
+|                                  4              |  5 leg slip
+|               m-                  3             |  cv cover
+|                                    2            |  p point
+|                            s       1            |  g gully
+|           B->>     ||-------||   Wk             |  f forward -
+|                   U||-------||                  |    short leg
+|                            f    5               |  s silly point
+|                                           fine  |  dl deep fine/
+|               m+                            |   |     square leg
+|                                             |   |  3m 3rd man
+|  l+                   mw                   dl   |  l+ long on
+|                            sl              /    |  l- long off
+|                            U              /     |  mw mid-wicket
+|                                         square  |  sl square leg
+|            "leg side"                           |  m+ mid on
+|                                                 |  m- mid off
+`\           field positions for RHB X           /'  cp cover-point
+  `---------------------------------------------'
+
+
+[3.3] Why do batsmen make those marks in the crease?
+
+                          |
+                          |
+                          |
+                          |-----------------------
+                          |           |
+                          |           |
+                          |           |
+                          |           |
+                          |           o<---- off stump (of RHB)
+                          |           |
+                       3 ---          o<---- middle stump
+  ---->>ball           2 ---          |
+                       1 ---          o<---- leg stump
+                     /    |           |
+                   /      |           |
+                 /        |           |
+               /          |           |<----- Bowling crease
+             /            |-----------------------
+            Guard chosen  |
+                          |<----- Popping crease
+                          |
+
+
+1 - leg
+2 - middle and leg
+3 - middle stump
+
+
+
+
+                                                       |
+                                                       |--------
+       /                         |                     |   |
+     /   /                     | `------               |   |
+  \/   /<---- Open stance      `------       -->>ball  |   |
+    \/                            ^                    |   |
+                                  |                    |---------
+                                  |                    |
+                                   Closed stance
+
+
+[5.1] When is a batsman out LBW?
+
+           -----
+          |  |  |
+          |  |  |
+off <-----|  |  |----> leg stump(for a right-hander)
+stump   --|--|--|--
+       |__|__|__|__|
+       |           |
+  -----|-----------|-------
+       |  |     |  |
+       |  |     |  |
+       |A |  B  |C |
+       |  |     |  |
+       |  |     |  |
+
+A = Outside off stump
+B = In-line with the stumps
+C = Outside legstump
+
+
+[5.3] Crease marks defined.
+
+       |                             |<----- Popping crease
+-------|                             |-------
+   |   |                             |   |
+   |   |                             |   |<---- Bowling crease
+   |   |                             |   |
+   |   |                             |   |
+-------|                             |-------<--- Return crease
+       |                             |
+
+
+

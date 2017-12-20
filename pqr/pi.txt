@@ -1,0 +1,29 @@
+   3.141592
+  653589793
+ 23    84
+6 2    64
+  3    38
+  3    27
+  9    50 2
+8 8    4197
+ 16     93  SS
+
+
+(43 digits)
+
+
+
+
+
+
+
+
+
+
+From: zhuhail@vax.sbu.ac.uk
+
+How about following two line pi?
+
+
+      __   __   __   _    __
+      ||   /L   JL   "    )L

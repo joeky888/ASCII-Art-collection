@@ -1,0 +1,24 @@
+From: BoD 
+
+
+This curve comes from the netfilter packet filtering HOWTO from Rusty Russell 
+http://www.netfilter.org/unreliable-guides/packet-filtering-HOWTO/packet-filtering-HOWTO.linuxdoc-7.html
+
+
+
+
+       rate (pkt/s)
+             ^        .---.
+             |       / DoS \
+             |      /       \
+Edge of DoS -|.....:.........\.......................
+ = (limit *  |    /:          \
+limit-burst) |   / :           \         .-.
+             |  /  :            \       /   \
+             | /   :             \     /     \
+End of DoS  -|/....:..............:.../.......\..../.
+ = limit     |     :              :`-'         `--'
+-------------+-----+--------------+------------------> time (s)
+   LOGIC =>  Match | Didn't Match |    Match
+
+

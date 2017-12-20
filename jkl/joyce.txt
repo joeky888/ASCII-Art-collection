@@ -1,0 +1,269 @@
+
+
+               |||      |||                  ||                        |
+              || |      |||                 ||                          |
+               |||  ||||                    |                  ;         |
+             ||| ||||   ||                 ||              ::::;\        ||
+                    ||||                   | :      :::    ;;;;///6|      |
+                            ///|||||||||||| |::          :::;;;;//6|     ||
+                         ////    ||      || |               ;; //C6|   |//|
+              ||| |||  ///      ||||  ||    | _-_ =    dBCB~~-//C66||/6   |
+              | ||     |    |||||   |||||   |/_=-\\   'JBPYA\  /C //CC6   |
+               |      ||        ||    | |   |'<6>>|/~~|B~6 >||||/ ;//C66 ||
+      ||||     || |||||    ||    ||         |\  ")    |\`~  //    ;//C66||
+   ||||  ||||||||||||       ||              | `~~'      ~-~'/     ;//C6
+|||                          |              |      ,   \        ;;;/CC6
+ |                                          |     '"    JU:  :;;;;;//66
+ ||                                         ', '   ~-_=dR:  : ;;;;//66
+     ||||                                    \   -,  _   _     ;;;/C6 |
+      |                                      ',    ~-==-~`'   ;;;//6 ||
+             || |                              \           ::;;;//6%6|||
+             ||||                               '          ;///C%%%%/| |
+                                                 '|-___-|||CC666%%%/|  |||
+                                                  "||||||   6%%%%//      ||||
+
+jorn
+
+
+
+
+
+
+
+
+ 
+          _,--.
+       ,-'     \
+      /         \     _
+     ;           ;_,-' )
+     )                 /
+     |          _,-.  /
+     |       _,-'   )/
+   ,-'    _,-'    - .-
+  ;     ,-'------( )\_)
+  `     \(@;      -  )
+   \     \\;       `-;
+     .__.-'-       ###
+        `   .     -==|
+        | ', .       ;
+        /.  .     _.-'
+    _.-',  . .   /
+                (                David Riley
+
+
+
+
+
+
+
+
+
+
+From: Jorn Barger 
+
+
+
+ 
+ 
+I haven't done much ascii-art for the last few years, building my
+website instead. But I still like to do maps, and I've done a lot of
+them for my James Joyce pages (GIFs only), showing where around Dublin
+the events in his books (and life) take place. But I recently realized I
+could bring a lot of this together into a compact ascii-art version that
+teachers (eg) could email around... and just now I came up with a nifty
+trick (ascii-art only) for the 'key' that explains things:
+ 
+A less-spartan GIF version (with tramlines marked) is at: 
+http://www.robotwisdom.com/jaj/jajdublin.html
+ 
+====================================================================
+ 
+\ Royal     Gs                                               Lu ->->
+  \canal           TK            J95
+    \
+       ~~~ -- __                                         _____
+                 ~~-- J34         He       J99 J00 J97  /888888~~--_
+            J02       ~~~---___Mu              J01     /888888888888
+                        J01    ~~~---___AH    WM       \888888888888
+                                      J96\              \88888888888
+                         L04    Sh J93    \              \8888888888
+                            J03            |              \888888888
+   L93                     \ Bv             \              \88888888
+                   J09 BC   \ F95            |              \8888888
+                   KI        \      nt       \               \SI 888
+                              \Gh             |               ~~~|88
+                    lib V09    \              |                  |88
+              Ch   BK         FJ              |               ___|88
+Liffey                          \ Eu mg       |              |888888
+--___                           _\-----______________________|888888
+     ~~---___       Or __---~~~   ~~~~~----______8888888888888888888
+         Ush ~~~--_--~~~           Ac            ~~~~~~---____888888
+               A&E                               |            ~~__88
+                                  Fh            |           Enc   ~~
+                              DB NL     L95     |
+                                               /
+                           Iv                  |                 RG
+                                   OG          |   LC
+                     L88       Uc       TG   _/     J04   HF  PD
+                  L93  NTS Hs              _/                     JC
+                 J81                    _/~
+                                     _/~
+ M88          L93                __/~
+~~~----____      L66    ___---~~~
+Grand      ~~~---___--~~EC  L97
+canal                                                       Ab
+ 
+               HC
+ 
+ 
+                          J84
+ 
+ 
+ 
+ 
+ 
+ 
+            J82      AE
+<-<-<-<- Cg
+ 
+=======================================================================
+Key (north to south, in strips):
+ 
+\ Royal     Gs                                               Lu ->->
+  \canal           TK            J95
+ 
+Gs: Glasnevin cemetery (Ulysses ch6)
+TK: Tom Kernan's fictional house (plus Fogarty the grocer's) [Grace]
+J95: 2 Millbourne ave, Drumcondra, Jul94-?96 (1904 valuation: £17)
+Lu: Lucy the birdgirl (PoA4 1898)
+ 
+                 ~~-- J34         He       J99 J00 J97  /888888~~--_
+            J02       ~~~---___Mu              J01     /888888888888
+ 
+J02: 7 St Peter's terrace, Cabra Sep02-?05 (1904 valuation: £20)
+J34: Whitworth and Claude roads. Memorial bench for JSJ proposed by 
+     James in 1934 letter but never carried thru [e644]
+Mu: uncle John Murray's (cf 'Clay')
+He: 'Heron's' attack in PoA2 c1895
+J99: Convent avenue, Fairview (summer only)
+J00: 13 Richmond avenue, Fairview (Oct99-May00)
+J97: 29 Windsor avenue, Fairview (Oct96-Jun99) (1904 valuation: £17)
+J01: 8 Royal terrace, Fairview (May00-Oct01)
+ 
+                       J01    ~~~---___AH    WM       \888888888888
+                                      J96\              \88888888888
+ 
+J01: 32 Glengariff parade (Oct01-Sep02)
+J96: 13 North Richmond street summer only? (approx 1904 valuation: £19)
+AH: Alfred Hunter, Ballybough road. Maybe the site where Hunter took
+    Joyce after fracas [pc231]
+WM: William Murray and Aunt Jo, North Strand road, Fairview (approx,
+    1902?-1904)
+ 
+                         L04    Sh J93    \              \8888888888
+                            J03            |              \888888888
+ 
+L04: 7 Eccles street
+J03: (uncertain, late 1903) Waverly House, Hardwicke street (cf 'The
+     Boarding House')
+Sh: Sheehy's
+J93: 14 Fitzgibbon street Nov92-Jul94 (approx 1904 valuation: £25)
+ 
+   L93                     \ Bv             \              \88888888
+                   J09 BC   \ F95            |              \8888888
+                   KI        \      nt       \               \SI 888
+ 
+L93: City Arms hotel
+KI: King's Inns (cf "A Little Cloud")
+J09: 44 Fontenoy (Aug, Nov-Dec 1909)
+BC: Black Church (Ulysses ch15 passim)
+Bv: Belvedere college
+F95: Flynn's Drapery in "The Sisters"
+nt: nighttown (PoA2 and Circe)
+SI: Smoothing Iron bathingplace [Encounter]
+ 
+              Ch   BK         FJ              |               ___|88
+Liffey                          \ Eu mg       |              |888888
+ 
+Ch: Church street chapel (PoA3 confession)
+BK: Barney Kiernan's pub (Ulysses ch12)
+lib: Capel street library
+V09: Volta theatre, 45 Mary street
+FJ: Freeman's Journal (Ulysses ch7)
+Gh: Gresham hotel (cf 'The Dead')
+Eu: cabman's shelter (Ulysses ch16)
+mg: City morgue (after play in PoA2)
+ 
+     ~~---___       Or __---~~~   ~~~~~----______8888888888888888888
+         Ush ~~~--_--~~~           Ac            ~~~~~~---____888888
+               A&E                               |            ~~__88
+ 
+Ush: Misses Flynn's, Usher's Island (cf 'The Dead')
+A&E: Adam & Eve's (FW003)
+Or: Ormond hotel (Ulysses ch11)
+Ac: Antient Concert Rooms (cf 'A Mother')
+ 
+                                  Fh            |           Enc   ~~
+                              DB NL     L95     |
+ 
+DB: Davy Byrne's (Ulysses ch8)
+NL: National Library (Ulysses ch9)
+Fh: Finn's hotel
+L95: Holles street and maternity hospital
+Enc: 1894 Dubliners 'Encounter'
+ 
+                           Iv                  |                 RG
+                                   OG          |   LC
+ 
+Iv: Wicklow street (cf 'Ivy Day')
+OG: Gogarty in 1909, Ely place
+LC: Little Chandler [Counterparts] and maybe uncle Wm Murray pre-1902
+RG: Richie and Sara Goulding's, Strasburg terrace [Proteus]
+ 
+                     L88       Uc       TG   _/     J04   HF  PD
+                  L93  NTS Hs              _/                     JC
+                 J81                    _/~
+ 
+J81: 30 Emorville ave, where JAJ was conceived
+L93: Lombard
+L88: Pleasants
+NTS: Irish Natl Theatre Society rehearsal space in Camden Hall
+     [e160, pc224]
+Hs: Erasmus Smith High School
+Uc: University college
+TG: Corley's half-sovereign passed here, Baggot street [TwoGallants]
+J04: McKernans where JAJ stayed Apr-Aug 1904. Also Blazes
+     Boylan's/ Beggars Bush [Circe]
+HF: Dodder river where Brigid Gannon's corpse was found in 1900, PC
+    Henry Flower accused of the murder
+PD: Paddy Dignam's, Newbridge ave [Hades]
+JC: (approx) James and Gretta Cousins's, Strand road, Sandymount
+    (occasional short stays eg 15 June and September)
+ 
+ M88          L93                __/~
+~~~----____      L66    ___---~~~
+Grand      ~~~---___--~~EC  L97
+canal                                                       Ab
+ 
+M88: Rehoboth
+L93: Raymond
+L66-85: 52 Clanbrassil street
+EC: Emma Clery's in Stephen Hero
+L97: Ontario
+Ab: Araby bazaar 1894 (also Mirus 1904; also nearby Dublin by Lamplight
+    laundry of "Clay") Royal Dublin Society
+ 
+               HC
+[...]
+                          J84
+[...]
+            J82      AE
+<-<-<-<- Cg
+ 
+HC: Harold's Cross (party in PoA2)
+J84: 23 Castlewood avenue, Rathmines
+J82: 41 Brighton square west, Rathgar
+AE: George 'AE' Russell's 1902 home, Garville rd, Rathgar
+Cg: Clongowes Wood college
+ 
+ 
